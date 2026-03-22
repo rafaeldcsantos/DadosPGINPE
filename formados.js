@@ -439,6 +439,23 @@
     return totals;
   }
 
+  function buildYearLevelTotals(rows, years) {
+    const totals = {};
+    years.forEach((year) => {
+      totals[year] = { Mestrado: 0, Doutorado: 0 };
+    });
+
+    rows.forEach((row) => {
+      const year = row.year;
+      const level = row.level;
+      if (!totals[year]) return;
+      if (level !== "Mestrado" && level !== "Doutorado") return;
+      totals[year][level] += 1;
+    });
+
+    return totals;
+  }
+
   function createProgramTotalsCard(rows) {
     const totals = buildProgramLevelTotals(rows);
     const grand = { Mestrado: 0, Doutorado: 0, Total: 0 };
@@ -488,6 +505,57 @@
               <td class="admissao-matrix-cell">${grand.Doutorado.toLocaleString("pt-BR")}</td>
               <td class="admissao-matrix-cell">${grand.Total.toLocaleString("pt-BR")}</td>
             </tr>
+          </tbody>
+        </table>
+      </div>
+    `;
+    return section;
+  }
+
+  function createYearCumulativeTotalsCard(rows, years) {
+    const totalsByYear = buildYearLevelTotals(rows, years);
+    let acumulado = 0;
+
+    const bodyRowsHtml = years
+      .map((year) => {
+        const mestrado = totalsByYear[year]?.Mestrado || 0;
+        const doutorado = totalsByYear[year]?.Doutorado || 0;
+        const totalAno = mestrado + doutorado;
+        acumulado += totalAno;
+
+        return `
+          <tr>
+            <th scope="row" class="admissao-matrix-program">${year}</th>
+            <td class="admissao-matrix-cell">${mestrado.toLocaleString("pt-BR")}</td>
+            <td class="admissao-matrix-cell">${doutorado.toLocaleString("pt-BR")}</td>
+            <td class="admissao-matrix-cell">${totalAno.toLocaleString("pt-BR")}</td>
+            <td class="admissao-matrix-cell">${acumulado.toLocaleString("pt-BR")}</td>
+          </tr>
+        `;
+      })
+      .join("");
+
+    const section = document.createElement("section");
+    section.className = "stats-card";
+    section.id = "card-formados-acumulado-anual";
+    section.innerHTML = `
+      <div class="stats-card-head">
+        <h2>Total de Formados por Ano (M+D Acumulado)</h2>
+        <p>Totais anuais de Mestrado e Doutorado, sem separação por programa, com acumulado de M+D.</p>
+      </div>
+      <div class="admissao-matrix-wrap">
+        <table class="admissao-matrix" aria-label="Tabela anual de formados com acumulado M mais D">
+          <thead>
+            <tr>
+              <th scope="col" class="admissao-matrix-program">Ano</th>
+              <th scope="col">Mestrado</th>
+              <th scope="col">Doutorado</th>
+              <th scope="col">M + D (Ano)</th>
+              <th scope="col">M + D Acumulado</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${bodyRowsHtml}
           </tbody>
         </table>
       </div>
@@ -590,6 +658,9 @@
     const summaryCard = createProgramTotalsCard(rows);
     cardsRoot.appendChild(summaryCard);
 
+    const cumulativeYearCard = createYearCumulativeTotalsCard(rows, fullYearAxis);
+    cardsRoot.appendChild(cumulativeYearCard);
+
     const tableCard = createGraduatesTableCard(rows, axisEndYear);
     cardsRoot.appendChild(tableCard);
 
@@ -611,7 +682,7 @@
         `Concluídos totais: ${prepStats.status_concluido.toLocaleString("pt-BR")}; ` +
         `concluídos não ISO: ${prepStats.non_iso.toLocaleString("pt-BR")}; ` +
         `concluídos não ISO sem data de conclusão: ${prepStats.without_conclusion_date.toLocaleString("pt-BR")}. ` +
-        `${cardsRendered} painel(is) por nível, 1 painel geral por nível e 2 tabelas. ` +
+        `${cardsRendered} painel(is) por nível, 1 painel geral por nível e 3 tabelas. ` +
         `Eixo anual: ${bounds.min} a ${axisEndYear}.`,
       false
     );
