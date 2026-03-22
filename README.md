@@ -9,18 +9,73 @@ Objetivo deste diretório:
 
 ## Estrutura inicial
 
-- `NOPE/`: pasta local ignorada pelo Git (não versionada).
-- `commit.sh`: script simples para adicionar e commitar mudanças.
+- `RawData/`: dados brutos locais (ignorada no Git), incluindo o arquivo `.mdb`.
+- `Data/`: saídas processadas para versionamento no Git (JSON/CSV etc.).
+- `scripts/`: scripts de extração e transformação.
+- `NOPE/`: pasta local ignorada pelo Git.
+- `commit.sh`: script para `add + commit + push`.
 
 ## Fluxo básico
 
-1. Atualizar ou adicionar arquivos de dados.
-2. Revisar mudanças:
+1. Atualizar o arquivo MDB em `RawData/`.
+2. Gerar metadados de atualização do MDB:
+   `python3 scripts/extract_mdb_update_metadata.py`
+3. Gerar a lista consolidada de alunos (base `CURSO_AL` + join com `GDRPESS`):
+   `python3 scripts/extract_alunos_lista.py`
+4. Revisar mudanças:
    `git status`
-3. Criar commit com o script:
+5. Criar commit e push com o script:
    `./commit.sh "mensagem do commit"`
-4. Enviar para o remoto:
-   `git push`
+
+## Primeira extração implementada
+
+Script:
+- `scripts/extract_mdb_update_metadata.py`
+
+Saída:
+- `Data/mdb_metadata.json`
+
+O script extrai:
+- metadados do arquivo (`nome`, `tamanho`, `mtime`);
+- formato do banco (`mdb-ver`, ex.: `JET4`);
+- data da versão embutida no nome do arquivo (quando existir, ex.: `20250912`);
+- maior `DateUpdate` da tabela de sistema `MSysObjects` (indicador de atualização interna do MDB).
+
+Opções de uso:
+`python3 scripts/extract_mdb_update_metadata.py --help`
+
+Exemplos:
+`python3 scripts/extract_mdb_update_metadata.py`
+`python3 scripts/extract_mdb_update_metadata.py --mdb RawData/Academxp_20250912.mdb --output Data/mdb_metadata.json`
+
+## Lista Consolidada de Alunos
+
+Script:
+- `scripts/extract_alunos_lista.py`
+
+Saídas:
+- `Data/alunos_lista.json`
+- `Data/logs/alunos_lista_extract_log.json`
+
+Campos exportados:
+- `reg_aluno` (formatado como `XXX/YYYY`)
+- `sigla_curs`
+- `status`
+- `d_adimissa` (ISO `YYYY-MM-DD`)
+- `d_final` (ISO `YYYY-MM-DD`, quando disponível)
+- `d_situacao` (ISO `YYYY-MM-DD`, quando disponível)
+- `nivel_cursoal`
+- `nome`
+- `nascimento` (ISO `YYYY-MM-DD`)
+- `nacionalidade`
+- `sexo`
+- `estado`
+
+Regras aplicadas:
+- base de alunos em `CURSO_AL`, com chave única `REG_ALUNO`;
+- exclui registros com `SIGLA_CURS`, `STATUS` ou `D_ADIMISSA` vazios/nulos;
+- faz join com `GDRPESS` para trazer dados pessoais;
+- registra no log totais de entrada, filtros aplicados, importação final e qualidade do join.
 
 ## Observações
 

@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Visão de Alunos | DadosPGINPE</title>
+    <link rel="icon" type="image/svg+xml" href="Images/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/tabulator-tables@6.3.0/dist/css/tabulator_midnight.min.css"
+    />
+  </head>
+  <body>
+    <div class="page">
+      <div class="header">
+        <h1>Visão de Alunos</h1>
+        <p>Tabela interativa com busca, filtros por coluna e ordenação.</p>
+      </div>
+
+      <div class="body body-table">
+        <div class="table-toolbar">
+          <a class="back-link" href="index.html">Voltar para a página principal</a>
+
+          <div class="toolbar-actions">
+            <label class="table-search" for="alunos-global-filter">
+              <span>Busca global</span>
+              <input
+                id="alunos-global-filter"
+                type="search"
+                placeholder="Nome, registro, curso, status..."
+                autocomplete="off"
+              />
+            </label>
+            <button id="alunos-clear-filters" class="table-button" type="button">
+              Limpar filtros
+            </button>
+          </div>
+        </div>
+
+        <p id="alunos-status" class="table-status">Carregando dados...</p>
+        <div id="alunos-table" class="alunos-table" aria-live="polite"></div>
+      </div>
+
+      <div class="footer">
+        Dados extraídos da base de dados do controle acadêmico em carregamento.
+      </div>
+    </div>
+    <script src="https://unpkg.com/tabulator-tables@6.3.0/dist/js/tabulator.min.js" defer></script>
+    <script src="app.js" defer></script>
+    <script src="alunos.js" defer></script>
+  </body>
+</html>

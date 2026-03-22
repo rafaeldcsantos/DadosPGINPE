@@ -1,2 +1,12 @@
 # Ignora tudo dentro da pasta NOPE
 NOPE/
+
+# Dados brutos locais (nao versionar)
+RawData/
+
+# Cache local de Python
+__pycache__/
+*.pyc
+
+# Arquivo de metadados do Finder (macOS)
+.DS_Store

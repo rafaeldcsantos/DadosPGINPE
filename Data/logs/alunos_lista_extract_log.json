@@ -1,0 +1,62 @@
+{
+  "generated_at_utc": "2026-03-22T23:00:38.488372+00:00",
+  "source_file": "RawData/Academxp_20250912.mdb",
+  "base_table": "CURSO_AL",
+  "join_table": "GDRPESS",
+  "required_fields": [
+    "SIGLA_CURS",
+    "STATUS",
+    "D_ADIMISSA",
+    "NIVEL"
+  ],
+  "recognized_program_codes": [
+    "ISO",
+    "PGAST",
+    "PGCAP",
+    "PGCST",
+    "PGMET",
+    "PGETE",
+    "PGGES",
+    "PGSER"
+  ],
+  "curso_al": {
+    "records_total": 8959,
+    "records_imported_success": 8921,
+    "records_skipped_reg_aluno_invalido": 1,
+    "records_skipped_sigla_curs_vazio": 21,
+    "records_skipped_status_vazio": 0,
+    "records_skipped_d_adimissa_vazio": 8,
+    "records_skipped_d_adimissa_invalida": 2,
+    "records_skipped_nivel_vazio": 4,
+    "records_skipped_programa_nao_reconhecido": 2,
+    "records_skipped_by_raw_program": {
+      "ECOSDA": 1,
+      "ECOTEC": 1
+    },
+    "records_by_programa_normalizado": {
+      "ISO": 3487,
+      "PGAST": 287,
+      "PGCAP": 930,
+      "PGCST": 167,
+      "PGETE": 1555,
+      "PGGES": 615,
+      "PGMET": 838,
+      "PGSER": 1042
+    },
+    "records_with_d_final": 3328,
+    "records_with_d_situacao": 4193,
+    "records_with_any_data_conclusao": 4203,
+    "duplicate_reg_aluno": 0,
+    "records_joined_with_gdrpess": 8921,
+    "records_joined_without_gdrpess": 0
+  },
+  "gdrpess": {
+    "records_total": 9026,
+    "records_with_valid_reg_aluno": 9017,
+    "records_with_nome": 8981,
+    "records_skipped_reg_aluno_invalido": 9,
+    "duplicate_reg_aluno": 0,
+    "indexed_unique_reg_aluno": 9017
+  },
+  "output_file": "Data/alunos_lista.json"
+}

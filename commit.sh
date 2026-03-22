@@ -18,3 +18,12 @@ fi
 
 git commit -m "$MSG"
 echo "Commit criado com sucesso: $MSG"
+
+if git rev-parse --abbrev-ref --symbolic-full-name "@{u}" >/dev/null 2>&1; then
+  git push
+else
+  BRANCH="$(git rev-parse --abbrev-ref HEAD)"
+  echo "Upstream nao configurado para '$BRANCH'."
+  echo "Executando: git push -u origin $BRANCH"
+  git push -u origin "$BRANCH"
+fi

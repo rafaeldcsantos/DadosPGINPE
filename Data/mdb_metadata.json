@@ -1,0 +1,17 @@
+{
+  "generated_at_utc": "2026-03-22T13:17:16.631813+00:00",
+  "source_file": "RawData/Academxp_20250912.mdb",
+  "source_file_name": "Academxp_20250912.mdb",
+  "source_file_size_bytes": 163545088,
+  "source_file_modified_utc": "2026-03-22T13:13:37.364346+00:00",
+  "source_filename_date": "2025-09-12",
+  "mdb_format": "JET4",
+  "msysobjects": {
+    "rows_scanned": 1240,
+    "rows_with_valid_dateupdate": 1240,
+    "latest_object_dateupdate": "2025-09-12T14:06:01",
+    "latest_object_name": "AccessLayout",
+    "latest_object_type": -32757,
+    "latest_object_datecreate": "1999-12-28T09:37:41"
+  }
+}

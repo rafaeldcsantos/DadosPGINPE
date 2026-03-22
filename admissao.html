@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admissões de Alunos | DadosPGINPE</title>
+    <link rel="icon" type="image/svg+xml" href="Images/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.plot.ly/plotly-2.35.2.min.js" defer></script>
+  </head>
+  <body>
+    <div class="page">
+      <div class="header">
+        <h1>Admissões de Alunos</h1>
+        <p>Painel visual para evolução de admissões, status e movimentos acadêmicos.</p>
+      </div>
+
+      <div class="body body-stats">
+        <div class="stats-toolbar">
+          <a class="back-link" href="index.html">Voltar para a página principal</a>
+          <p id="admissao-status" class="table-status">Carregando admissões...</p>
+        </div>
+        <div id="admissao-cards" class="stats-cards-stack"></div>
+      </div>
+
+      <div class="footer">
+        Dados extraídos da base de dados do controle acadêmico em carregamento.
+      </div>
+    </div>
+    <script src="app.js" defer></script>
+    <script src="admissao.js" defer></script>
+  </body>
+</html>
