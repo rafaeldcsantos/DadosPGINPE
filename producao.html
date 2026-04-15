@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Produção em Periódicos | DadosPGINPE</title>
+    <link rel="icon" type="image/svg+xml" href="Images/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.plot.ly/plotly-2.35.2.min.js" defer></script>
+  </head>
+  <body>
+    <div class="page">
+      <div class="header">
+        <h1>Produção em Periódicos</h1>
+        <p>Contagem anual de artigos em periódicos, com destaque para presença de discentes/egressos.</p>
+      </div>
+
+      <div class="body body-stats">
+        <div class="stats-toolbar">
+          <a class="back-link" href="index.html">Voltar para a página principal</a>
+          <p id="producao-status" class="table-status">Carregando produção...</p>
+        </div>
+
+        <div class="stats-cards-stack">
+          <section class="stats-card" id="card-producao-geral">
+            <div class="stats-card-head">
+              <h2>Com egressos ou discentes x Sem egressos ou discentes</h2>
+              <p id="producao-resumo">Preparando resumo...</p>
+            </div>
+            <div class="stats-card-grid">
+              <div class="plot-panel plot-panel-large">
+                <h3>Com egressos ou discentes x Sem egressos ou discentes</h3>
+                <div id="producao-chart" class="plot-chart plot-chart-large"></div>
+              </div>
+              <div class="plot-panel">
+                <h3>Com egressos ou discentes x Sem egressos ou discentes (por programa)</h3>
+                <div id="producao-mini-grid" class="mini-plots-grid"></div>
+              </div>
+            </div>
+          </section>
+        </div>
+      </div>
+
+      <div class="footer">
+        Dados extraídos da base de dados do controle acadêmico em carregamento.
+      </div>
+    </div>
+    <script src="app.js" defer></script>
+    <script src="producao.js" defer></script>
+  </body>
+</html>

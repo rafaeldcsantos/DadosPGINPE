@@ -102,8 +102,8 @@
           }
         : undefined,
       margin: { l: 14, r: 14, t: hasTitle ? 40 : 12, b: legend ? 68 : 12 },
-      paper_bgcolor: "rgba(0,0,0,0)",
-      plot_bgcolor: "rgba(0,0,0,0)",
+      paper_bgcolor: "#0d1727",
+      plot_bgcolor: "#0d1727",
       font: { color: "#dbe7ff", family: "Sora, sans-serif" },
       uniformtext: { minsize: 11, mode: "hide" },
       showlegend: legend,

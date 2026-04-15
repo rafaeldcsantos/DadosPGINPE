@@ -1,0 +1,49 @@
+{
+  "dataset": "inpe_programas_colsucup_docente",
+  "sg_entidade_ensino": "INPE",
+  "total_programas": 7,
+  "records": [
+    {
+      "sg_entidade_ensino": "INPE",
+      "cd_programa_ies": "33010013002P1",
+      "nm_programa_ies": "COMPUTAÇÃO APLICADA",
+      "ano_base_referencia_nome": 2024
+    },
+    {
+      "sg_entidade_ensino": "INPE",
+      "cd_programa_ies": "33010013003P8",
+      "nm_programa_ies": "METEOROLOGIA",
+      "ano_base_referencia_nome": 2024
+    },
+    {
+      "sg_entidade_ensino": "INPE",
+      "cd_programa_ies": "33010013005P0",
+      "nm_programa_ies": "SENSORIAMENTO REMOTO",
+      "ano_base_referencia_nome": 2024
+    },
+    {
+      "sg_entidade_ensino": "INPE",
+      "cd_programa_ies": "33010013008P0",
+      "nm_programa_ies": "GEOFÍSICA ESPACIAL",
+      "ano_base_referencia_nome": 2024
+    },
+    {
+      "sg_entidade_ensino": "INPE",
+      "cd_programa_ies": "33010013009P6",
+      "nm_programa_ies": "ENGENHARIA E TECNOLOGIA ESPACIAIS",
+      "ano_base_referencia_nome": 2024
+    },
+    {
+      "sg_entidade_ensino": "INPE",
+      "cd_programa_ies": "33010013010P4",
+      "nm_programa_ies": "ASTROFÍSICA",
+      "ano_base_referencia_nome": 2024
+    },
+    {
+      "sg_entidade_ensino": "INPE",
+      "cd_programa_ies": "33010013011P0",
+      "nm_programa_ies": "CIÊNCIA DO SISTEMA TERRESTRE",
+      "ano_base_referencia_nome": 2024
+    }
+  ]
+}

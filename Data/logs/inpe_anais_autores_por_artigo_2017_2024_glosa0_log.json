@@ -1,0 +1,139 @@
+{
+  "generated_at_utc": "2026-04-08T15:59:40+00:00",
+  "target_sg_entidade_ensino": "INPE",
+  "filter_in_glosa": 0,
+  "input_file_pattern": "br-capes-colsucup-prod-autor-*-bibliografica-anais-*.xlsx",
+  "input_file_count": 12,
+  "input_files": [
+    "br-capes-colsucup-prod-autor-2013a2016-2017-03-01-bibliografica-anais-2013.xlsx",
+    "br-capes-colsucup-prod-autor-2013a2016-2017-03-01-bibliografica-anais-2014.xlsx",
+    "br-capes-colsucup-prod-autor-2013a2016-2017-03-01-bibliografica-anais-2015.xlsx",
+    "br-capes-colsucup-prod-autor-2013a2016-2017-03-01-bibliografica-anais-2016.xlsx",
+    "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-anais-2017.xlsx",
+    "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-anais-2018.xlsx",
+    "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-anais-2019.xlsx",
+    "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-anais-2020.xlsx",
+    "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-anais-2021.xlsx",
+    "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-anais-2022.xlsx",
+    "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-anais-2023.xlsx",
+    "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-anais-2024.xlsx"
+  ],
+  "rows_scanned_total": 7973287,
+  "rows_nonempty_total": 7973287,
+  "rows_filtered_target_glosa0_total": 16157,
+  "rows_skipped_missing_article_id_total": 0,
+  "unique_articles": 4633,
+  "unique_tp_autor_values": [
+    "-",
+    "DISCENTE",
+    "DOCENTE",
+    "EGRESSO",
+    "PARTICIPANTE EXTERNO",
+    "PARTICIPANTE_x0020_EXTERNO",
+    "PÓS-DOC",
+    "_x002D_"
+  ],
+  "years_present": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "meta_conflicts": 0,
+  "output_csv": "Data/inpe_anais_autores_por_artigo_2017_2024_glosa0.csv",
+  "output_tp_csv": "Data/inpe_anais_tp_autor_unicos_2017_2024_glosa0.csv",
+  "per_file_stats": [
+    {
+      "file": "br-capes-colsucup-prod-autor-2013a2016-2017-03-01-bibliografica-anais-2013.xlsx",
+      "rows_scanned": 756686,
+      "rows_nonempty": 756686,
+      "rows_filtered_target_glosa0": 2094,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2013a2016-2017-03-01-bibliografica-anais-2014.xlsx",
+      "rows_scanned": 739598,
+      "rows_nonempty": 739598,
+      "rows_filtered_target_glosa0": 1796,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2013a2016-2017-03-01-bibliografica-anais-2015.xlsx",
+      "rows_scanned": 725343,
+      "rows_nonempty": 725343,
+      "rows_filtered_target_glosa0": 1950,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2013a2016-2017-03-01-bibliografica-anais-2016.xlsx",
+      "rows_scanned": 651637,
+      "rows_nonempty": 651637,
+      "rows_filtered_target_glosa0": 1551,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-anais-2017.xlsx",
+      "rows_scanned": 838825,
+      "rows_nonempty": 838825,
+      "rows_filtered_target_glosa0": 2082,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-anais-2018.xlsx",
+      "rows_scanned": 792341,
+      "rows_nonempty": 792341,
+      "rows_filtered_target_glosa0": 1767,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-anais-2019.xlsx",
+      "rows_scanned": 802192,
+      "rows_nonempty": 802192,
+      "rows_filtered_target_glosa0": 1794,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-anais-2020.xlsx",
+      "rows_scanned": 406248,
+      "rows_nonempty": 406248,
+      "rows_filtered_target_glosa0": 750,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-anais-2021.xlsx",
+      "rows_scanned": 546571,
+      "rows_nonempty": 546571,
+      "rows_filtered_target_glosa0": 579,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-anais-2022.xlsx",
+      "rows_scanned": 500523,
+      "rows_nonempty": 500523,
+      "rows_filtered_target_glosa0": 523,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-anais-2023.xlsx",
+      "rows_scanned": 575425,
+      "rows_nonempty": 575425,
+      "rows_filtered_target_glosa0": 927,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-anais-2024.xlsx",
+      "rows_scanned": 637898,
+      "rows_nonempty": 637898,
+      "rows_filtered_target_glosa0": 344,
+      "rows_skipped_missing_article_id": 0
+    }
+  ]
+}

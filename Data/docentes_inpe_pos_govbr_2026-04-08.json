@@ -1,0 +1,1357 @@
+{
+  "dataset": "docentes_inpe_pos_govbr",
+  "source_root": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao",
+  "collected_at": "2026-04-08",
+  "notes": [
+    "Levantamento manual a partir das paginas de docentes/corpo docente dos 7 programas.",
+    "Nomes preservados em grafia simplificada ASCII para facilitar comparacao e deduplicacao.",
+    "Em alguns programas existem categorias distintas (permanente, colaborador, emerito, coordenador)."
+  ],
+  "total_registros": 168,
+  "records": [
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Jaziel Goulart Coelho",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Massimo Tinto",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Rafael da Costa Nunes",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Tabata Aira Ferreira",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Zulema Abraham",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Alberto Rodriguez Ardila",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Andre de Castro Milone",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Camila Paiva Novaes",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Carlos Alexandre Wuensche de Souza",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Claudia Vilega Rodrigues",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Diego Antonio Falceta Goncalves",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Eder Martioli",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Felipe de Almeida Fernandes",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Flavio D'Amico",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Francisco Jose Jablonski",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Grzegorz Kowal",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Isabel Regina Guerra Aleman",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Joaquim Eduardo Rezende Costa",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Jose Carlos Neves de Araujo",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Marcio Eduardo da Silva Alves",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Marcio Guilherme Bronzato de Avellar",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Odylio Denys de Aguiar",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Paulo Eduardo Freire Stecchini",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGAST",
+      "programa_nome": "Astrofisica",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Ted Leandro de Almeida",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ast/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCAP",
+      "programa_nome": "Computacao Aplicada",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Alan James Peixoto Calheiros",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cap/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCAP",
+      "programa_nome": "Computacao Aplicada",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Celso Luiz Mendes",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cap/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCAP",
+      "programa_nome": "Computacao Aplicada",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Elbert Einstein Nehrer Macau",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cap/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCAP",
+      "programa_nome": "Computacao Aplicada",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Elcio Hideiti Shiguemori",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cap/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCAP",
+      "programa_nome": "Computacao Aplicada",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Gilberto Camara Neto",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cap/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCAP",
+      "programa_nome": "Computacao Aplicada",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Gilberto Ribeiro De Queiroz",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cap/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCAP",
+      "programa_nome": "Computacao Aplicada",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Haroldo Fraga De Campos Velho",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cap/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCAP",
+      "programa_nome": "Computacao Aplicada",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Karine Reis Ferreira Gomes",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cap/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCAP",
+      "programa_nome": "Computacao Aplicada",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Lamartine Nogueira Frutuoso Guimaraes",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cap/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCAP",
+      "programa_nome": "Computacao Aplicada",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Leonardo Bacelar Lima Santos",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cap/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCAP",
+      "programa_nome": "Computacao Aplicada",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Lubia Vinhas",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cap/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCAP",
+      "programa_nome": "Computacao Aplicada",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Nandamudi Lankalapalli Vijaykumar",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cap/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCAP",
+      "programa_nome": "Computacao Aplicada",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Rafael Duarte Coelho Dos Santos",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cap/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCAP",
+      "programa_nome": "Computacao Aplicada",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Reinaldo Roberto Rosa",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cap/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCAP",
+      "programa_nome": "Computacao Aplicada",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Stephan Stephany",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cap/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCAP",
+      "programa_nome": "Computacao Aplicada",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Thales Sehn Korting",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cap/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCAP",
+      "programa_nome": "Computacao Aplicada",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Valdivino Alexandre De Santiago Junior",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cap/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Coordenador",
+      "docente_nome": "Andre Rodrigues Goncalves",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Antonio Donato Nobre",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Evandro Albiach Branco",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Kleber Pinheiro Naccarato",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Luz Adriana Cuartas Pineda",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Ana Paula Dutra de Aguiar",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Angelica Giarolla",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Carlos Afonso Nobre",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Celso von Randow",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Daniel Andres Rodriguez",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Enio Bueno Pereira",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Gilberto Camara",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Gilvan Sampaio de Oliveira",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Gustavo Felipe Balue Arcoverde",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Javier Tomasella",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Jean Pierre Henry Balbaud Ometto",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Laura De Simone Borma",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Lincoln Muniz Alves",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Luciana Vanni Gatti",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Manoel Ferreira Cardoso",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Myanna Hvid Lahsen",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Pedro Ribeiro de Andrade Neto",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Plinio Carlos Alvala",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Regina Celia dos Santos Alvala",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGCST",
+      "programa_nome": "Ciencia do Sistema Terrestre",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Victor Marchezini",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/cst/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Antonio Fernando Bertachini De Almeida Prado",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Denize Kalempa",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Evaldo Jose Corat",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Everson Mattos",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Fernando De Souza Costa",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Fernando Fachini Filho",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Geilson Loureiro",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Isaias de Oliveira",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Jognes Panasiewicz Jr.",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Jose Osvaldo Rossi",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Leonel Fernando Perondi",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Luiz Angelo Berni",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Marcio Teixeira de Mendonca",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Maria de Fatima Mattiello Francisco",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Mauricio Goncalves Vieira Ferreira",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Mauricio Ribeiro Baldan",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Milton de Freitas Chagas Junior",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Patricia Regina Pereira Barreto",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Paulo Henrique De Oliveira Rappl",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Rafael Lopes Costa",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Sergio Luiz Mineiro",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Vladimir Jesus Trava Airoldi",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Waldeir Amaral Vilela",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGETE",
+      "programa_nome": "Engenharia e Tecnologia Espaciais",
+      "categoria": "Docente",
+      "docente_nome": "Walter Abrahao Dos Santos",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ete/corpo-docente-do-curso-de-pos-graduacao-em-engenharia-e-tecnologia-espaciais",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Alicia Luiza Clua de Gonzalez Alarcon",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Andrea Cristina Lima dos Santos Matos",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Ivan Jelinek Kantor",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Severino Luiz Guimaraes Dutra",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Walter Demetrio Gonzalez Alarcon",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Alexandre Alvares Pimenta",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Alisson Dal Lago",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Antonio Lopes Padilha",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Clezio Marcos De Nardin",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Cristiano Max Wrasse",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Delano Gobbi",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Eliah Fernanda de Maria de Sao Sabbas Tavares",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Erico Luiz Rempel",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Esfhan Alam Kherani",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Eurico Rodrigues De Paula",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Ezequiel Echer",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Fabio Becker Guedes",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Hisao Takahashi",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Inez Staciarini Batista",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Jonas Rodrigues De Souza",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Kleber Pinheiro Naccarato",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Livia Ribeiro Alves",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Luis Eduardo Antunes Vieira",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Marcelo Magalhaes Fares Saba",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Maria Paulete Pereira Martins",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Maria Virginia Alves",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Marlos Rockenbach da Silva",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Odim Mendes Junior",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGGES",
+      "programa_nome": "Geofisica Espacial",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Paulo Prado Batista",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ges/corpo-docente",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Enver Manuel Amador Ramirez Gutierrez",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Jose Paulo Bonatti",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Karla Maria Longo de Freitas",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Nelson Jesuz Ferreira",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Renato Galante Negri",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Caio Augusto Dos Santos Coelho",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Carlos Afonso Nobre",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Chou Sin Chan",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Dirceu Luis Herdies",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Eder Paulo Vendrasco",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Gilberto Fernando Fisch",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Iracema Fonseca De Albuquerque Cavalcanti",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Jose Antonio Marengo Orsini",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Luciano Ponzi Pezzi",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Luis Gustavo Goncalves De Goncalves",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Luiz Fernando Sapucci",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Manoel Alonso Gan",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Marcelo Enrique Seluchi",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Natalia Rudorff Oliveira",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Paulo Nobre",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Paulo Yoshio Kubota",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Ronald Buss De Souza",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Saulo Ribeiro De Freitas",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Silvio Nilo Figueroa Rivero",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Simone Marilene Sievert Da Costa Coelho",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Thiago Souza Biscaro",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Pesquisador Emerito",
+      "docente_nome": "Carlos Afonso Nobre",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGMET",
+      "programa_nome": "Meteorologia",
+      "categoria": "Pesquisador Emerito",
+      "docente_nome": "Juan Carlos Ceballos",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/met/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Evlyn Marcia Leao De Moraes Novo",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Joao Antonio Lorenzzetti",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Colaborador",
+      "docente_nome": "Jose Claudio Mura",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Antonio Miguel Vieira Monteiro",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Camilo Daleles Renno",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Claudia Maria De Almeida",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Claudio Clemente Faria Barbosa",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Daniel Andrade Maciel",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Douglas Francisco Marcolino Gherardi",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Fabio Furlan Gama",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Leila Maria Garcia Fonseca",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Lenio Soares Galvao",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Liana Oighenstein Anderson",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Luciano Ponzi Pezzi",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Luiz Eduardo Oliveira e Cruz de Aragao",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Marcos Adami",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Maria Isabel Sobral Escada",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Milton Kampel",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Sidnei Joao Siqueira Sant Anna",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Silvana Amaral Kampel",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    },
+    {
+      "programa_sigla": "PGSER",
+      "programa_nome": "Sensoriamento Remoto",
+      "categoria": "Docente Permanente",
+      "docente_nome": "Thales Sehn Korting",
+      "fonte_url": "https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/ser/docentes",
+      "data_coleta": "2026-04-08"
+    }
+  ]
+}

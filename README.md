@@ -15,6 +15,14 @@ Objetivo deste diretório:
 - `NOPE/`: pasta local ignorada pelo Git.
 - `commit.sh`: script para `add + commit + push`.
 
+Páginas ativas:
+- `index.html`
+- `alunos.html`
+- `estatisticas.html`
+- `admissao.html`
+- `formados.html`
+- `transicoes.html`
+
 ## Fluxo básico
 
 1. Atualizar o arquivo MDB em `RawData/`.
@@ -22,9 +30,11 @@ Objetivo deste diretório:
    `python3 scripts/extract_mdb_update_metadata.py`
 3. Gerar a lista consolidada de alunos (base `CURSO_AL` + join com `GDRPESS`):
    `python3 scripts/extract_alunos_lista.py`
-4. Revisar mudanças:
+4. Gerar a matriz de transição Mestrado->Doutorado por CIC:
+   `python3 scripts/extract_transicao_cic.py`
+5. Revisar mudanças:
    `git status`
-5. Criar commit e push com o script:
+6. Criar commit e push com o script:
    `./commit.sh "mensagem do commit"`
 
 ## Primeira extração implementada
@@ -76,6 +86,22 @@ Regras aplicadas:
 - exclui registros com `SIGLA_CURS`, `STATUS` ou `D_ADIMISSA` vazios/nulos;
 - faz join com `GDRPESS` para trazer dados pessoais;
 - registra no log totais de entrada, filtros aplicados, importação final e qualidade do join.
+
+## Matriz de Transição (CIC)
+
+Script:
+- `scripts/extract_transicao_cic.py`
+
+Saídas:
+- `Data/transicao_cic_mestrado_doutorado.json`
+- `Data/transicao_cic_mestrado_doutorado.csv`
+- `Data/logs/transicao_cic_mestrado_doutorado_log.json`
+
+Definição:
+- identificador do aluno: `GDRPESS.CIC` (apenas dígitos), em modo estrito (sem fallback para `REG_ALUNO`);
+- matriz de transição com linhas = programa de `Mestrado` e colunas = programa de `Doutorado`;
+- categorias: 7 programas reconhecidos + `Outros`;
+- `Outros` cobre os casos sem correspondente no outro nível (ex.: só doutorado ou só mestrado) e também níveis sem programa reconhecido entre os 7.
 
 ## Observações
 

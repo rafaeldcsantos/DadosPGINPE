@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Transições Mestrado-Doutorado | DadosPGINPE</title>
+    <link rel="icon" type="image/svg+xml" href="Images/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.plot.ly/plotly-2.35.2.min.js" defer></script>
+  </head>
+  <body>
+    <div class="page">
+      <div class="header">
+        <h1>Transições Mestrado-Doutorado</h1>
+        <p>Matriz por CIC (modo estrito) e fluxo Sankey entre sete programas e a categoria Outros.</p>
+      </div>
+
+      <div class="body body-stats">
+        <div class="stats-toolbar">
+          <a class="back-link" href="index.html">Voltar para a página principal</a>
+          <p id="transicoes-status" class="table-status">Carregando transições...</p>
+        </div>
+
+        <div class="stats-cards-stack">
+          <section class="stats-card" id="card-transicoes-sankey">
+            <div class="stats-card-head">
+              <h2>Fluxo de Transição (Sankey)</h2>
+              <p id="transicoes-resumo" class="transicoes-meta">Preparando resumo...</p>
+            </div>
+            <div class="stats-card-grid">
+              <div class="plot-panel plot-panel-large">
+                <h3>Mestrado (esquerda) para Doutorado (direita)</h3>
+                <div id="transicoes-sankey" class="plot-chart plot-chart-large"></div>
+              </div>
+            </div>
+          </section>
+
+          <section class="stats-card" id="card-transicoes-matriz">
+            <div class="stats-card-head">
+              <h2>Matriz de Transição</h2>
+              <p>Linhas representam programa do Mestrado e colunas representam programa do Doutorado.</p>
+            </div>
+            <div id="transicoes-matriz"></div>
+          </section>
+        </div>
+      </div>
+
+      <div class="footer">
+        Dados extraídos da base de dados do controle acadêmico em carregamento.
+      </div>
+    </div>
+    <script src="app.js" defer></script>
+    <script src="transicoes.js?v=7" defer></script>
+  </body>
+</html>

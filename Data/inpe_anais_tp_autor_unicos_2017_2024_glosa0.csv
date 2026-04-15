@@ -1,0 +1,9 @@
+tp_autor,coluna_csv,qtd_linhas_autor,qtd_artigos_com_categoria
+-,qtd_tp_autor_sem_informacao,2240,1115
+DISCENTE,qtd_tp_autor_discente,3299,2443
+DOCENTE,qtd_tp_autor_docente,6115,4455
+EGRESSO,qtd_tp_autor_egresso,503,410
+PARTICIPANTE EXTERNO,qtd_tp_autor_participante_externo,3784,2170
+PARTICIPANTE_x0020_EXTERNO,qtd_tp_autor_participante_x0020_externo,111,59
+PÓS-DOC,qtd_tp_autor_pos_doc,104,87
+_x002D_,qtd_tp_autor_x002d,1,1

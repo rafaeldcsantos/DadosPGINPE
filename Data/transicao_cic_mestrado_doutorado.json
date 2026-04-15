@@ -1,0 +1,444 @@
+{
+  "generated_at_utc": "2026-04-07T17:03:27.887184+00:00",
+  "source_file": "RawData/Academxp20260407.mdb",
+  "id_strategy": {
+    "primary": "GDRPESS.CIC (apenas dígitos)",
+    "strict_cic_required": true,
+    "notes": "Sem fallback para REG_ALUNO na matriz; registros sem CIC são excluídos."
+  },
+  "categories": [
+    "PGAST",
+    "PGCAP",
+    "PGCST",
+    "PGMET",
+    "PGETE",
+    "PGGES",
+    "PGSER",
+    "Outros"
+  ],
+  "matrix_rows_mestrado_cols_doutorado": [
+    [
+      68,
+      0,
+      1,
+      0,
+      1,
+      5,
+      0,
+      93
+    ],
+    [
+      0,
+      153,
+      2,
+      0,
+      9,
+      1,
+      4,
+      348
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      2,
+      11,
+      155,
+      1,
+      2,
+      2,
+      296
+    ],
+    [
+      2,
+      6,
+      0,
+      1,
+      194,
+      4,
+      0,
+      749
+    ],
+    [
+      4,
+      1,
+      0,
+      1,
+      6,
+      127,
+      0,
+      121
+    ],
+    [
+      0,
+      18,
+      14,
+      2,
+      3,
+      0,
+      115,
+      587
+    ],
+    [
+      41,
+      210,
+      131,
+      183,
+      249,
+      129,
+      164,
+      0
+    ]
+  ],
+  "row_totals": [
+    168,
+    517,
+    0,
+    469,
+    956,
+    260,
+    739,
+    1107
+  ],
+  "col_totals": [
+    115,
+    390,
+    159,
+    342,
+    463,
+    268,
+    285,
+    2194
+  ],
+  "grand_total": 4216,
+  "matrix_long": [
+    {
+      "mestrado": "PGAST",
+      "doutorado": "PGAST",
+      "count": 68
+    },
+    {
+      "mestrado": "PGAST",
+      "doutorado": "PGCAP",
+      "count": 0
+    },
+    {
+      "mestrado": "PGAST",
+      "doutorado": "PGCST",
+      "count": 1
+    },
+    {
+      "mestrado": "PGAST",
+      "doutorado": "PGMET",
+      "count": 0
+    },
+    {
+      "mestrado": "PGAST",
+      "doutorado": "PGETE",
+      "count": 1
+    },
+    {
+      "mestrado": "PGAST",
+      "doutorado": "PGGES",
+      "count": 5
+    },
+    {
+      "mestrado": "PGAST",
+      "doutorado": "PGSER",
+      "count": 0
+    },
+    {
+      "mestrado": "PGAST",
+      "doutorado": "Outros",
+      "count": 93
+    },
+    {
+      "mestrado": "PGCAP",
+      "doutorado": "PGAST",
+      "count": 0
+    },
+    {
+      "mestrado": "PGCAP",
+      "doutorado": "PGCAP",
+      "count": 153
+    },
+    {
+      "mestrado": "PGCAP",
+      "doutorado": "PGCST",
+      "count": 2
+    },
+    {
+      "mestrado": "PGCAP",
+      "doutorado": "PGMET",
+      "count": 0
+    },
+    {
+      "mestrado": "PGCAP",
+      "doutorado": "PGETE",
+      "count": 9
+    },
+    {
+      "mestrado": "PGCAP",
+      "doutorado": "PGGES",
+      "count": 1
+    },
+    {
+      "mestrado": "PGCAP",
+      "doutorado": "PGSER",
+      "count": 4
+    },
+    {
+      "mestrado": "PGCAP",
+      "doutorado": "Outros",
+      "count": 348
+    },
+    {
+      "mestrado": "PGCST",
+      "doutorado": "PGAST",
+      "count": 0
+    },
+    {
+      "mestrado": "PGCST",
+      "doutorado": "PGCAP",
+      "count": 0
+    },
+    {
+      "mestrado": "PGCST",
+      "doutorado": "PGCST",
+      "count": 0
+    },
+    {
+      "mestrado": "PGCST",
+      "doutorado": "PGMET",
+      "count": 0
+    },
+    {
+      "mestrado": "PGCST",
+      "doutorado": "PGETE",
+      "count": 0
+    },
+    {
+      "mestrado": "PGCST",
+      "doutorado": "PGGES",
+      "count": 0
+    },
+    {
+      "mestrado": "PGCST",
+      "doutorado": "PGSER",
+      "count": 0
+    },
+    {
+      "mestrado": "PGCST",
+      "doutorado": "Outros",
+      "count": 0
+    },
+    {
+      "mestrado": "PGMET",
+      "doutorado": "PGAST",
+      "count": 0
+    },
+    {
+      "mestrado": "PGMET",
+      "doutorado": "PGCAP",
+      "count": 2
+    },
+    {
+      "mestrado": "PGMET",
+      "doutorado": "PGCST",
+      "count": 11
+    },
+    {
+      "mestrado": "PGMET",
+      "doutorado": "PGMET",
+      "count": 155
+    },
+    {
+      "mestrado": "PGMET",
+      "doutorado": "PGETE",
+      "count": 1
+    },
+    {
+      "mestrado": "PGMET",
+      "doutorado": "PGGES",
+      "count": 2
+    },
+    {
+      "mestrado": "PGMET",
+      "doutorado": "PGSER",
+      "count": 2
+    },
+    {
+      "mestrado": "PGMET",
+      "doutorado": "Outros",
+      "count": 296
+    },
+    {
+      "mestrado": "PGETE",
+      "doutorado": "PGAST",
+      "count": 2
+    },
+    {
+      "mestrado": "PGETE",
+      "doutorado": "PGCAP",
+      "count": 6
+    },
+    {
+      "mestrado": "PGETE",
+      "doutorado": "PGCST",
+      "count": 0
+    },
+    {
+      "mestrado": "PGETE",
+      "doutorado": "PGMET",
+      "count": 1
+    },
+    {
+      "mestrado": "PGETE",
+      "doutorado": "PGETE",
+      "count": 194
+    },
+    {
+      "mestrado": "PGETE",
+      "doutorado": "PGGES",
+      "count": 4
+    },
+    {
+      "mestrado": "PGETE",
+      "doutorado": "PGSER",
+      "count": 0
+    },
+    {
+      "mestrado": "PGETE",
+      "doutorado": "Outros",
+      "count": 749
+    },
+    {
+      "mestrado": "PGGES",
+      "doutorado": "PGAST",
+      "count": 4
+    },
+    {
+      "mestrado": "PGGES",
+      "doutorado": "PGCAP",
+      "count": 1
+    },
+    {
+      "mestrado": "PGGES",
+      "doutorado": "PGCST",
+      "count": 0
+    },
+    {
+      "mestrado": "PGGES",
+      "doutorado": "PGMET",
+      "count": 1
+    },
+    {
+      "mestrado": "PGGES",
+      "doutorado": "PGETE",
+      "count": 6
+    },
+    {
+      "mestrado": "PGGES",
+      "doutorado": "PGGES",
+      "count": 127
+    },
+    {
+      "mestrado": "PGGES",
+      "doutorado": "PGSER",
+      "count": 0
+    },
+    {
+      "mestrado": "PGGES",
+      "doutorado": "Outros",
+      "count": 121
+    },
+    {
+      "mestrado": "PGSER",
+      "doutorado": "PGAST",
+      "count": 0
+    },
+    {
+      "mestrado": "PGSER",
+      "doutorado": "PGCAP",
+      "count": 18
+    },
+    {
+      "mestrado": "PGSER",
+      "doutorado": "PGCST",
+      "count": 14
+    },
+    {
+      "mestrado": "PGSER",
+      "doutorado": "PGMET",
+      "count": 2
+    },
+    {
+      "mestrado": "PGSER",
+      "doutorado": "PGETE",
+      "count": 3
+    },
+    {
+      "mestrado": "PGSER",
+      "doutorado": "PGGES",
+      "count": 0
+    },
+    {
+      "mestrado": "PGSER",
+      "doutorado": "PGSER",
+      "count": 115
+    },
+    {
+      "mestrado": "PGSER",
+      "doutorado": "Outros",
+      "count": 587
+    },
+    {
+      "mestrado": "Outros",
+      "doutorado": "PGAST",
+      "count": 41
+    },
+    {
+      "mestrado": "Outros",
+      "doutorado": "PGCAP",
+      "count": 210
+    },
+    {
+      "mestrado": "Outros",
+      "doutorado": "PGCST",
+      "count": 131
+    },
+    {
+      "mestrado": "Outros",
+      "doutorado": "PGMET",
+      "count": 183
+    },
+    {
+      "mestrado": "Outros",
+      "doutorado": "PGETE",
+      "count": 249
+    },
+    {
+      "mestrado": "Outros",
+      "doutorado": "PGGES",
+      "count": 129
+    },
+    {
+      "mestrado": "Outros",
+      "doutorado": "PGSER",
+      "count": 164
+    },
+    {
+      "mestrado": "Outros",
+      "doutorado": "Outros",
+      "count": 0
+    }
+  ]
+}

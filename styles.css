@@ -417,6 +417,19 @@ body {
   border-right: 0;
 }
 
+.transicoes-meta {
+  margin: 0;
+}
+
+.transicoes-matrix .admissao-matrix-cell {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.transicoes-matrix .admissao-matrix-program {
+  width: 170px;
+}
+
 .body-table .tabulator {
   background: #0d1829;
   border: 0;

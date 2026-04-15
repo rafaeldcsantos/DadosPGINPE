@@ -1,0 +1,201 @@
+{
+  "generated_at_utc": "2026-04-08T12:55:59+00:00",
+  "target_sg_entidade_ensino": "INPE",
+  "filter_in_glosa": 0,
+  "input_file_pattern": "br-capes-colsucup-prod-autor-*-bibliografica-artpe-*.xlsx",
+  "input_file_count": 20,
+  "input_files": [
+    "br-capes-colsucup-prod-autor-2013a2016-2017-03-01-bibliografica-artpe-2013.xlsx",
+    "br-capes-colsucup-prod-autor-2013a2016-2017-03-01-bibliografica-artpe-2014.xlsx",
+    "br-capes-colsucup-prod-autor-2013a2016-2017-03-01-bibliografica-artpe-2015.xlsx",
+    "br-capes-colsucup-prod-autor-2013a2016-2017-03-01-bibliografica-artpe-2016.xlsx",
+    "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-artpe-2017-parte1.xlsx",
+    "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-artpe-2017-parte2.xlsx",
+    "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-artpe-2018-parte1.xlsx",
+    "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-artpe-2018-parte2.xlsx",
+    "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-artpe-2019-parte1.xlsx",
+    "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-artpe-2019-parte2.xlsx",
+    "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-artpe-2020-parte1.xlsx",
+    "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-artpe-2020-parte2.xlsx",
+    "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-artpe-2021-p1.xlsx",
+    "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-artpe-2021-p2.xlsx",
+    "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-artpe-2022-p1.xlsx",
+    "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-artpe-2022-p2.xlsx",
+    "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-artpe-2023-p1.xlsx",
+    "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-artpe-2023-p2.xlsx",
+    "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-artpe-2024-p1.xlsx",
+    "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-artpe-2024-p2.xlsx"
+  ],
+  "rows_scanned_total": 13883210,
+  "rows_nonempty_total": 13883210,
+  "rows_filtered_target_glosa0_total": 25045,
+  "rows_skipped_missing_article_id_total": 0,
+  "unique_articles": 6101,
+  "unique_tp_autor_values": [
+    "-",
+    "DISCENTE",
+    "DOCENTE",
+    "EGRESSO",
+    "PARTICIPANTE EXTERNO",
+    "PÓS-DOC"
+  ],
+  "years_present": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "meta_conflicts": 0,
+  "output_csv": "Data/inpe_artpe_autores_por_artigo_2013_2024_glosa0.csv",
+  "output_tp_csv": "Data/inpe_artpe_tp_autor_unicos_2013_2024_glosa0.csv",
+  "per_file_stats": [
+    {
+      "file": "br-capes-colsucup-prod-autor-2013a2016-2017-03-01-bibliografica-artpe-2013.xlsx",
+      "rows_scanned": 755817,
+      "rows_nonempty": 755817,
+      "rows_filtered_target_glosa0": 1652,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2013a2016-2017-03-01-bibliografica-artpe-2014.xlsx",
+      "rows_scanned": 843318,
+      "rows_nonempty": 843318,
+      "rows_filtered_target_glosa0": 2079,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2013a2016-2017-03-01-bibliografica-artpe-2015.xlsx",
+      "rows_scanned": 859796,
+      "rows_nonempty": 859796,
+      "rows_filtered_target_glosa0": 1689,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2013a2016-2017-03-01-bibliografica-artpe-2016.xlsx",
+      "rows_scanned": 917734,
+      "rows_nonempty": 917734,
+      "rows_filtered_target_glosa0": 2086,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-artpe-2017-parte1.xlsx",
+      "rows_scanned": 552526,
+      "rows_nonempty": 552526,
+      "rows_filtered_target_glosa0": 0,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-artpe-2017-parte2.xlsx",
+      "rows_scanned": 552526,
+      "rows_nonempty": 552526,
+      "rows_filtered_target_glosa0": 2637,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-artpe-2018-parte1.xlsx",
+      "rows_scanned": 596359,
+      "rows_nonempty": 596359,
+      "rows_filtered_target_glosa0": 0,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-artpe-2018-parte2.xlsx",
+      "rows_scanned": 596359,
+      "rows_nonempty": 596359,
+      "rows_filtered_target_glosa0": 2586,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-artpe-2019-parte1.xlsx",
+      "rows_scanned": 649102,
+      "rows_nonempty": 649102,
+      "rows_filtered_target_glosa0": 0,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-artpe-2019-parte2.xlsx",
+      "rows_scanned": 649101,
+      "rows_nonempty": 649101,
+      "rows_filtered_target_glosa0": 2488,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-artpe-2020-parte1.xlsx",
+      "rows_scanned": 773624,
+      "rows_nonempty": 773624,
+      "rows_filtered_target_glosa0": 2209,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2017a2020-2022-05-31-bibliografica-artpe-2020-parte2.xlsx",
+      "rows_scanned": 773625,
+      "rows_nonempty": 773625,
+      "rows_filtered_target_glosa0": 814,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-artpe-2021-p1.xlsx",
+      "rows_scanned": 748159,
+      "rows_nonempty": 748159,
+      "rows_filtered_target_glosa0": 1541,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-artpe-2021-p2.xlsx",
+      "rows_scanned": 772802,
+      "rows_nonempty": 772802,
+      "rows_filtered_target_glosa0": 557,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-artpe-2022-p1.xlsx",
+      "rows_scanned": 632098,
+      "rows_nonempty": 632098,
+      "rows_filtered_target_glosa0": 1250,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-artpe-2022-p2.xlsx",
+      "rows_scanned": 670097,
+      "rows_nonempty": 670097,
+      "rows_filtered_target_glosa0": 461,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-artpe-2023-p1.xlsx",
+      "rows_scanned": 616929,
+      "rows_nonempty": 616929,
+      "rows_filtered_target_glosa0": 1369,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-artpe-2023-p2.xlsx",
+      "rows_scanned": 616927,
+      "rows_nonempty": 616927,
+      "rows_filtered_target_glosa0": 221,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-artpe-2024-p1.xlsx",
+      "rows_scanned": 616929,
+      "rows_nonempty": 616929,
+      "rows_filtered_target_glosa0": 1175,
+      "rows_skipped_missing_article_id": 0
+    },
+    {
+      "file": "br-capes-colsucup-prod-autor-2021a2024-2025-12-01-bibliografica-artpe-2024-p2.xlsx",
+      "rows_scanned": 689382,
+      "rows_nonempty": 689382,
+      "rows_filtered_target_glosa0": 231,
+      "rows_skipped_missing_article_id": 0
+    }
+  ]
+}

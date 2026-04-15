@@ -24,6 +24,7 @@
     Doutorado: "#ff9f6a",
   };
   const MATRIX_LAST_YEARS = 12;
+  const LEVEL_CHART_LAST_YEARS = 20;
 
   function setStatus(message, isError) {
     if (!statusEl) return;
@@ -211,11 +212,61 @@
     return section;
   }
 
+  function createAllLevelsByProgramCard(total) {
+    const section = document.createElement("section");
+    section.className = "stats-card";
+    section.id = "card-admissao-geral-programas";
+
+    section.innerHTML = `
+      <div class="stats-card-head">
+        <h2>Admissões por Ano - Mestrado + Doutorado (Por Programa)</h2>
+        <p>Total de admissões válidas consideradas: ${total.toLocaleString("pt-BR")}.</p>
+      </div>
+      <div class="stats-card-grid">
+        <div class="plot-panel plot-panel-large">
+          <h3>Geral por Ano (Empilhado por Programa - Valores Absolutos)</h3>
+          <div id="admissao-geral-programas-abs-chart" class="plot-chart plot-chart-large"></div>
+        </div>
+        <div class="plot-panel plot-panel-large">
+          <h3>Geral por Ano (Empilhado por Programa - Proporcional 100%)</h3>
+          <div id="admissao-geral-programas-prop-chart" class="plot-chart plot-chart-large"></div>
+        </div>
+      </div>
+    `;
+
+    return section;
+  }
+
+  function createRecentLevelCard(level, total, cardIndex, years) {
+    const section = document.createElement("section");
+    section.className = "stats-card";
+    section.id = `card-admissao-${cardIndex}-ultimos-${LEVEL_CHART_LAST_YEARS}`;
+
+    section.innerHTML = `
+      <div class="stats-card-head">
+        <h2>Admissões por Ano - ${level} (Últimos ${LEVEL_CHART_LAST_YEARS} Anos)</h2>
+        <p>Registros válidos neste nível: ${total.toLocaleString("pt-BR")}. Eixo anual: ${years[0]} a ${years[years.length - 1]}.</p>
+      </div>
+      <div class="stats-card-grid">
+        <div class="plot-panel plot-panel-large">
+          <h3>Geral por Ano (Empilhado por Programa - Valores Absolutos)</h3>
+          <div id="admissao-recente-${cardIndex}" class="plot-chart plot-chart-large"></div>
+        </div>
+        <div class="plot-panel plot-panel-large">
+          <h3>Geral por Ano (Empilhado por Programa - Proporcional 100%)</h3>
+          <div id="admissao-recente-prop-${cardIndex}" class="plot-chart plot-chart-large"></div>
+        </div>
+      </div>
+    `;
+
+    return section;
+  }
+
   function baseLayout({ legend }) {
     return {
       margin: { l: 48, r: 16, t: 18, b: legend ? 86 : 30 },
-      paper_bgcolor: "rgba(0,0,0,0)",
-      plot_bgcolor: "rgba(0,0,0,0)",
+      paper_bgcolor: "#0d1727",
+      plot_bgcolor: "#0d1727",
       font: { color: "#dbe7ff", family: "Sora, sans-serif" },
       bargap: 0.18,
       xaxis: {
@@ -254,6 +305,37 @@
 
     const layout = baseLayout({ legend: true });
     layout.barmode = "stack";
+    Plotly.newPlot(targetId, traces, layout, PLOTLY_CONFIG);
+  }
+
+  function renderLargeChartProportional(targetId, rows, years) {
+    const series = buildYearSeries(rows, years);
+    const totalsByYear = years.map((_, yearIndex) =>
+      series.reduce((sum, item) => sum + (item.y[yearIndex] || 0), 0)
+    );
+
+    const traces = series.map((item) => ({
+      type: "bar",
+      name: item.program,
+      x: years,
+      y: item.y.map((count, yearIndex) => {
+        const total = totalsByYear[yearIndex];
+        if (!total) return 0;
+        return (count * 100) / total;
+      }),
+      customdata: item.y.map((count, yearIndex) => [count, totalsByYear[yearIndex] || 0]),
+      marker: { color: PROGRAM_COLORS[item.program] || "#9bb0ce" },
+      hovertemplate:
+        `${item.program}<br>Ano: %{x}<br>` +
+        `Participação: %{y:.1f}%<br>` +
+        `Admissões: %{customdata[0]} de %{customdata[1]}<extra></extra>`,
+    }));
+
+    const layout = baseLayout({ legend: true });
+    layout.barmode = "stack";
+    layout.yaxis.range = [0, 100];
+    layout.yaxis.dtick = 10;
+    layout.yaxis.ticksuffix = "%";
     Plotly.newPlot(targetId, traces, layout, PLOTLY_CONFIG);
   }
 
@@ -454,18 +536,36 @@
       ? Math.max(bounds.max, mdbCurrentYear)
       : bounds.max;
     const fullYearAxis = buildContinuousYearAxis(bounds.min, axisEndYear);
+    const levelRecentAxis = buildLastNYearsAxis(axisEndYear, LEVEL_CHART_LAST_YEARS);
     const levels = levelsFromRows(rows);
 
     cardsRoot.innerHTML = "";
 
     let cardsRendered = 0;
+    let recentCardsRendered = 0;
 
     const overallCard = createAllProgramsCard(rows.length);
     cardsRoot.appendChild(overallCard);
     renderAllProgramsByLevelChart("admissao-geral-niveis-chart", rows, fullYearAxis);
 
+    const allLevelsByProgramCard = createAllLevelsByProgramCard(rows.length);
+    cardsRoot.appendChild(allLevelsByProgramCard);
+    renderLargeChart("admissao-geral-programas-abs-chart", rows, fullYearAxis);
+    renderLargeChartProportional("admissao-geral-programas-prop-chart", rows, fullYearAxis);
+
     const tableCard = createAdmissionsTableCard(rows, axisEndYear);
     cardsRoot.appendChild(tableCard);
+
+    levels.forEach((level, index) => {
+      const levelRows = rows.filter((row) => row.level === level);
+      if (levelRows.length === 0) return;
+
+      const recentCard = createRecentLevelCard(level, levelRows.length, index, levelRecentAxis);
+      cardsRoot.appendChild(recentCard);
+      renderLargeChart(`admissao-recente-${index}`, levelRows, levelRecentAxis);
+      renderLargeChartProportional(`admissao-recente-prop-${index}`, levelRows, levelRecentAxis);
+      recentCardsRendered += 1;
+    });
 
     levels.forEach((level, index) => {
       const levelRows = rows.filter((row) => row.level === level);
@@ -481,7 +581,9 @@
 
     setStatus(
       `Exibindo ${rows.length.toLocaleString("pt-BR")} admissões válidas ` +
-        `(ISO excluído), ${cardsRendered} painel(is) por nível e 1 painel geral por nível. ` +
+        `(ISO excluído), ${cardsRendered} painel(is) por nível, ` +
+        `${recentCardsRendered} painel(is) por nível (últimos ${LEVEL_CHART_LAST_YEARS} anos, absoluto + proporcional 100%), ` +
+        `1 painel geral por nível e 1 painel geral por programa (M+D, absoluto + proporcional 100%). ` +
         `Eixo anual: ${bounds.min} a ${axisEndYear}.`,
       false
     );

@@ -1,0 +1,40 @@
+{
+  "generated_at_utc": "2026-04-07T17:03:27.887184+00:00",
+  "source_file": "RawData/Academxp20260407.mdb",
+  "categories": [
+    "PGAST",
+    "PGCAP",
+    "PGCST",
+    "PGMET",
+    "PGETE",
+    "PGGES",
+    "PGSER",
+    "Outros"
+  ],
+  "gdrpess": {
+    "records_total": 9225,
+    "reg_to_cic_count": 8688,
+    "records_skipped_invalid_reg_aluno": 9,
+    "records_skipped_empty_cic": 528,
+    "duplicate_reg_same_cic": 0,
+    "duplicate_reg_conflicting_cic": 0
+  },
+  "transition": {
+    "curso_al_records_total": 9158,
+    "records_skipped_invalid_reg_aluno": 1,
+    "records_skipped_non_mestrado_doutorado": 3530,
+    "records_skipped_without_cic": 321,
+    "students_with_any_md": 4216,
+    "students_with_mestrado": 3109,
+    "students_with_doutorado": 2022,
+    "students_with_mestrado_e_doutorado": 915,
+    "students_only_mestrado": 2194,
+    "students_only_doutorado": 1107,
+    "students_row_outros_missing_mestrado": 1107,
+    "students_row_outros_nonrecognized_mestrado": 0,
+    "students_col_outros_missing_doutorado": 2194,
+    "students_col_outros_nonrecognized_doutorado": 0
+  },
+  "output_json": "Data/transicao_cic_mestrado_doutorado.json",
+  "output_csv": "Data/transicao_cic_mestrado_doutorado.csv"
+}

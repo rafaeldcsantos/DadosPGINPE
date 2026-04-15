@@ -1,0 +1,35 @@
+{
+  "generated_at_utc": "2026-04-08T13:37:35+00:00",
+  "input_csv": "Data/inpe_artpe_autores_por_artigo_2013_2024_glosa0.csv",
+  "output_csv": "Data/inpe_artpe_resumo_ano_programa_2013_2024_glosa0.csv",
+  "output_json": "Data/inpe_artpe_resumo_ano_programa_2013_2024_glosa0.json",
+  "rows_input": 6101,
+  "rows_output": 84,
+  "years_covered": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+  ],
+  "program_count": 7,
+  "sg_values": [
+    "INPE"
+  ],
+  "tp_autor_count_columns": [
+    "qtd_tp_autor_sem_informacao",
+    "qtd_tp_autor_discente",
+    "qtd_tp_autor_docente",
+    "qtd_tp_autor_egresso",
+    "qtd_tp_autor_participante_externo",
+    "qtd_tp_autor_pos_doc"
+  ],
+  "inconsistent_program_name_rows": 0
+}
