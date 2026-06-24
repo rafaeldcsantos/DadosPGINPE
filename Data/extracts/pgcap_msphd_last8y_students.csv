@@ -1,0 +1,202 @@
+reg_aluno,nome,programa,sigla_curs,titulo_curso,nivel,status,d_adimissa,d_final,d_situacao,totcredi,concglob,notaglob
+133124/2018,Antonio Mauricio Zarzur,PGCAP,CAP,Computação Aplicada,Doutorado,Desistiu,2018-06-04,,2019-02-20,37,A-,3.5856154
+116300/2018,Juliano Elias Cardoso Cruz,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2018-09-11,2023-11-01,2023-11-01,84,A-,3.5799999
+133136/2018,Rubens Andreas Sautter,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2018-09-11,2023-08-11,2023-08-11,86,A,3.99
+101214/2019,Marcos Lima Rodrigues,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2019-02-18,2023-12-15,2023-12-15,88,A-,3.79
+138371/2019,Luiz Fernando Ferreira Gomes de Assis,PGCAP,CAP,Computação Aplicada,Doutorado,Desligado,2019-02-18,,2020-03-14,50,A-,3.75
+141062/2019,Wagner da Silva Billa,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2019-02-18,2023-11-28,2023-11-28,85,A-,3.5999999
+141755/2019,Henrique Mendes Castilho,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2019-02-18,2024-04-01,2024-04-01,84,A-,3.77
+142115/2019,Leonardo de Souza Vieira,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2019-02-18,2024-12-02,2024-12-02,90,A-,3.78
+142182/2019,Willian Vieira de Oliveira,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2019-02-18,2024-08-12,2024-08-12,89,A,4
+142425/2019,Gerson de Oliveira Barbosa,PGCAP,CAP,Computação Aplicada,Doutorado,Desligado,2019-02-18,,2021-05-18,50,A,3.8543332
+161762/2019,Ronaldo Alves de Abreu,PGCAP,CAP,Computação Aplicada,Doutorado,Desistiu,2019-02-18,,2019-05-31,28,C-,1.601
+351986/2019,Cesar Arturo Sanchez Pena,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2019-06-03,2023-08-16,2023-08-16,93,A,3.8900001
+113565/2020,Fernando de Oliveira Pereira,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2020-02-17,2025-05-07,2025-05-07,84,A,3.96
+130133/2020,Bruna Cristina Braga,PGCAP,CAP,Computação Aplicada,Doutorado,Desistiu,2020-02-17,,,,,0
+137324/2020,Maria Lívia Galhego Thibes Xavier da Costa,PGCAP,CAP,Computação Aplicada,Doutorado,Desistiu,2020-02-17,,2020-03-24,0,D,0.001
+142735/2020,Izak Francisco Justi,PGCAP,CAP,Computação Aplicada,Doutorado,Desistiu,2020-02-17,,,,,0
+143030/2020,Igor Kolesnikov,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2020-02-17,2024-03-12,2024-03-12,74,A-,3.74
+143057/2020,Eduardo Rohde Eras,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2020-02-17,2024-08-30,2024-08-30,84,A,3.8900001
+39306/2020,André Ricardo Fazanaro Martinon,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2020-02-17,2024-04-10,2024-04-10,74,A,4.0500002
+657523/2020,Rodrigo Barbosa Moreira,PGCAP,CAP,Computação Aplicada,Doutorado,Desistiu,2020-02-17,,,,,0
+671898/2020,André Freitas Oliveira,PGCAP,CAP,Computação Aplicada,Doutorado,Desistiu,2020-02-17,,2022-10-10,39,A,4.0543332
+966716/2020,Leonardo Sattler Cassará,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2020-02-17,2025-05-09,2025-05-09,89,A,3.9100001
+136972/2020,Marco Antônio de Ulhôa Cintra,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2020-06-01,2026-01-30,2026-01-30,80,A,3.9400001
+468950/2020,TELMO DOS SANTOS KLIPP,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2020-09-08,2024-11-18,2024-11-18,94,A-,3.78
+158003/2021,Vinicius Schmidt Monego,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2021-02-18,2025-12-17,2025-12-17,72,A,3.8499999
+221675/2021,Ricardo Batista Vilela,PGCAP,CAP,Computação Aplicada,Doutorado,Desistiu,2021-02-18,,,,,0
+342129/2021,Jonas Ferreira de Oliveira,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2021-02-18,,,45,B+,3.3699999
+350222/2021,Adriano Pereira Almeida,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2021-02-18,,,36,A,4.0700002
+56805/2021,Luiz Gustavo Miranda Pinto,PGCAP,CAP,Computação Aplicada,Doutorado,Desligado,2021-02-18,,2021-07-24,38,A-,3.810091
+755325/2021,Antonio Edimar de Melo Junior,PGCAP,CAP,Computação Aplicada,Doutorado,Reprovado,2021-02-18,,,,,0
+781215/2021,Helvecio Bezerra Leal Neto,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2021-02-18,2025-12-19,2025-12-19,73,A,3.9100001
+142204/2021,Rogério Flores Júnior,PGCAP,CAP,Computação Aplicada,Doutorado,Desligado,2021-05-31,,2023-12-19,41,A,3.9421763
+165857/2021,TULIO BATISTA RODRIGUES RODRIGUES DA SILVA,PGCAP,CAP,Computação Aplicada,Doutorado,Desistiu,2021-05-31,,2023-11-03,38,B+,3.2867143
+199105/2021,Cristhian Kaori Valencia Marin,PGCAP,CAP,Computação Aplicada,Doutorado,Desistiu,2021-05-31,,2021-10-13,4,D,0.7938571
+199309/2021,Johan Sebastian Duque Buitrago,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2021-05-31,,,41,A-,3.8099999
+655829/2021,Henrique Lima do Nascimento,PGCAP,CAP,Computação Aplicada,Doutorado,Desligado,2021-05-31,,2022-06-13,42,B,3.0081429
+763826/2021,FABIANO CRUZ NOGUEIRA,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2021-05-31,,,38,A,3.8499999
+921615/2021,Vinícius Cardoso de Barros,PGCAP,CAP,Computação Aplicada,Doutorado,Desistiu,2021-05-31,,2022-08-22,34,B,2.9828181
+281512/2021,Catia Souza Do Nascimento Sepetauskas,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2021-09-08,2025-11-18,2025-11-18,78,A,3.9400001
+37680/2021,Daniel Merli Lamosa,PGCAP,CAP,Computação Aplicada,Doutorado,Desistiu,2021-09-08,,2023-06-27,39,A,3.98
+406800/2021,Denis Magalhães de Almeida Eiras,PGCAP,CAP,Computação Aplicada,Doutorado,Desistiu,2021-09-08,,2022-08-17,51,A,3.9528518
+614504/2021,Luan Orion de Oliveira Baraúna Ferreira,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2021-09-08,2024-08-23,2024-08-23,80,A-,3.79
+114723/2022,Alex de Almeida Fernandes,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2022-02-14,,,40,A+,4.1300001
+114774/2022,Carlos Renato de Souza,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2022-02-14,,,38,A,3.9100001
+138134/2022,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2022-02-14,,,36,A+,4.0999999
+140309/2022,Gabriel Dietzsch,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2022-02-14,,,37,A,4
+680842/2022,Jaqueline Aparecida Jorge Papini Soares,PGCAP,CAP,Computação Aplicada,Doutorado,Concluído,2022-02-14,2025-09-26,2025-09-26,72,A+,4.1700001
+915763/2022,Giovanni Guarnieri Soares,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2022-02-14,,,38,A,3.8800001
+945820/2022,Felipe Menino Carlos,PGCAP,CAP,Computação Aplicada,Doutorado,Desistiu,2022-02-14,,,,,0
+974876/2022,Rafael Marinho de Andrade,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2022-02-14,,,39,A,3.9400001
+335673/2022,Flávio Belizário da Silva Mota,PGCAP,CAP,Computação Aplicada,Doutorado,Desistiu,2022-05-30,,2024-08-06,42,A,3.8954444
+181842/2022,Leandro Diniz de Jesus,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2022-09-01,,,37,A-,3.6600001
+655829/2022,Henrique Lima do Nascimento,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2022-09-01,,,33,B+,3.3299999
+101881/2023,Lucas de Oliveira Bauer,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2023-02-13,,,37,A-,3.8099999
+115339/2023,Rogério da Silva Batista,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2023-02-13,,,37,A,4
+145153/2023,DANIEL WANDER FERREIRA MELO,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2023-02-13,,,43,A,3.8800001
+391860/2023,Eduardo Furlan Miranda,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2023-02-13,,,40,A-,3.77
+994107/2023,Mateus de Souza Miranda,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2023-02-13,,,36,A-,3.5699999
+198310/2023,RAJI IDOWU,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2023-05-29,,,38,B+,3.25
+107379/2024,Luciano Godoy Fagundes,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2024-02-15,,,39,A-,3.74
+127990/2024,Rebeca Rúbia Honório Pinafo,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2024-02-15,,,44,A-,3.51
+143022/2024,Gabriel Sansigolo,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2024-02-15,,,37,A,3.9000001
+237812/2024,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2024-02-15,,,36,A,3.97
+309710/2024,Baggio Luiz de Castro e Silva,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2024-02-15,,,36,A-,3.8299999
+330807/2024,Cesar Augusto de Moraes Costa,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2024-02-15,,,36,A,4.0700002
+355730/2024,Matheus de Moraes Gonçalves Correia,PGCAP,CAP,Computação Aplicada,Doutorado,Desistiu,2024-02-15,,,,,0
+408637/2024,Aline Andrade do Nascimento,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2024-02-15,,,37,A-,3.6700001
+428492/2024,Pedro Vinícius da Silva Brito,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2024-02-15,,,37,A,3.97
+428716/2024,Cândida Caroline Souza de Santana Leite,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2024-02-15,,,35,A+,4.1300001
+866864/2024,Felipe Carvalho de Souza,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2024-02-15,,,38,A,3.99
+766100/2024,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Computação Aplicada/Inteligência Artificial para Aplicações Espaciais,Doutorado,Ativo,2024-05-27,,,37,B+,3.23
+107825/2024,Andreza Cristina Barbieri Serra,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2024-09-02,,,32,A-,3.73
+406640/2025,Igor Andrade Reis de Oliveira,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2025-02-13,,,41,A-,3.8199999
+441658/2025,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Computação Aplicada,Doutorado,Desistiu,2025-02-13,,,,,0
+890105/2025,EMMANUEL INIOLUWA BABAJIDE,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2025-02-13,,,34,A+,4.1199999
+974801/2025,Hugo da Silva Bernardes Gonçalves,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2025-02-13,,,40,A-,3.8081429
+61744/2025,Gabriel Lopes Barbosa,PGCAP,CAP,Computação Aplicada,Doutorado,Desligado,2025-09-08,,,,,0
+96503/2025,Pedro Augusto Borges dos Santos,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2025-09-08,,,6,A+,4.1999998
+115541/2026,Elton Oliveira Ferreira,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2026-02-12,,,0,,
+126284/2026,Andre Nogueira Sousa,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2026-02-12,,,,,0
+378600/2026,Dener César Mendes,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2026-02-12,,,,,0
+506277/2026,Milena Dias de Oliveira,PGCAP,CAP,Computação Aplicada,Doutorado,Desistiu,2026-02-12,,,,,0
+656607/2026,Rogério Costa de Oliveira Junior,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2026-02-12,,,,,0
+678680/2026,Caio Eduardo Dias,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2026-02-12,,,,,0
+735809/2026,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Computação Aplicada,Doutorado,Desistiu,2026-02-12,,,,,0
+825750/2026,Matheus Corrêa Domingos,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2026-02-12,,,,,0
+865826/2026,Abner Ernâni dos Anjos,PGCAP,CAP,Computação Aplicada,Doutorado,Ativo,2026-02-12,,,,,0
+370002/2026,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Computação Aplicada,Doutorado,2º/2026,2026-06-01,,,,,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2019-02-18,2022-08-24,2022-08-24,36,B+,3.4300001
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2019-02-18,,2022-07-29,25,B+,3.237
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2019-02-18,2022-01-28,2022-01-28,38,A,4.02
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2019-02-18,2022-03-28,2022-03-28,38,A-,3.8099999
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2019-02-18,2021-03-04,2021-03-04,37,A-,3.54
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2019-02-18,2021-05-28,2021-05-28,37,A-,3.8399999
+363807/2019,Letícia Borges de Meirelles,PGCAP,CAP,Computação Aplicada,Mestrado,Desligado,2019-02-18,,2020-11-05,26,B,3.1086924
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2019-02-18,2022-02-17,2022-02-17,36,A-,3.55
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2019-02-18,2021-09-20,2021-09-20,36,A-,3.5999999
+497601/2019,Samuel Lima Ferreira de Araujo,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2019-02-18,,2019-04-25,0,D,0.001
+707871/2019,Leoni Augusto Romain da Silva,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2019-02-18,,2020-09-01,21,B,3.143857
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2019-02-18,2021-05-21,2021-05-21,37,A-,3.8399999
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2019-02-18,2021-06-11,2021-06-11,37,A-,3.78
+199322/2020,Claudio Leandro de Sousa Afonso,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2020-02-17,,,,,0
+199504/2020,Sara Cecilia Abecia Hernanz,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2020-02-17,,,,,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Computação Aplicada,Mestrado,Desligado,2020-02-17,,2021-12-20,22,B-,2.6803102
+366830/2020,Jhones Henrique da Silva,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2020-02-17,,2020-05-12,0,D,0.001
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2020-02-17,2023-10-23,2023-10-23,38,A-,3.55
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2020-02-17,2023-03-30,2023-03-30,37,A-,3.6700001
+57874/2020,Carlos Alberto Ferreira de Noronha,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2020-02-17,,2020-05-07,0,D,0.001
+80813/2020,Arthur Dotto dos Santos,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2020-02-17,,2020-04-20,0,D,0.001
+904711/2020,Natália Motta Costa Marau Pedroso,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2020-02-17,,2021-09-30,25,A-,3.6930001
+906025/2020,Fernando Cossetin,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2020-02-17,2024-03-06,2024-03-06,37,A-,3.45
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2020-02-17,2022-02-11,2022-02-11,38,A,3.8699999
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2020-02-17,2022-12-16,2022-12-16,37,A+,4.1100001
+969990/2020,Roberto Brusnicki,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2020-02-17,,2020-05-19,0,D,0.001
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2020-02-17,2022-05-20,2022-05-20,36,A,3.8900001
+136717/2021,Vitor Henrique de Souza Sércio,PGCAP,CAP,Computação Aplicada,Mestrado,Reprovado,2021-02-18,,,,,0
+199720/2021,Bryan Almeida Farias,PGCAP,CAP,Computação Aplicada,Mestrado,Reprovado,2021-02-18,,,,,0
+246818/2021,Mateus Valério Chiozini,PGCAP,CAP,Computação Aplicada,Mestrado,Reprovado,2021-02-18,,,,,0
+266271/2021,Ruan dos Santos Carvalho,PGCAP,CAP,Computação Aplicada,Mestrado,Reprovado,2021-02-18,,,,,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2021-02-18,2023-01-30,2023-01-30,37,A-,3.76
+544809/2021,Elias Guilherme Correa Lovato,PGCAP,CAP,Computação Aplicada,Mestrado,Desligado,2021-02-18,,2023-04-18,15,B+,3.3
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2021-02-18,2023-02-16,2023-02-16,36,A-,3.73
+597283/2021,Rayane Pereira Sodré,PGCAP,CAP,Computação Aplicada,Mestrado,Desligado,2021-02-18,,2021-12-06,10,D,1.1635
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2021-02-18,2023-12-13,2023-12-13,36,A,3.9300001
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2021-02-18,2023-11-30,2023-11-30,40,A-,3.8099999
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2021-02-18,2023-08-25,2023-08-25,40,A-,3.74
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2021-02-18,2024-02-19,2024-02-19,37,A,3.9200001
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2021-02-18,2023-03-28,2023-03-28,37,A,3.8499999
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Computação Aplicada,Mestrado,Desligado,2021-05-31,,2024-06-04,25,A-,3.7090001
+595750/2021,Matheus Elis da Silva,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2021-05-31,,2022-07-11,18,B-,2.8468335
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2021-09-08,2024-09-05,2024-09-05,36,A-,3.8399999
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2021-09-08,2023-12-07,2023-12-07,39,A-,3.5899999
+131894/2022,Renato do Prado Santos,PGCAP,CAP,Computação Aplicada,Mestrado,Reprovado,2022-02-14,,,,,0
+143618/2022,Fernando Ramos Gabriel,PGCAP,CAP,Computação Aplicada,Mestrado,Reprovado,2022-02-14,,,,,0
+174814/2022,Gabrielle de Oliveira Bussi,PGCAP,CAP,Computação Aplicada,Mestrado,Reprovado,2022-02-14,,,,,0
+216760/2022,Uilton Cesar Peres Junior,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2022-02-14,,,,,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2022-02-14,2024-05-17,2024-05-17,36,A-,3.77
+244898/2022,Pedro Marcos Mossulin Ferreira,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2022-02-14,,2022-03-09,0,D,0.001
+330807/2022,Cesar Augusto de Moraes Costa,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2022-02-14,2024-02-07,2024-02-07,36,B+,3.1700001
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Computação Aplicada/Modelagem Computacional de Fenômenos Naturais,Mestrado,Concluído,2022-02-14,2024-03-26,2024-03-26,37,A,3.8900001
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2022-02-14,2024-04-29,2024-04-29,36,A-,3.55
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Computação Aplicada/Geoinformática e Ciência de Dados Geoespaciais,Mestrado,Concluído,2022-02-14,2024-03-13,2024-03-13,36,A-,3.8
+483488/2022,Jaerdson Miguel da Silva,PGCAP,CAP,Computação Aplicada,Mestrado,Reprovado,2022-02-14,,,,,0
+735736/2022,Pablo de Deus Silva,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2022-02-14,,,,,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Computação Aplicada/Inteligência Artificial para Aplicações Espaciais,Mestrado,Concluído,2022-02-14,2024-08-27,2024-08-27,39,A-,3.76
+806833/2022,Gabriel de Sousa Matsumura,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2022-02-14,,2022-05-16,0,D,0.001
+902659/2022,Wilson Ramalho Caldeira Filho,PGCAP,CAP,Computação Aplicada,Mestrado,Reprovado,2022-02-14,,,,,0
+963879/2022,Isadora Bonifácio Faria,PGCAP,CAP,Computação Aplicada,Mestrado,Reprovado,2022-02-14,,,,,0
+107825/2023,Andreza Cristina Barbieri Serra,PGCAP,CAP,Computação Aplicada,Mestrado,Transferido,2023-02-13,,2024-11-06,23,A-,3.7799473
+149865/2023,Paulo Felix Toledo,PGCAP,CAP,Computação Aplicada,Mestrado,Reprovado,2023-02-13,,,,,0
+199871/2023,José Carlos de Souza Bueno Junior,PGCAP,CAP,Computação Aplicada,Mestrado,Reprovado,2023-02-13,,,,,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2023-02-13,2026-02-12,2026-02-12,38,B+,3.3699999
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2023-02-13,,,26,A,4.0100002
+443770/2023,ALEXANDER ARAUJO WERLANG,PGCAP,CAP,Computação Aplicada,Mestrado,Reprovado,2023-02-13,,,,,0
+544890/2023,Sinésio Fellippe Soares,PGCAP,CAP,Computação Aplicada,Mestrado,Reprovado,2023-02-13,,,,,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Computação Aplicada/Geoinformática e Ciência de Dados Geoespaciais,Mestrado,Concluído,2023-02-13,,,38,A-,3.804846
+675409/2023,João Pedro dos Santos Verçosa,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2023-02-13,,,,,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2023-02-13,2025-09-30,2025-09-30,38,A-,3.7817693
+959802/2023,Rafael Guerra Fernandes,PGCAP,CAP,Computação Aplicada,Mestrado,Reprovado,2023-02-13,,,,,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2023-05-29,,,28,A-,3.53
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2024-02-15,,,28,A-,3.6700001
+153102/2024,André Estevam Costa Oliveira,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2024-02-15,,,24,A-,3.8099999
+166106/2024,Daniel Farkat Alves Fontes,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2024-02-15,,,24,A-,3.53
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2024-02-15,,,22,A-,3.5699999
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Computação Aplicada/Inteligência Artificial para Aplicações Espaciais,Mestrado,Concluído,2024-02-15,2026-02-25,2026-02-25,38,B+,3.3699999
+502497/2024,Luísa Mirelle Costa dos Santos,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2024-02-15,,,24,B+,3.3499999
+547664/2024,Herbert Hoffmann Junior,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2024-02-15,,,,,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2024-02-15,2026-02-26,2026-02-26,38,A-,3.52
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2024-02-15,,,26,A-,3.49
+755830/2024,Luiz Gabriel Camilo Lucas,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2024-02-15,,,24,B+,3.22
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Computação Aplicada,Mestrado,Concluído,2024-02-15,2026-02-24,2026-02-24,38,A,3.8499999
+107889/2025,Ludmila Vitória Ribeiro Rocumba,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2025-02-13,,,,,0
+12813/2025,Thaina Daniele Lopes,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2025-02-13,,,25,A,3.9000001
+174848/2025,Joao Vyctor Ferreira da Costa,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2025-02-13,,,25,A-,3.8
+511871/2025,Júlia Ascencio Cansado,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2025-02-13,,,21,A,4
+543819/2025,Breno Coltro da Costa,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2025-02-13,,,23,A-,3.8
+730676/2025,Gabriel Rocha Pinto,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2025-02-13,,,24,A,3.95
+771117/2025,Salatiel Abraão Avelar Jordão,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2025-02-13,,,21,B,2.8699999
+842863/2025,Carlos Eduardo Falandes,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2025-02-13,,,23,B+,3.3800001
+896881/2025,Júlia Sousa Gayotto,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2025-02-13,,,22,A,3.95
+921218/2025,Edson Cláudio Tchivango Segunda,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2025-02-13,,,18,A-,3.6199999
+136902/2026,Fabrício Pereira Diniz,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2026-02-12,,,,,0
+177267/2026,Getulio Henrique Furtado Lima,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2026-02-12,,,,,0
+199715/2026,Lekan Lawal,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2026-02-12,,,,,0
+204825/2026,Carla Aparecida de Almeida Paula,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2026-02-12,,,,,0
+277821/2026,Sofia Sena Tavares,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2026-02-12,,,,,0
+277851/2026,Ryan Marco Andrade dos Santos,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2026-02-12,,,,,0
+29807/2026,Joao Pedro Diehl,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2026-02-12,,,,,0
+325824/2026,Mariana Guimarães Montoro Morais,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2026-02-12,,,,,0
+401893/2026,Ryan Alves de Quadros,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2026-02-12,,,9,A-,3.7
+665409/2026,Daniel Fernandes Pereira,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2026-02-12,,,,,0
+671884/2026,Sandro de Sena Machado,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2026-02-12,,,,,0
+693384/2026,Shodipo Fawaz,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2026-02-12,,,,,0
+732817/2026,Gabrielly Vitória Camargo do Prado,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2026-02-12,,,,,0
+779840/2026,Gabriel David dos Santos Alves,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2026-02-12,,,,,0
+821888/2026,Fernando Barreto da Silva,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2026-02-12,,,,,0
+839154/2026,Martín Ávila Buitrón,PGCAP,CAP,Computação Aplicada,Mestrado,Desistiu,2026-02-12,,,,,0
+876103/2026,Giulia Katherine Romas Tomazeli,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2026-02-12,,,,,0
+885809/2026,Maria Clara de Souza Cruz,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2026-02-12,,,,,0
+891108/2026,Giann Kenyd Correa,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2026-02-12,,,,,0
+92900/2026,Helena Buschermöhle,PGCAP,CAP,Computação Aplicada,Mestrado,Ativo,2026-02-12,,,,,0

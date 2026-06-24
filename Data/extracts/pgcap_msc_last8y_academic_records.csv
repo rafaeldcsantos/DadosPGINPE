@@ -1,0 +1,1314 @@
+reg_aluno,nome,programa,sigla_curs,nivel,periodo,sigla_mat,nome_mat,status,conceito,aulas_presentes,presenca,nota_disciplina
+107825/2023,Andreza Cristina Barbieri Serra,PGCAP,CAP,Mestrado,0,CMS200,Ciência dos Materiais I,,,0,SIM,0
+107825/2023,Andreza Cristina Barbieri Serra,PGCAP,CAP,Mestrado,202301,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+107825/2023,Andreza Cristina Barbieri Serra,PGCAP,CAP,Mestrado,202301,CAP354,Inteligência Artificial,Concluído,B+,0,SIM,0
+107825/2023,Andreza Cristina Barbieri Serra,PGCAP,CAP,Mestrado,202301,CAP372,Processamento de Alto Desempenho,Concluído,A,0,SIM,0
+107825/2023,Andreza Cristina Barbieri Serra,PGCAP,CAP,Mestrado,202301,CAP417,Estatística Computacional,Concluído,A,0,SIM,0
+107825/2023,Andreza Cristina Barbieri Serra,PGCAP,CAP,Mestrado,202301,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+107825/2023,Andreza Cristina Barbieri Serra,PGCAP,CAP,Mestrado,202302,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+107825/2023,Andreza Cristina Barbieri Serra,PGCAP,CAP,Mestrado,202302,CAP394,Introdução à Ciência de Dados,Concluído,A-,0,SIM,0
+107825/2023,Andreza Cristina Barbieri Serra,PGCAP,CAP,Mestrado,202303,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+107825/2023,Andreza Cristina Barbieri Serra,PGCAP,CAP,Mestrado,202401,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+107825/2023,Andreza Cristina Barbieri Serra,PGCAP,CAP,Mestrado,202401,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+107825/2023,Andreza Cristina Barbieri Serra,PGCAP,CAP,Mestrado,202401,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+107825/2023,Andreza Cristina Barbieri Serra,PGCAP,CAP,Mestrado,202402,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+107825/2023,Andreza Cristina Barbieri Serra,PGCAP,CAP,Mestrado,202403,CAP424,Lógica Nebulosa,Trancado,J,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,201701,CAP239,Matemática Computacional I,Concluído,A-,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,201702,CAP349,Banco de Dados Geográficos,Concluído,A-,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,201801,CAP390,Fundamentos de Programação Estruturada,Concluído,A+,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,201802,CAP465,Modelagem e Simulação de Sistemas Terrestres,Concluído,A-,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,201901,CAP241,Computação Aplicada I,Concluído,B,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,201901,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B+,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,201901,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,201902,CAP368,Introdução à Teoria de Sistemas Dinâmicos,Concluído,B,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,201902,CAP379,Tópicos em Ciências Espaciais,Concluído,A,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,201903,CAP381,"Redes Complexas, Dinâmica e Aplicações",Concluído,B,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,201903,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,202001,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,202001,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,202003,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,202003,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,202003,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,202101,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,202102,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,202103,CAP730,Pesquisa de Mestrado em Computação Aplicada,Trancado,J,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,202103,TRC001,Trancamento de Matrícula,Trancado,TM,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,202201,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,202201,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,202202,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+115835/2019,Carlos Augusto Guimarães Júnior,PGCAP,CAP,Mestrado,202202,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Mestrado,202401,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A,0,SIM,0
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Mestrado,202401,CAP349,Banco de Dados Geográficos,Concluído,A-,0,SIM,0
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Mestrado,202401,CAP419,Introdução à Programação com Dados Geoespaciais,Concluído,A-,0,SIM,0
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Mestrado,202401,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Mestrado,202401,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Mestrado,202401,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Mestrado,202401,SER205,Introdução ao Sensoriamento Remoto,Concluído,B+,0,SIM,0
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Mestrado,202402,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Mestrado,202402,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Mestrado,202402,CAP395,Geoinformática,Concluído,A-,0,SIM,0
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Mestrado,202402,SER413,Processamento Digital de Imagens de Sensores Remotos,Concluído,B+,0,SIM,0
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Mestrado,202403,CAP423,Ciência de Dados Geoespaciais,Concluído,A,0,SIM,0
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Mestrado,202501,CAP417,Estatística Computacional,Concluído,A-,0,SIM,0
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Mestrado,202501,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Mestrado,202501,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Mestrado,202501,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Mestrado,202502,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Mestrado,202503,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+119870/2024,Antônio Gomes de Oliveira Junior,PGCAP,CAP,Mestrado,202601,CAP730,Pesquisa de Mestrado em Computação Aplicada,Ativo,,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,201901,CAP239,Matemática Computacional I,Concluído,A-,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,201901,CAP241,Computação Aplicada I,Concluído,B-,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,201901,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B+,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,201901,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,201902,CAP368,Introdução à Teoria de Sistemas Dinâmicos,Concluído,B,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,201902,CAP372,Processamento de Alto Desempenho,Concluído,B,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,201902,CAP394,Introdução à Ciência de Dados,Concluído,A-,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,201903,CAP384,Análise Wavelet I,Concluído,C+,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,201903,CAP399,Programação de Sistemas Massivamente Paralelos,Concluído,A,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,201903,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,201903,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,201903,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,202001,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,202002,CAP379,Tópicos em Ciências Espaciais,Concluído,A,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,202002,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,202003,CAP730,Pesquisa de Mestrado em Computação Aplicada,Trancado,J,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,202003,TRC001,Trancamento de Matrícula,Trancado,TM,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,202101,CAP730,Pesquisa de Mestrado em Computação Aplicada,Trancado,J,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,202101,TRC002,Trancamento de Matrícula,Trancado,TM,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,202102,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,202102,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,202103,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,202201,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+125024/2019,Paulo Renato Rodrigues,PGCAP,CAP,Mestrado,202202,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+12813/2025,Thaina Daniele Lopes,PGCAP,CAP,Mestrado,202501,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A,0,SIM,0
+12813/2025,Thaina Daniele Lopes,PGCAP,CAP,Mestrado,202501,CAP354,Inteligência Artificial,Concluído,A+,0,SIM,0
+12813/2025,Thaina Daniele Lopes,PGCAP,CAP,Mestrado,202501,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+12813/2025,Thaina Daniele Lopes,PGCAP,CAP,Mestrado,202502,CAP335,Aprendizado Computacional e Reconhecimento de Padrões,Concluído,A+,0,SIM,0
+12813/2025,Thaina Daniele Lopes,PGCAP,CAP,Mestrado,202502,CAP349,Banco de Dados Geográficos,Concluído,A-,0,SIM,0
+12813/2025,Thaina Daniele Lopes,PGCAP,CAP,Mestrado,202502,CAP351,Neurocomputação,Concluído,A-,0,SIM,0
+12813/2025,Thaina Daniele Lopes,PGCAP,CAP,Mestrado,202502,CAP394,Introdução à Ciência de Dados,Concluído,A,0,SIM,0
+12813/2025,Thaina Daniele Lopes,PGCAP,CAP,Mestrado,202503,CAP408,Computação Aplicada às Ciências Atmosféricas,Concluído,A,0,SIM,0
+12813/2025,Thaina Daniele Lopes,PGCAP,CAP,Mestrado,202503,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+12813/2025,Thaina Daniele Lopes,PGCAP,CAP,Mestrado,202503,CAP424,Lógica Nebulosa,Concluído,A-,0,SIM,0
+12813/2025,Thaina Daniele Lopes,PGCAP,CAP,Mestrado,202503,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+12813/2025,Thaina Daniele Lopes,PGCAP,CAP,Mestrado,202601,CAP730,Pesquisa de Mestrado em Computação Aplicada,Ativo,,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,201603,CAP381,"Redes Complexas, Dinâmica e Aplicações",Concluído,A+,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,201701,CAP239,Matemática Computacional I,Concluído,A,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,201702,CAP349,Banco de Dados Geográficos,Concluído,A,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,201801,CAP354,Inteligência Artificial,Concluído,A+,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,201802,CAP465,Modelagem e Simulação de Sistemas Terrestres,Concluído,A+,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,201901,CAP241,Computação Aplicada I,Concluído,A-,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,201901,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,201901,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,201901,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,201901,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,201902,CAP379,Tópicos em Ciências Espaciais,Concluído,A,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,201903,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,201903,SER301,Análise Espacial,Concluído,A,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,202001,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,202001,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,202003,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,202003,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,202101,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,202102,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,202103,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+138134/2019,Aurelienne Aparecida Souza Jorge,PGCAP,CAP,Mestrado,202103,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,201801,CAP239,Matemática Computacional I,Concluído,A+,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,201802,CAP372,Processamento de Alto Desempenho,Concluído,A-,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,201901,CAP241,Computação Aplicada I,Concluído,A-,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,201901,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,201901,CAP354,Inteligência Artificial,Concluído,B+,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,201901,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,201901,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,201901,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,201902,CAP379,Tópicos em Ciências Espaciais,Concluído,A,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,201902,CAP465,Modelagem e Simulação de Sistemas Terrestres,Concluído,A-,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,201903,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,201903,CAP381,"Redes Complexas, Dinâmica e Aplicações",Concluído,A,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,201903,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,202001,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,202001,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,202003,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,202003,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,202101,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,202102,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,202103,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,202201,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+143642/2019,Cintia Pereira de Freitas,PGCAP,CAP,Mestrado,202201,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+153102/2024,André Estevam Costa Oliveira,PGCAP,CAP,Mestrado,202401,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A,0,SIM,0
+153102/2024,André Estevam Costa Oliveira,PGCAP,CAP,Mestrado,202401,CAP354,Inteligência Artificial,Concluído,A,0,SIM,0
+153102/2024,André Estevam Costa Oliveira,PGCAP,CAP,Mestrado,202401,CAP417,Estatística Computacional,Concluído,A+,0,SIM,0
+153102/2024,André Estevam Costa Oliveira,PGCAP,CAP,Mestrado,202401,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+153102/2024,André Estevam Costa Oliveira,PGCAP,CAP,Mestrado,202401,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+153102/2024,André Estevam Costa Oliveira,PGCAP,CAP,Mestrado,202402,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+153102/2024,André Estevam Costa Oliveira,PGCAP,CAP,Mestrado,202402,CAP351,Neurocomputação,Concluído,B,0,SIM,0
+153102/2024,André Estevam Costa Oliveira,PGCAP,CAP,Mestrado,202402,SER413,Processamento Digital de Imagens de Sensores Remotos,Concluído,A-,0,SIM,0
+153102/2024,André Estevam Costa Oliveira,PGCAP,CAP,Mestrado,202403,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+153102/2024,André Estevam Costa Oliveira,PGCAP,CAP,Mestrado,202403,CAP423,Ciência de Dados Geoespaciais,Concluído,A,0,SIM,0
+153102/2024,André Estevam Costa Oliveira,PGCAP,CAP,Mestrado,202403,CAP425,Tópicos Avançados em Modelagem Ambiental,Concluído,A,0,SIM,0
+153102/2024,André Estevam Costa Oliveira,PGCAP,CAP,Mestrado,202403,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+153102/2024,André Estevam Costa Oliveira,PGCAP,CAP,Mestrado,202403,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+153102/2024,André Estevam Costa Oliveira,PGCAP,CAP,Mestrado,202501,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+153102/2024,André Estevam Costa Oliveira,PGCAP,CAP,Mestrado,202501,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+153102/2024,André Estevam Costa Oliveira,PGCAP,CAP,Mestrado,202502,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+153102/2024,André Estevam Costa Oliveira,PGCAP,CAP,Mestrado,202503,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+153102/2024,André Estevam Costa Oliveira,PGCAP,CAP,Mestrado,202601,CAP730,Pesquisa de Mestrado em Computação Aplicada,Ativo,,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,201901,CAP239,Matemática Computacional I,Concluído,A-,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,201901,CAP241,Computação Aplicada I,Concluído,B,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,201901,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,201901,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,201901,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,201901,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,201902,CAP372,Processamento de Alto Desempenho,Concluído,B+,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,201902,CAP383,Matemática Computacional III,Concluído,A-,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,201903,CAP340,Problemas Inversos,Concluído,A,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,201903,CAP375,Inteligência Computacional e Aplicações,Concluído,A-,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,201903,CAP399,Programação de Sistemas Massivamente Paralelos,Concluído,B+,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,201903,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,202001,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,202002,CAP379,Tópicos em Ciências Espaciais,Concluído,A,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,202002,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,202003,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,202003,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,202101,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+158003/2019,Vinicius Schmidt Monego,PGCAP,CAP,Mestrado,202101,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+166106/2024,Daniel Farkat Alves Fontes,PGCAP,CAP,Mestrado,202401,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+166106/2024,Daniel Farkat Alves Fontes,PGCAP,CAP,Mestrado,202401,CAP349,Banco de Dados Geográficos,Concluído,A,0,SIM,0
+166106/2024,Daniel Farkat Alves Fontes,PGCAP,CAP,Mestrado,202401,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+166106/2024,Daniel Farkat Alves Fontes,PGCAP,CAP,Mestrado,202401,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+166106/2024,Daniel Farkat Alves Fontes,PGCAP,CAP,Mestrado,202401,SER205,Introdução ao Sensoriamento Remoto,Concluído,B-,0,SIM,0
+166106/2024,Daniel Farkat Alves Fontes,PGCAP,CAP,Mestrado,202402,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+166106/2024,Daniel Farkat Alves Fontes,PGCAP,CAP,Mestrado,202402,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+166106/2024,Daniel Farkat Alves Fontes,PGCAP,CAP,Mestrado,202402,CAP395,Geoinformática,Concluído,A-,0,SIM,0
+166106/2024,Daniel Farkat Alves Fontes,PGCAP,CAP,Mestrado,202402,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+166106/2024,Daniel Farkat Alves Fontes,PGCAP,CAP,Mestrado,202402,SER413,Processamento Digital de Imagens de Sensores Remotos,Concluído,B,0,SIM,0
+166106/2024,Daniel Farkat Alves Fontes,PGCAP,CAP,Mestrado,202403,CAP423,Ciência de Dados Geoespaciais,Concluído,A,0,SIM,0
+166106/2024,Daniel Farkat Alves Fontes,PGCAP,CAP,Mestrado,202501,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+166106/2024,Daniel Farkat Alves Fontes,PGCAP,CAP,Mestrado,202501,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+166106/2024,Daniel Farkat Alves Fontes,PGCAP,CAP,Mestrado,202501,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+166106/2024,Daniel Farkat Alves Fontes,PGCAP,CAP,Mestrado,202502,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+166106/2024,Daniel Farkat Alves Fontes,PGCAP,CAP,Mestrado,202503,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+166106/2024,Daniel Farkat Alves Fontes,PGCAP,CAP,Mestrado,202601,CAP730,Pesquisa de Mestrado em Computação Aplicada,Ativo,,0,SIM,0
+174848/2025,Joao Vyctor Ferreira da Costa,PGCAP,CAP,Mestrado,202501,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A,0,SIM,0
+174848/2025,Joao Vyctor Ferreira da Costa,PGCAP,CAP,Mestrado,202501,CAP354,Inteligência Artificial,Concluído,A,0,SIM,0
+174848/2025,Joao Vyctor Ferreira da Costa,PGCAP,CAP,Mestrado,202501,CAP417,Estatística Computacional,Concluído,A,0,SIM,0
+174848/2025,Joao Vyctor Ferreira da Costa,PGCAP,CAP,Mestrado,202501,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+174848/2025,Joao Vyctor Ferreira da Costa,PGCAP,CAP,Mestrado,202501,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+174848/2025,Joao Vyctor Ferreira da Costa,PGCAP,CAP,Mestrado,202502,CAP349,Banco de Dados Geográficos,Concluído,B+,0,SIM,0
+174848/2025,Joao Vyctor Ferreira da Costa,PGCAP,CAP,Mestrado,202502,CAP351,Neurocomputação,Concluído,A-,0,SIM,0
+174848/2025,Joao Vyctor Ferreira da Costa,PGCAP,CAP,Mestrado,202502,CAP394,Introdução à Ciência de Dados,Concluído,A-,0,SIM,0
+174848/2025,Joao Vyctor Ferreira da Costa,PGCAP,CAP,Mestrado,202503,CAP408,Computação Aplicada às Ciências Atmosféricas,Concluído,A-,0,SIM,0
+174848/2025,Joao Vyctor Ferreira da Costa,PGCAP,CAP,Mestrado,202503,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+174848/2025,Joao Vyctor Ferreira da Costa,PGCAP,CAP,Mestrado,202503,CAP425,Tópicos Avançados em Modelagem Ambiental,Concluído,A+,0,SIM,0
+174848/2025,Joao Vyctor Ferreira da Costa,PGCAP,CAP,Mestrado,202503,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+174848/2025,Joao Vyctor Ferreira da Costa,PGCAP,CAP,Mestrado,202601,CAP730,Pesquisa de Mestrado em Computação Aplicada,Ativo,,0,SIM,0
+204825/2026,Carla Aparecida de Almeida Paula,PGCAP,CAP,Mestrado,202601,CAP395,Geoinformática,Ativo,,0,SIM,0
+204825/2026,Carla Aparecida de Almeida Paula,PGCAP,CAP,Mestrado,202601,CAP419,Introdução à Programação com Dados Geoespaciais,Ativo,,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202102,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202102,CAP379,Tópicos em Ciências Espaciais,Concluído,A+,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202201,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B+,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202201,CAP354,Inteligência Artificial,Concluído,A-,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202201,CAP372,Processamento de Alto Desempenho,Concluído,B,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202201,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202201,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202201,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202202,CAP394,Introdução à Ciência de Dados,Concluído,A,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202202,CAP399,Programação de Sistemas Massivamente Paralelos,Concluído,A,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202203,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202203,CAP421,Aprendizado Profundo,Concluído,A,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202203,CAP423,Ciência de Dados Geoespaciais,Concluído,A-,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202301,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202301,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202301,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202302,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202302,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202303,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202401,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+237812/2022,Luís Eduardo Sales do Nascimento,PGCAP,CAP,Mestrado,202401,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+244898/2022,Pedro Marcos Mossulin Ferreira,PGCAP,CAP,Mestrado,202201,CAP242,Metodologia Científica em Computação Aplicada,Concluído,D,0,SIM,0
+244898/2022,Pedro Marcos Mossulin Ferreira,PGCAP,CAP,Mestrado,202201,CAP384,Análise Wavelet I,Concluído,D,0,SIM,0
+244898/2022,Pedro Marcos Mossulin Ferreira,PGCAP,CAP,Mestrado,202201,CAP418,Métodos Numéricos I,Concluído,D,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202001,CAP239,Matemática Computacional I,Concluído,A-,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202001,CAP241,Computação Aplicada I,Concluído,A-,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202001,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B+,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202001,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202002,CAP349,Banco de Dados Geográficos,Concluído,B+,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202002,CAP372,Processamento de Alto Desempenho,Concluído,B,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202002,CAP378,Tópicos em Observação da Terra,Concluído,A,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202003,CAP335,Aprendizado Computacional e Reconhecimento de Padrões,Concluído,D,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202003,CAP394,Introdução à Ciência de Dados,Concluído,A,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202003,CAP395,Geoinformática,Concluído,B+,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202003,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202003,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202003,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202101,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202102,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202102,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202102,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202103,CAP423,Ciência de Dados Geoespaciais,Concluído,D,0,SIM,0
+248845/2020,Felipe Angelo da Costa Perin,PGCAP,CAP,Mestrado,202103,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,D,0,SIM,0
+277821/2026,Sofia Sena Tavares,PGCAP,CAP,Mestrado,202601,CAP242,Metodologia Científica em Computação Aplicada,Ativo,,0,SIM,0
+277821/2026,Sofia Sena Tavares,PGCAP,CAP,Mestrado,202601,CAP395,Geoinformática,Ativo,,0,SIM,0
+277821/2026,Sofia Sena Tavares,PGCAP,CAP,Mestrado,202601,CAP419,Introdução à Programação com Dados Geoespaciais,Ativo,,0,SIM,0
+29807/2026,Joao Pedro Diehl,PGCAP,CAP,Mestrado,202601,CAP242,Metodologia Científica em Computação Aplicada,Ativo,,0,SIM,0
+29807/2026,Joao Pedro Diehl,PGCAP,CAP,Mestrado,202601,CAP395,Geoinformática,Ativo,,0,SIM,0
+29807/2026,Joao Pedro Diehl,PGCAP,CAP,Mestrado,202601,CAP419,Introdução à Programação com Dados Geoespaciais,Ativo,,0,SIM,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Mestrado,202101,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B-,0,SIM,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Mestrado,202101,CAP349,Banco de Dados Geográficos,Concluído,A-,0,SIM,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Mestrado,202101,CAP419,Introdução à Programação com Dados Geoespaciais,Concluído,A,0,SIM,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Mestrado,202101,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Mestrado,202102,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Mestrado,202102,CAP378,Tópicos em Observação da Terra,Concluído,A+,0,SIM,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Mestrado,202102,CAP394,Introdução à Ciência de Dados,Concluído,A-,0,SIM,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Mestrado,202102,CAP395,Geoinformática,Concluído,A+,0,SIM,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Mestrado,202102,SER413,Processamento Digital de Imagens de Sensores Remotos,Concluído,B+,0,SIM,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Mestrado,202103,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Mestrado,202103,CAP423,Ciência de Dados Geoespaciais,Concluído,A,0,SIM,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Mestrado,202103,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Mestrado,202103,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Mestrado,202201,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Mestrado,202201,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Mestrado,202202,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Mestrado,202203,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Mestrado,202203,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+309710/2021,Baggio Luiz de Castro e Silva,PGCAP,CAP,Mestrado,202203,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+325824/2026,Mariana Guimarães Montoro Morais,PGCAP,CAP,Mestrado,202601,CAP242,Metodologia Científica em Computação Aplicada,Ativo,,0,SIM,0
+325824/2026,Mariana Guimarães Montoro Morais,PGCAP,CAP,Mestrado,202601,CAP351,Neurocomputação,Ativo,,0,SIM,0
+325824/2026,Mariana Guimarães Montoro Morais,PGCAP,CAP,Mestrado,202601,CAP419,Introdução à Programação com Dados Geoespaciais,Ativo,,0,SIM,0
+325824/2026,Mariana Guimarães Montoro Morais,PGCAP,CAP,Mestrado,202601,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202103,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202103,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202103,CAP423,Ciência de Dados Geoespaciais,Concluído,A-,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202103,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202201,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B-,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202201,CAP349,Banco de Dados Geográficos,Concluído,A-,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202201,CAP354,Inteligência Artificial,Concluído,A,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202202,CAP351,Neurocomputação,Concluído,A+,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202202,CAP378,Tópicos em Observação da Terra,Concluído,A+,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202202,CAP394,Introdução à Ciência de Dados,Concluído,A+,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202203,CAP408,Computação Aplicada às Ciências Atmosféricas,Concluído,A-,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202203,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202203,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202203,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202301,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202302,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202303,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202401,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202401,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202402,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202403,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+327807/2021,Vanessa Colla Paspaltzis,PGCAP,CAP,Mestrado,202403,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+330807/2022,Cesar Augusto de Moraes Costa,PGCAP,CAP,Mestrado,202201,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+330807/2022,Cesar Augusto de Moraes Costa,PGCAP,CAP,Mestrado,202201,CAP349,Banco de Dados Geográficos,Concluído,B,0,SIM,0
+330807/2022,Cesar Augusto de Moraes Costa,PGCAP,CAP,Mestrado,202201,CAP354,Inteligência Artificial,Concluído,A-,0,SIM,0
+330807/2022,Cesar Augusto de Moraes Costa,PGCAP,CAP,Mestrado,202201,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+330807/2022,Cesar Augusto de Moraes Costa,PGCAP,CAP,Mestrado,202201,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+330807/2022,Cesar Augusto de Moraes Costa,PGCAP,CAP,Mestrado,202201,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+330807/2022,Cesar Augusto de Moraes Costa,PGCAP,CAP,Mestrado,202202,CAP351,Neurocomputação,Concluído,B,0,SIM,0
+330807/2022,Cesar Augusto de Moraes Costa,PGCAP,CAP,Mestrado,202202,CAP394,Introdução à Ciência de Dados,Concluído,B+,0,SIM,0
+330807/2022,Cesar Augusto de Moraes Costa,PGCAP,CAP,Mestrado,202202,SER413,Processamento Digital de Imagens de Sensores Remotos,Concluído,C+,0,SIM,0
+330807/2022,Cesar Augusto de Moraes Costa,PGCAP,CAP,Mestrado,202203,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+330807/2022,Cesar Augusto de Moraes Costa,PGCAP,CAP,Mestrado,202203,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+330807/2022,Cesar Augusto de Moraes Costa,PGCAP,CAP,Mestrado,202301,CAP419,Introdução à Programação com Dados Geoespaciais,Concluído,B+,0,SIM,0
+330807/2022,Cesar Augusto de Moraes Costa,PGCAP,CAP,Mestrado,202301,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+330807/2022,Cesar Augusto de Moraes Costa,PGCAP,CAP,Mestrado,202302,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+330807/2022,Cesar Augusto de Moraes Costa,PGCAP,CAP,Mestrado,202302,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+330807/2022,Cesar Augusto de Moraes Costa,PGCAP,CAP,Mestrado,202303,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+330807/2022,Cesar Augusto de Moraes Costa,PGCAP,CAP,Mestrado,202303,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,201901,CAP239,Matemática Computacional I,Concluído,A-,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,201901,CAP241,Computação Aplicada I,Concluído,B+,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,201901,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,201901,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,201901,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,201901,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,201902,CAP349,Banco de Dados Geográficos,Concluído,A,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,201902,CAP394,Introdução à Ciência de Dados,Concluído,A+,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,201902,CAP408,Computação Aplicada às Ciências Atmosféricas,Concluído,A-,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,201903,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,201903,CAP359,Princípios e Aplicações de Mineração de Dados,Concluído,A+,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,201903,CAP378,Tópicos em Observação da Terra,Concluído,A,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,201903,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,202001,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,202001,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,202003,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,202003,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,202101,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+350222/2019,Adriano Pereira Almeida,PGCAP,CAP,Mestrado,202101,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202201,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202201,CAP417,Estatística Computacional,Concluído,A,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202201,CAP418,Métodos Numéricos I,Concluído,A,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202201,CAP419,Introdução à Programação com Dados Geoespaciais,Concluído,A,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202201,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202201,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202201,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202202,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202202,CAP378,Tópicos em Observação da Terra,Concluído,A+,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202202,CAP394,Introdução à Ciência de Dados,Concluído,A-,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202202,CAP465,Modelagem e Simulação de Sistemas Terrestres,Concluído,A,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202203,CAP381,"Redes Complexas, Dinâmica e Aplicações",Concluído,A-,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202203,CAP425,Tópicos Avançados em Modelagem Ambiental,Concluído,A-,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202301,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202301,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202302,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202302,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202303,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202401,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+355730/2022,Matheus de Moraes Gonçalves Correia,PGCAP,CAPMFN,Mestrado,202401,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+363807/2019,Letícia Borges de Meirelles,PGCAP,CAP,Mestrado,201901,CAP239,Matemática Computacional I,Concluído,B-,0,SIM,0
+363807/2019,Letícia Borges de Meirelles,PGCAP,CAP,Mestrado,201901,CAP241,Computação Aplicada I,Concluído,B-,0,SIM,0
+363807/2019,Letícia Borges de Meirelles,PGCAP,CAP,Mestrado,201901,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B,0,SIM,0
+363807/2019,Letícia Borges de Meirelles,PGCAP,CAP,Mestrado,201901,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+363807/2019,Letícia Borges de Meirelles,PGCAP,CAP,Mestrado,201901,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+363807/2019,Letícia Borges de Meirelles,PGCAP,CAP,Mestrado,201902,CAP368,Introdução à Teoria de Sistemas Dinâmicos,Concluído,B,0,SIM,0
+363807/2019,Letícia Borges de Meirelles,PGCAP,CAP,Mestrado,201902,CAP394,Introdução à Ciência de Dados,Concluído,A,0,SIM,0
+363807/2019,Letícia Borges de Meirelles,PGCAP,CAP,Mestrado,201902,CAP465,Modelagem e Simulação de Sistemas Terrestres,Concluído,A-,0,SIM,0
+363807/2019,Letícia Borges de Meirelles,PGCAP,CAP,Mestrado,201903,CAP359,Princípios e Aplicações de Mineração de Dados,Concluído,A-,0,SIM,0
+363807/2019,Letícia Borges de Meirelles,PGCAP,CAP,Mestrado,201903,CAP378,Tópicos em Observação da Terra,Concluído,B+,0,SIM,0
+363807/2019,Letícia Borges de Meirelles,PGCAP,CAP,Mestrado,201903,CAP381,"Redes Complexas, Dinâmica e Aplicações",Concluído,C,0,SIM,0
+363807/2019,Letícia Borges de Meirelles,PGCAP,CAP,Mestrado,201903,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+363807/2019,Letícia Borges de Meirelles,PGCAP,CAP,Mestrado,202001,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+363807/2019,Letícia Borges de Meirelles,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+363807/2019,Letícia Borges de Meirelles,PGCAP,CAP,Mestrado,202003,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+363807/2019,Letícia Borges de Meirelles,PGCAP,CAP,Mestrado,202003,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202301,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202301,CAP349,Banco de Dados Geográficos,Concluído,A-,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202301,CAP372,Processamento de Alto Desempenho,Concluído,B,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202301,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202302,CAP394,Introdução à Ciência de Dados,Concluído,B+,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202302,CAP395,Geoinformática,Concluído,A-,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202302,CAP398,Modelagem e Aplicações de Sistemas Reativos Complexos,Concluído,B+,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202303,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202303,CAP399,Programação de Sistemas Massivamente Paralelos,Concluído,A-,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202303,CAP408,Computação Aplicada às Ciências Atmosféricas,Concluído,B+,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202303,CAP423,Ciência de Dados Geoespaciais,Concluído,B,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202401,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202401,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202402,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202402,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202403,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202501,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202502,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202503,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202503,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202503,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+364879/2023,Reuel Junqueira de Oliveira,PGCAP,CAP,Mestrado,202503,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+366830/2020,Jhones Henrique da Silva,PGCAP,CAP,Mestrado,202001,CAP241,Computação Aplicada I,Concluído,D,0,SIM,0
+366830/2020,Jhones Henrique da Silva,PGCAP,CAP,Mestrado,202001,CAP242,Metodologia Científica em Computação Aplicada,Concluído,D,0,SIM,0
+366830/2020,Jhones Henrique da Silva,PGCAP,CAP,Mestrado,202001,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202401,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B+,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202401,CAP354,Inteligência Artificial,Concluído,A,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202401,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202401,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202401,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202402,CAP351,Neurocomputação,Concluído,B-,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202402,CAP394,Introdução à Ciência de Dados,Concluído,A,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202402,CAP399,Programação de Sistemas Massivamente Paralelos,Concluído,A,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202403,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202403,CAP424,Lógica Nebulosa,Concluído,B,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202403,CAP425,Tópicos Avançados em Modelagem Ambiental,Concluído,A-,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202501,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202501,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202501,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202502,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202503,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202601,CAP335,Aprendizado Computacional e Reconhecimento de Padrões,Ativo,,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202601,CAP417,Estatística Computacional,Ativo,,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202601,CAP418,Métodos Numéricos I,Ativo,,0,SIM,0
+370002/2024,Gerônimo Gallarreta Zubiaurre Lemos,PGCAP,CAP,Mestrado,202601,CAP730,Pesquisa de Mestrado em Computação Aplicada,Ativo,,0,SIM,0
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Mestrado,202401,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B+,0,SIM,0
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Mestrado,202401,CAP354,Inteligência Artificial,Concluído,A-,0,SIM,0
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Mestrado,202401,CAP417,Estatística Computacional,Concluído,A-,0,SIM,0
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Mestrado,202401,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Mestrado,202402,AST203,Técnicas Observacionais em Astrofísica,Concluído,B-,0,SIM,0
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Mestrado,202402,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Mestrado,202402,CAP351,Neurocomputação,Concluído,B-,0,SIM,0
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Mestrado,202402,CAP394,Introdução à Ciência de Dados,Concluído,A-,0,SIM,0
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Mestrado,202403,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Mestrado,202403,CAP424,Lógica Nebulosa,Concluído,B,0,SIM,0
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Mestrado,202403,CAP425,Tópicos Avançados em Modelagem Ambiental,Concluído,A,0,SIM,0
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Mestrado,202403,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Mestrado,202403,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Mestrado,202501,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Mestrado,202501,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Mestrado,202502,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Mestrado,202503,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Mestrado,202503,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+378600/2024,Dener César Mendes,PGCAP,CAPIAE,Mestrado,202503,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,201901,CAP239,Matemática Computacional I,Concluído,B,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,201901,CAP241,Computação Aplicada I,Concluído,B-,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,201901,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B+,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,201901,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,201901,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,201901,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,201902,CAP372,Processamento de Alto Desempenho,Concluído,A-,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,201902,CAP379,Tópicos em Ciências Espaciais,Concluído,A,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,201902,CAP394,Introdução à Ciência de Dados,Concluído,A+,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,201903,CAP359,Princípios e Aplicações de Mineração de Dados,Concluído,A,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,201903,CAP378,Tópicos em Observação da Terra,Concluído,B+,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,201903,CAP399,Programação de Sistemas Massivamente Paralelos,Concluído,A,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,202001,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,202001,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,202003,CAP382,Tópicos em Tecnologias Espaciais,Concluído,A,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,202003,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,202101,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,202101,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,202102,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,202103,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,202201,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+391860/2019,Eduardo Furlan Miranda,PGCAP,CAP,Mestrado,202201,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+401893/2026,Ryan Alves de Quadros,PGCAP,CAP,Mestrado,202502,CAP349,Banco de Dados Geográficos,Concluído,A-,0,SIM,0
+401893/2026,Ryan Alves de Quadros,PGCAP,CAP,Mestrado,202502,CAP351,Neurocomputação,Concluído,A-,0,SIM,0
+401893/2026,Ryan Alves de Quadros,PGCAP,CAP,Mestrado,202503,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+401893/2026,Ryan Alves de Quadros,PGCAP,CAP,Mestrado,202601,CAP242,Metodologia Científica em Computação Aplicada,Ativo,,0,SIM,0
+401893/2026,Ryan Alves de Quadros,PGCAP,CAP,Mestrado,202601,CAP335,Aprendizado Computacional e Reconhecimento de Padrões,Ativo,,0,SIM,0
+401893/2026,Ryan Alves de Quadros,PGCAP,CAP,Mestrado,202601,CAP417,Estatística Computacional,Ativo,,0,SIM,0
+401893/2026,Ryan Alves de Quadros,PGCAP,CAP,Mestrado,202601,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Mestrado,202201,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B,0,SIM,0
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Mestrado,202201,CAP349,Banco de Dados Geográficos,Concluído,B,0,SIM,0
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Mestrado,202201,CAP354,Inteligência Artificial,Concluído,B+,0,SIM,0
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Mestrado,202201,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Mestrado,202202,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Mestrado,202202,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Mestrado,202202,CAP378,Tópicos em Observação da Terra,Concluído,A+,0,SIM,0
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Mestrado,202202,CAP394,Introdução à Ciência de Dados,Concluído,A,0,SIM,0
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Mestrado,202203,CAP408,Computação Aplicada às Ciências Atmosféricas,Concluído,A-,0,SIM,0
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Mestrado,202203,CAP423,Ciência de Dados Geoespaciais,Concluído,B,0,SIM,0
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Mestrado,202203,SER459,Tópicos Avançados em Florestas,Concluído,A,0,SIM,0
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Mestrado,202301,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Mestrado,202301,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Mestrado,202301,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Mestrado,202302,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Mestrado,202303,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Mestrado,202303,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Mestrado,202401,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+408637/2022,Aline Andrade do Nascimento,PGCAP,CAP,Mestrado,202401,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202201,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202201,CAP349,Banco de Dados Geográficos,Concluído,B+,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202201,CAP419,Introdução à Programação com Dados Geoespaciais,Concluído,B+,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202201,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202202,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202202,CAP378,Tópicos em Observação da Terra,Concluído,A+,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202202,CAP394,Introdução à Ciência de Dados,Concluído,A,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202202,CAP395,Geoinformática,Concluído,A+,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202203,CAP423,Ciência de Dados Geoespaciais,Concluído,A-,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202203,CAP425,Tópicos Avançados em Modelagem Ambiental,Concluído,A,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202301,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202301,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202301,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202302,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202303,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202303,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202303,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202303,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202401,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+428492/2022,Pedro Vinícius da Silva Brito,PGCAP,CAPGEO,Mestrado,202401,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,201901,CAP239,Matemática Computacional I,Concluído,B,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,201901,CAP241,Computação Aplicada I,Concluído,A-,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,201901,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,201901,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,201901,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,201901,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,201902,CAP240,Processamento Digital de Imagens,Concluído,B,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,201902,CAP379,Tópicos em Ciências Espaciais,Concluído,A+,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,201902,CAP394,Introdução à Ciência de Dados,Concluído,A,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,201903,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,201903,CAP359,Princípios e Aplicações de Mineração de Dados,Concluído,A,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,201903,CAP378,Tópicos em Observação da Terra,Concluído,A-,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,201903,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,202001,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,202001,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,202003,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,202101,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,202102,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,202102,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,202103,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+438870/2019,Camila Pereira Sales,PGCAP,CAP,Mestrado,202103,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202301,CAP354,Inteligência Artificial,Concluído,A,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202301,CAP372,Processamento de Alto Desempenho,Concluído,A+,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202301,CAP417,Estatística Computacional,Concluído,A+,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202301,CAP418,Métodos Numéricos I,Concluído,A,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202301,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202302,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202302,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202302,CAP370,Computação Aplicada à Física Ambiental,Concluído,A+,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202303,CAP340,Problemas Inversos,Concluído,A-,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202303,CAP421,Aprendizado Profundo,Concluído,A,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202401,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B+,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202401,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202401,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202401,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202401,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202402,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202403,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202501,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202502,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+441658/2023,Daniel Augusto de Sousa Mendes,PGCAP,CAP,Mestrado,202503,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202102,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202102,CAP394,Introdução à Ciência de Dados,Concluído,A-,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202102,CAP399,Programação de Sistemas Massivamente Paralelos,Concluído,A-,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202102,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202103,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202103,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202103,CAP423,Ciência de Dados Geoespaciais,Concluído,B+,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202103,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202103,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202201,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202201,CAP354,Inteligência Artificial,Concluído,A,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202201,CAP382,Tópicos em Tecnologias Espaciais,Concluído,A-,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202201,CAP418,Métodos Numéricos I,Concluído,A-,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202202,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202202,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202202,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202203,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202301,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202302,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202303,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+449630/2021,Otaviano da Cruz Neto,PGCAP,CAP,Mestrado,202401,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+497601/2019,Samuel Lima Ferreira de Araujo,PGCAP,CAP,Mestrado,201901,CAP239,Matemática Computacional I,Concluído,D,0,SIM,0
+497601/2019,Samuel Lima Ferreira de Araujo,PGCAP,CAP,Mestrado,201901,CAP241,Computação Aplicada I,Concluído,D,0,SIM,0
+497601/2019,Samuel Lima Ferreira de Araujo,PGCAP,CAP,Mestrado,201901,CAP242,Metodologia Científica em Computação Aplicada,Concluído,D,0,SIM,0
+497601/2019,Samuel Lima Ferreira de Araujo,PGCAP,CAP,Mestrado,201901,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+497601/2019,Samuel Lima Ferreira de Araujo,PGCAP,CAP,Mestrado,201901,SER300,Introdução ao Geoprocessamento,Concluído,D,0,SIM,0
+502497/2024,Luísa Mirelle Costa dos Santos,PGCAP,CAP,Mestrado,202401,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+502497/2024,Luísa Mirelle Costa dos Santos,PGCAP,CAP,Mestrado,202401,CAP349,Banco de Dados Geográficos,Concluído,B+,0,SIM,0
+502497/2024,Luísa Mirelle Costa dos Santos,PGCAP,CAP,Mestrado,202401,CAP419,Introdução à Programação com Dados Geoespaciais,Concluído,B-,0,SIM,0
+502497/2024,Luísa Mirelle Costa dos Santos,PGCAP,CAP,Mestrado,202401,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+502497/2024,Luísa Mirelle Costa dos Santos,PGCAP,CAP,Mestrado,202401,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+502497/2024,Luísa Mirelle Costa dos Santos,PGCAP,CAP,Mestrado,202402,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+502497/2024,Luísa Mirelle Costa dos Santos,PGCAP,CAP,Mestrado,202402,CAP351,Neurocomputação,Concluído,B+,0,SIM,0
+502497/2024,Luísa Mirelle Costa dos Santos,PGCAP,CAP,Mestrado,202402,CAP394,Introdução à Ciência de Dados,Concluído,A-,0,SIM,0
+502497/2024,Luísa Mirelle Costa dos Santos,PGCAP,CAP,Mestrado,202402,CAP395,Geoinformática,Concluído,B,0,SIM,0
+502497/2024,Luísa Mirelle Costa dos Santos,PGCAP,CAP,Mestrado,202403,CAP421,Aprendizado Profundo,Concluído,B+,0,SIM,0
+502497/2024,Luísa Mirelle Costa dos Santos,PGCAP,CAP,Mestrado,202403,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+502497/2024,Luísa Mirelle Costa dos Santos,PGCAP,CAP,Mestrado,202403,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+502497/2024,Luísa Mirelle Costa dos Santos,PGCAP,CAP,Mestrado,202501,CAP354,Inteligência Artificial,Concluído,A,0,SIM,0
+502497/2024,Luísa Mirelle Costa dos Santos,PGCAP,CAP,Mestrado,202502,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+502497/2024,Luísa Mirelle Costa dos Santos,PGCAP,CAP,Mestrado,202502,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+502497/2024,Luísa Mirelle Costa dos Santos,PGCAP,CAP,Mestrado,202503,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+502497/2024,Luísa Mirelle Costa dos Santos,PGCAP,CAP,Mestrado,202601,CAP730,Pesquisa de Mestrado em Computação Aplicada,Ativo,,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,201901,CAP239,Matemática Computacional I,Concluído,B,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202001,CAP241,Computação Aplicada I,Concluído,A,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202001,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202001,CAP354,Inteligência Artificial,Concluído,B+,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202001,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202002,CAP370,Computação Aplicada à Física Ambiental,Concluído,A,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202002,CAP372,Processamento de Alto Desempenho,Concluído,B+,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202002,CAP379,Tópicos em Ciências Espaciais,Concluído,A-,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202002,CAP465,Modelagem e Simulação de Sistemas Terrestres,Concluído,A-,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202003,CAP400,Visualização e Análise Computacional de Séries Temporais,Concluído,A-,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202003,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202003,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202003,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202101,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202101,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202102,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202103,CAP780,Pesquisa de Doutorado em Computação Aplicada,Trancado,J,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202103,TRC001,Trancamento de Matrícula,Trancado,TM,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202201,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202202,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202202,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202203,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202301,CAP730,Pesquisa de Mestrado em Computação Aplicada,Trancado,J,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202301,TRC002,Trancamento de Matrícula,Trancado,TM,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202302,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202302,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202303,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+510989/2020,Matheus Pereira Bento da Costa,PGCAP,CAP,Mestrado,202303,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+511871/2025,Júlia Ascencio Cansado,PGCAP,CAP,Mestrado,201501,CAP242,Metodologia Científica em Computação Aplicada,Ativo,,0,SIM,0
+511871/2025,Júlia Ascencio Cansado,PGCAP,CAP,Mestrado,202501,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A,0,SIM,0
+511871/2025,Júlia Ascencio Cansado,PGCAP,CAP,Mestrado,202501,CAP354,Inteligência Artificial,Concluído,A+,0,SIM,0
+511871/2025,Júlia Ascencio Cansado,PGCAP,CAP,Mestrado,202501,CAP417,Estatística Computacional,Concluído,A+,0,SIM,0
+511871/2025,Júlia Ascencio Cansado,PGCAP,CAP,Mestrado,202501,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+511871/2025,Júlia Ascencio Cansado,PGCAP,CAP,Mestrado,202501,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+511871/2025,Júlia Ascencio Cansado,PGCAP,CAP,Mestrado,202501,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+511871/2025,Júlia Ascencio Cansado,PGCAP,CAP,Mestrado,202502,CAP349,Banco de Dados Geográficos,Concluído,A+,0,SIM,0
+511871/2025,Júlia Ascencio Cansado,PGCAP,CAP,Mestrado,202502,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+511871/2025,Júlia Ascencio Cansado,PGCAP,CAP,Mestrado,202502,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+511871/2025,Júlia Ascencio Cansado,PGCAP,CAP,Mestrado,202503,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+511871/2025,Júlia Ascencio Cansado,PGCAP,CAP,Mestrado,202503,CAP423,Ciência de Dados Geoespaciais,Ativo,,0,SIM,0
+511871/2025,Júlia Ascencio Cansado,PGCAP,CAP,Mestrado,202503,CAP424,Lógica Nebulosa,Concluído,A-,0,SIM,0
+511871/2025,Júlia Ascencio Cansado,PGCAP,CAP,Mestrado,202601,CAP730,Pesquisa de Mestrado em Computação Aplicada,Ativo,,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202001,CAP239,Matemática Computacional I,Concluído,A-,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202001,CAP241,Computação Aplicada I,Concluído,A-,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202001,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B+,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202001,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202002,CAP349,Banco de Dados Geográficos,Concluído,B+,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202002,CAP372,Processamento de Alto Desempenho,Concluído,A-,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202002,CAP378,Tópicos em Observação da Terra,Concluído,A,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202003,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202003,CAP394,Introdução à Ciência de Dados,Concluído,A,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202003,CAP395,Geoinformática,Concluído,B+,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202003,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202003,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202003,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202101,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202101,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202102,CAP780,Pesquisa de Doutorado em Computação Aplicada,Concluído,P,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202103,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202201,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202202,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202202,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202202,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202203,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202301,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+531802/2020,Yuri Domaradzki Moreira Nunes,PGCAP,CAP,Mestrado,202301,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+543819/2025,Breno Coltro da Costa,PGCAP,CAP,Mestrado,202501,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A,0,SIM,0
+543819/2025,Breno Coltro da Costa,PGCAP,CAP,Mestrado,202501,CAP354,Inteligência Artificial,Concluído,A,0,SIM,0
+543819/2025,Breno Coltro da Costa,PGCAP,CAP,Mestrado,202501,CAP417,Estatística Computacional,Concluído,A,0,SIM,0
+543819/2025,Breno Coltro da Costa,PGCAP,CAP,Mestrado,202501,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+543819/2025,Breno Coltro da Costa,PGCAP,CAP,Mestrado,202501,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+543819/2025,Breno Coltro da Costa,PGCAP,CAP,Mestrado,202501,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+543819/2025,Breno Coltro da Costa,PGCAP,CAP,Mestrado,202502,CAP335,Aprendizado Computacional e Reconhecimento de Padrões,Concluído,A-,0,SIM,0
+543819/2025,Breno Coltro da Costa,PGCAP,CAP,Mestrado,202502,SER413,Processamento Digital de Imagens de Sensores Remotos,Concluído,A-,0,SIM,0
+543819/2025,Breno Coltro da Costa,PGCAP,CAP,Mestrado,202502,SER415,Detecção e Análise de Padrões de Mudanças de Uso e Cobertura da Terra,Concluído,B+,0,SIM,0
+543819/2025,Breno Coltro da Costa,PGCAP,CAP,Mestrado,202503,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+543819/2025,Breno Coltro da Costa,PGCAP,CAP,Mestrado,202503,CAP423,Ciência de Dados Geoespaciais,Ativo,,0,SIM,0
+543819/2025,Breno Coltro da Costa,PGCAP,CAP,Mestrado,202503,SER459,Tópicos Avançados em Florestas,Concluído,A+,0,SIM,0
+543819/2025,Breno Coltro da Costa,PGCAP,CAP,Mestrado,202601,CAP730,Pesquisa de Mestrado em Computação Aplicada,Ativo,,0,SIM,0
+544809/2021,Elias Guilherme Correa Lovato,PGCAP,CAP,Mestrado,202101,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B+,0,SIM,0
+544809/2021,Elias Guilherme Correa Lovato,PGCAP,CAP,Mestrado,202101,CAP372,Processamento de Alto Desempenho,Concluído,A-,0,SIM,0
+544809/2021,Elias Guilherme Correa Lovato,PGCAP,CAP,Mestrado,202101,CAP418,Métodos Numéricos I,Concluído,A+,0,SIM,0
+544809/2021,Elias Guilherme Correa Lovato,PGCAP,CAP,Mestrado,202101,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+544809/2021,Elias Guilherme Correa Lovato,PGCAP,CAP,Mestrado,202102,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+544809/2021,Elias Guilherme Correa Lovato,PGCAP,CAP,Mestrado,202102,CAP379,Tópicos em Ciências Espaciais,Concluído,A+,0,SIM,0
+544809/2021,Elias Guilherme Correa Lovato,PGCAP,CAP,Mestrado,202102,CAP399,Programação de Sistemas Massivamente Paralelos,Concluído,A,0,SIM,0
+544809/2021,Elias Guilherme Correa Lovato,PGCAP,CAP,Mestrado,202102,CAP420,Métodos Numéricos II,Concluído,A,0,SIM,0
+544809/2021,Elias Guilherme Correa Lovato,PGCAP,CAP,Mestrado,202103,CAP340,Problemas Inversos,Concluído,D,0,SIM,0
+544809/2021,Elias Guilherme Correa Lovato,PGCAP,CAP,Mestrado,202201,CAP384,Análise Wavelet I,Trancado,J,0,SIM,0
+544809/2021,Elias Guilherme Correa Lovato,PGCAP,CAP,Mestrado,202201,CAP406,Análise de Wavelet II,Trancado,J,0,SIM,0
+544809/2021,Elias Guilherme Correa Lovato,PGCAP,CAP,Mestrado,202201,TRC001,Trancamento de Matrícula,Trancado,TM,0,SIM,0
+544809/2021,Elias Guilherme Correa Lovato,PGCAP,CAP,Mestrado,202202,CAP398,Modelagem e Aplicações de Sistemas Reativos Complexos,Trancado,J,0,SIM,0
+544809/2021,Elias Guilherme Correa Lovato,PGCAP,CAP,Mestrado,202202,TRC002,Trancamento de Matrícula,Trancado,TM,0,SIM,0
+544809/2021,Elias Guilherme Correa Lovato,PGCAP,CAP,Mestrado,202203,CAP384,Análise Wavelet I,Trancado,J,0,SIM,0
+544809/2021,Elias Guilherme Correa Lovato,PGCAP,CAP,Mestrado,202203,GES204,Física de Plasma I,Trancado,J,0,SIM,0
+544809/2021,Elias Guilherme Correa Lovato,PGCAP,CAP,Mestrado,202203,TRC003,Trancamento de Matrícula,Trancado,TM,0,SIM,0
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Mestrado,202101,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Mestrado,202101,CAP354,Inteligência Artificial,Concluído,A-,0,SIM,0
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Mestrado,202101,CAP417,Estatística Computacional,Concluído,A,0,SIM,0
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Mestrado,202101,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Mestrado,202102,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Mestrado,202102,CAP351,Neurocomputação,Concluído,B+,0,SIM,0
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Mestrado,202102,CAP394,Introdução à Ciência de Dados,Concluído,A-,0,SIM,0
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Mestrado,202102,SER413,Processamento Digital de Imagens de Sensores Remotos,Concluído,B+,0,SIM,0
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Mestrado,202103,CAP381,"Redes Complexas, Dinâmica e Aplicações",Concluído,A+,0,SIM,0
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Mestrado,202103,CAP421,Aprendizado Profundo,Concluído,A,0,SIM,0
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Mestrado,202103,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Mestrado,202103,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Mestrado,202103,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Mestrado,202201,CAP382,Tópicos em Tecnologias Espaciais,Concluído,A,0,SIM,0
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Mestrado,202201,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Mestrado,202202,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Mestrado,202203,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Mestrado,202301,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+565859/2021,Renato de Sousa Maximiano,PGCAP,CAP,Mestrado,202301,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+57874/2020,Carlos Alberto Ferreira de Noronha,PGCAP,CAP,Mestrado,202001,CAP241,Computação Aplicada I,Concluído,D,0,SIM,0
+57874/2020,Carlos Alberto Ferreira de Noronha,PGCAP,CAP,Mestrado,202001,CAP242,Metodologia Científica em Computação Aplicada,Concluído,D,0,SIM,0
+57874/2020,Carlos Alberto Ferreira de Noronha,PGCAP,CAP,Mestrado,202001,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+595750/2021,Matheus Elis da Silva,PGCAP,CAP,Mestrado,202102,CAP378,Tópicos em Observação da Terra,Concluído,A+,0,SIM,0
+595750/2021,Matheus Elis da Silva,PGCAP,CAP,Mestrado,202102,CAP399,Programação de Sistemas Massivamente Paralelos,Concluído,A-,0,SIM,0
+595750/2021,Matheus Elis da Silva,PGCAP,CAP,Mestrado,202102,CAP465,Modelagem e Simulação de Sistemas Terrestres,Concluído,A,0,SIM,0
+595750/2021,Matheus Elis da Silva,PGCAP,CAP,Mestrado,202102,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+595750/2021,Matheus Elis da Silva,PGCAP,CAP,Mestrado,202103,CAP381,"Redes Complexas, Dinâmica e Aplicações",Concluído,A-,0,SIM,0
+595750/2021,Matheus Elis da Silva,PGCAP,CAP,Mestrado,202103,CAP425,Tópicos Avançados em Modelagem Ambiental,Concluído,A-,0,SIM,0
+595750/2021,Matheus Elis da Silva,PGCAP,CAP,Mestrado,202201,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+595750/2021,Matheus Elis da Silva,PGCAP,CAP,Mestrado,202201,CAP417,Estatística Computacional,Concluído,A-,0,SIM,0
+595750/2021,Matheus Elis da Silva,PGCAP,CAP,Mestrado,202201,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+595750/2021,Matheus Elis da Silva,PGCAP,CAP,Mestrado,202201,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+595750/2021,Matheus Elis da Silva,PGCAP,CAP,Mestrado,202202,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+595750/2021,Matheus Elis da Silva,PGCAP,CAP,Mestrado,202202,CAP351,Neurocomputação,Concluído,D,0,SIM,0
+595750/2021,Matheus Elis da Silva,PGCAP,CAP,Mestrado,202202,CAP394,Introdução à Ciência de Dados,Concluído,D,0,SIM,0
+597283/2021,Rayane Pereira Sodré,PGCAP,CAP,Mestrado,202101,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B,0,SIM,0
+597283/2021,Rayane Pereira Sodré,PGCAP,CAP,Mestrado,202101,CAP354,Inteligência Artificial,Concluído,B+,0,SIM,0
+597283/2021,Rayane Pereira Sodré,PGCAP,CAP,Mestrado,202101,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+597283/2021,Rayane Pereira Sodré,PGCAP,CAP,Mestrado,202102,CAP351,Neurocomputação,Concluído,C-,0,SIM,0
+597283/2021,Rayane Pereira Sodré,PGCAP,CAP,Mestrado,202102,CAP394,Introdução à Ciência de Dados,Concluído,B+,0,SIM,0
+597283/2021,Rayane Pereira Sodré,PGCAP,CAP,Mestrado,202102,SER413,Processamento Digital de Imagens de Sensores Remotos,Concluído,D,0,SIM,0
+597283/2021,Rayane Pereira Sodré,PGCAP,CAP,Mestrado,202103,CAP381,"Redes Complexas, Dinâmica e Aplicações",Concluído,D,0,SIM,0
+597283/2021,Rayane Pereira Sodré,PGCAP,CAP,Mestrado,202103,CAP421,Aprendizado Profundo,Concluído,D,0,SIM,0
+597283/2021,Rayane Pereira Sodré,PGCAP,CAP,Mestrado,202103,CAP423,Ciência de Dados Geoespaciais,Concluído,D,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,201901,CAP392,Padrões de Projeto,Concluído,A,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,201902,CAP385,Desenvolvimento de Frameworks,Concluído,A+,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,201903,CAP375,Inteligência Computacional e Aplicações,Concluído,A+,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,202002,CAP379,Tópicos em Ciências Espaciais,Concluído,A-,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,202002,CAP398,Modelagem e Aplicações de Sistemas Reativos Complexos,Concluído,A-,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,202101,CAP418,Métodos Numéricos I,Concluído,A,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,202102,CAP351,Neurocomputação,Concluído,C,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,202103,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,202103,CAP421,Aprendizado Profundo,Concluído,B+,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,202103,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,202103,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,202103,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,202201,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,202201,CAP419,Introdução à Programação com Dados Geoespaciais,Concluído,B,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,202202,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,202203,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,202203,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,202301,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,202302,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,202303,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,202303,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+62622/2021,Cristiano Emanoel Pereira Reis,PGCAP,CAP,Mestrado,202303,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202301,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202301,CAP349,Banco de Dados Geográficos,Concluído,A-,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202301,CAP372,Processamento de Alto Desempenho,Concluído,B+,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202301,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202302,CAP351,Neurocomputação,Concluído,A+,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202302,CAP394,Introdução à Ciência de Dados,Concluído,A-,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202302,CAP395,Geoinformática,Concluído,A+,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202303,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202303,CAP399,Programação de Sistemas Massivamente Paralelos,Concluído,A,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202303,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202303,CAP423,Ciência de Dados Geoespaciais,Concluído,A-,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202303,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202303,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202303,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202401,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202401,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202402,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202403,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202501,CAP780,Pesquisa de Doutorado em Computação Aplicada,Concluído,P,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202502,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+627876/2023,Luiz Fernando Satolo,PGCAP,CAPGEO,Mestrado,202502,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+665409/2026,Daniel Fernandes Pereira,PGCAP,CAP,Mestrado,202601,CAP242,Metodologia Científica em Computação Aplicada,Ativo,,0,SIM,0
+665409/2026,Daniel Fernandes Pereira,PGCAP,CAP,Mestrado,202601,CAP335,Aprendizado Computacional e Reconhecimento de Padrões,Ativo,,0,SIM,0
+665409/2026,Daniel Fernandes Pereira,PGCAP,CAP,Mestrado,202601,CAP351,Neurocomputação,Ativo,,0,SIM,0
+665409/2026,Daniel Fernandes Pereira,PGCAP,CAP,Mestrado,202601,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+665409/2026,Daniel Fernandes Pereira,PGCAP,CAP,Mestrado,202601,CAP511,Extensão em Computação Aplicada e Tecnologias Digitais I,Ativo,,0,SIM,0
+671884/2026,Sandro de Sena Machado,PGCAP,CAP,Mestrado,202601,CAP395,Geoinformática,Ativo,,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,201902,CAP394,Introdução à Ciência de Dados,Concluído,A,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,201903,CAP359,Princípios e Aplicações de Mineração de Dados,Concluído,A-,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202101,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202101,CAP349,Banco de Dados Geográficos,Concluído,A,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202101,CAP419,Introdução à Programação com Dados Geoespaciais,Concluído,A,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202101,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202102,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202102,CAP351,Neurocomputação,Concluído,A+,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202102,CAP378,Tópicos em Observação da Terra,Concluído,A+,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202102,CAP395,Geoinformática,Concluído,A,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202103,CAP423,Ciência de Dados Geoespaciais,Concluído,A-,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202103,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202103,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202201,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202201,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202202,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202203,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202301,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202302,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202303,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202303,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+674995/2021,Marcelly Homem Coelho,PGCAP,CAP,Mestrado,202303,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202401,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202401,CAP354,Inteligência Artificial,Concluído,A,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202401,CAP417,Estatística Computacional,Concluído,A,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202401,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202402,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202402,CAP351,Neurocomputação,Concluído,B,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202402,CAP394,Introdução à Ciência de Dados,Concluído,A,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202402,SER413,Processamento Digital de Imagens de Sensores Remotos,Concluído,B-,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202403,CAP408,Computação Aplicada às Ciências Atmosféricas,Concluído,A,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202403,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202403,CAP424,Lógica Nebulosa,Concluído,B,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202403,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202501,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202501,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202501,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202502,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202503,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202503,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202601,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+678680/2024,Caio Eduardo Dias,PGCAP,CAP,Mestrado,202601,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+693384/2026,Shodipo Fawaz,PGCAP,CAP,Mestrado,202601,CAP242,Metodologia Científica em Computação Aplicada,Ativo,,0,SIM,0
+693384/2026,Shodipo Fawaz,PGCAP,CAP,Mestrado,202601,CAP335,Aprendizado Computacional e Reconhecimento de Padrões,Ativo,,0,SIM,0
+707871/2019,Leoni Augusto Romain da Silva,PGCAP,CAP,Mestrado,201901,CAP239,Matemática Computacional I,Concluído,B+,0,SIM,0
+707871/2019,Leoni Augusto Romain da Silva,PGCAP,CAP,Mestrado,201901,CAP241,Computação Aplicada I,Concluído,B-,0,SIM,0
+707871/2019,Leoni Augusto Romain da Silva,PGCAP,CAP,Mestrado,201901,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B,0,SIM,0
+707871/2019,Leoni Augusto Romain da Silva,PGCAP,CAP,Mestrado,201901,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+707871/2019,Leoni Augusto Romain da Silva,PGCAP,CAP,Mestrado,201901,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+707871/2019,Leoni Augusto Romain da Silva,PGCAP,CAP,Mestrado,201901,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+707871/2019,Leoni Augusto Romain da Silva,PGCAP,CAP,Mestrado,201902,CAP240,Processamento Digital de Imagens,Concluído,C+,0,SIM,0
+707871/2019,Leoni Augusto Romain da Silva,PGCAP,CAP,Mestrado,201902,CAP335,Aprendizado Computacional e Reconhecimento de Padrões,Concluído,B+,0,SIM,0
+707871/2019,Leoni Augusto Romain da Silva,PGCAP,CAP,Mestrado,201902,CAP379,Tópicos em Ciências Espaciais,Concluído,A+,0,SIM,0
+707871/2019,Leoni Augusto Romain da Silva,PGCAP,CAP,Mestrado,201903,CAP359,Princípios e Aplicações de Mineração de Dados,Concluído,A,0,SIM,0
+707871/2019,Leoni Augusto Romain da Silva,PGCAP,CAP,Mestrado,201903,CAP378,Tópicos em Observação da Terra,Concluído,A-,0,SIM,0
+707871/2019,Leoni Augusto Romain da Silva,PGCAP,CAP,Mestrado,201903,CAP400,Visualização e Análise Computacional de Séries Temporais,Concluído,,0,SIM,0
+707871/2019,Leoni Augusto Romain da Silva,PGCAP,CAP,Mestrado,201903,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+707871/2019,Leoni Augusto Romain da Silva,PGCAP,CAP,Mestrado,202001,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+707871/2019,Leoni Augusto Romain da Silva,PGCAP,CAP,Mestrado,202001,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+707871/2019,Leoni Augusto Romain da Silva,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,D,0,SIM,0
+730676/2025,Gabriel Rocha Pinto,PGCAP,CAP,Mestrado,202501,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A,0,SIM,0
+730676/2025,Gabriel Rocha Pinto,PGCAP,CAP,Mestrado,202501,CAP354,Inteligência Artificial,Concluído,A,0,SIM,0
+730676/2025,Gabriel Rocha Pinto,PGCAP,CAP,Mestrado,202501,CAP368,Introdução à Teoria de Sistemas Dinâmicos,Concluído,B,0,SIM,0
+730676/2025,Gabriel Rocha Pinto,PGCAP,CAP,Mestrado,202501,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+730676/2025,Gabriel Rocha Pinto,PGCAP,CAP,Mestrado,202501,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+730676/2025,Gabriel Rocha Pinto,PGCAP,CAP,Mestrado,202501,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+730676/2025,Gabriel Rocha Pinto,PGCAP,CAP,Mestrado,202502,CAP335,Aprendizado Computacional e Reconhecimento de Padrões,Concluído,A+,0,SIM,0
+730676/2025,Gabriel Rocha Pinto,PGCAP,CAP,Mestrado,202502,CAP351,Neurocomputação,Concluído,A+,0,SIM,0
+730676/2025,Gabriel Rocha Pinto,PGCAP,CAP,Mestrado,202502,CMC300,Mecânica Celeste I,Concluído,A+,0,SIM,0
+730676/2025,Gabriel Rocha Pinto,PGCAP,CAP,Mestrado,202503,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+730676/2025,Gabriel Rocha Pinto,PGCAP,CAP,Mestrado,202503,CMC309,Mecânica Celeste II,Concluído,A+,0,SIM,0
+730676/2025,Gabriel Rocha Pinto,PGCAP,CAP,Mestrado,202601,CAP730,Pesquisa de Mestrado em Computação Aplicada,Ativo,,0,SIM,0
+732817/2026,Gabrielly Vitória Camargo do Prado,PGCAP,CAP,Mestrado,202601,CAP242,Metodologia Científica em Computação Aplicada,Ativo,,0,SIM,0
+732817/2026,Gabrielly Vitória Camargo do Prado,PGCAP,CAP,Mestrado,202601,CAP395,Geoinformática,Ativo,,0,SIM,0
+732817/2026,Gabrielly Vitória Camargo do Prado,PGCAP,CAP,Mestrado,202601,CAP417,Estatística Computacional,Ativo,,0,SIM,0
+732817/2026,Gabrielly Vitória Camargo do Prado,PGCAP,CAP,Mestrado,202601,CAP419,Introdução à Programação com Dados Geoespaciais,Ativo,,0,SIM,0
+732817/2026,Gabrielly Vitória Camargo do Prado,PGCAP,CAP,Mestrado,202601,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Mestrado,202401,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B,0,SIM,0
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Mestrado,202401,CAP354,Inteligência Artificial,Concluído,A-,0,SIM,0
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Mestrado,202401,CAP417,Estatística Computacional,Concluído,A-,0,SIM,0
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Mestrado,202401,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Mestrado,202402,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Mestrado,202402,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Mestrado,202402,CAP394,Introdução à Ciência de Dados,Concluído,A-,0,SIM,0
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Mestrado,202402,SER413,Processamento Digital de Imagens de Sensores Remotos,Concluído,C+,0,SIM,0
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Mestrado,202403,CAP408,Computação Aplicada às Ciências Atmosféricas,Concluído,A-,0,SIM,0
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Mestrado,202403,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Mestrado,202403,CAP424,Lógica Nebulosa,Concluído,A-,0,SIM,0
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Mestrado,202403,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Mestrado,202501,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Mestrado,202501,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Mestrado,202502,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Mestrado,202503,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Mestrado,202503,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Mestrado,202503,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+735809/2024,Hércules Carlos dos Santos Pereira,PGCAP,CAP,Mestrado,202601,CAP730,Pesquisa de Mestrado em Computação Aplicada,Ativo,,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202301,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202301,CAP349,Banco de Dados Geográficos,Concluído,A-,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202301,CAP354,Inteligência Artificial,Concluído,A,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202301,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202301,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202301,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202302,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202302,CAP335,Aprendizado Computacional e Reconhecimento de Padrões,Concluído,A-,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202302,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202302,CAP394,Introdução à Ciência de Dados,Concluído,A-,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202303,CAP408,Computação Aplicada às Ciências Atmosféricas,Concluído,A-,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202303,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202303,CAP423,Ciência de Dados Geoespaciais,Concluído,A-,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202401,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202401,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202401,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202402,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202403,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202501,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202502,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202503,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+738890/2023,Milton Borges da Silva,PGCAP,CAP,Mestrado,202503,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+755830/2024,Luiz Gabriel Camilo Lucas,PGCAP,CAP,Mestrado,202401,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+755830/2024,Luiz Gabriel Camilo Lucas,PGCAP,CAP,Mestrado,202401,CAP349,Banco de Dados Geográficos,Concluído,B+,0,SIM,0
+755830/2024,Luiz Gabriel Camilo Lucas,PGCAP,CAP,Mestrado,202401,CAP419,Introdução à Programação com Dados Geoespaciais,Concluído,A-,0,SIM,0
+755830/2024,Luiz Gabriel Camilo Lucas,PGCAP,CAP,Mestrado,202401,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+755830/2024,Luiz Gabriel Camilo Lucas,PGCAP,CAP,Mestrado,202401,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+755830/2024,Luiz Gabriel Camilo Lucas,PGCAP,CAP,Mestrado,202401,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+755830/2024,Luiz Gabriel Camilo Lucas,PGCAP,CAP,Mestrado,202402,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+755830/2024,Luiz Gabriel Camilo Lucas,PGCAP,CAP,Mestrado,202402,CAP351,Neurocomputação,Concluído,B,0,SIM,0
+755830/2024,Luiz Gabriel Camilo Lucas,PGCAP,CAP,Mestrado,202402,CAP395,Geoinformática,Concluído,B,0,SIM,0
+755830/2024,Luiz Gabriel Camilo Lucas,PGCAP,CAP,Mestrado,202402,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+755830/2024,Luiz Gabriel Camilo Lucas,PGCAP,CAP,Mestrado,202402,SER413,Processamento Digital de Imagens de Sensores Remotos,Concluído,C+,0,SIM,0
+755830/2024,Luiz Gabriel Camilo Lucas,PGCAP,CAP,Mestrado,202403,CAP421,Aprendizado Profundo,Trancado,J,0,SIM,0
+755830/2024,Luiz Gabriel Camilo Lucas,PGCAP,CAP,Mestrado,202403,TRC001,Trancamento de Matrícula,Trancado,TM,0,SIM,0
+755830/2024,Luiz Gabriel Camilo Lucas,PGCAP,CAP,Mestrado,202502,CAP394,Introdução à Ciência de Dados,Concluído,A+,0,SIM,0
+755830/2024,Luiz Gabriel Camilo Lucas,PGCAP,CAP,Mestrado,202502,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+755830/2024,Luiz Gabriel Camilo Lucas,PGCAP,CAP,Mestrado,202502,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+755830/2024,Luiz Gabriel Camilo Lucas,PGCAP,CAP,Mestrado,202503,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+755830/2024,Luiz Gabriel Camilo Lucas,PGCAP,CAP,Mestrado,202601,CAP730,Pesquisa de Mestrado em Computação Aplicada,Ativo,,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202201,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B+,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202201,CAP349,Banco de Dados Geográficos,Concluído,B+,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202201,CAP354,Inteligência Artificial,Concluído,A,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202201,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202201,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202201,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202202,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202202,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202202,CAP378,Tópicos em Observação da Terra,Concluído,A+,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202202,CAP394,Introdução à Ciência de Dados,Concluído,A,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202202,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202203,CAP408,Computação Aplicada às Ciências Atmosféricas,Concluído,A-,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202203,CAP423,Ciência de Dados Geoespaciais,Concluído,A-,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202203,CAP424,Lógica Nebulosa,Concluído,A-,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202203,CAP425,Tópicos Avançados em Modelagem Ambiental,Concluído,A-,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202301,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202301,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202302,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202303,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202401,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202402,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+766100/2022,Lourenço José Cavalcante Neto,PGCAP,CAPIAE,Mestrado,202402,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+771117/2025,Salatiel Abraão Avelar Jordão,PGCAP,CAP,Mestrado,202501,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A,0,SIM,0
+771117/2025,Salatiel Abraão Avelar Jordão,PGCAP,CAP,Mestrado,202501,CAP368,Introdução à Teoria de Sistemas Dinâmicos,Concluído,D,0,SIM,0
+771117/2025,Salatiel Abraão Avelar Jordão,PGCAP,CAP,Mestrado,202501,CAP417,Estatística Computacional,Concluído,B+,0,SIM,0
+771117/2025,Salatiel Abraão Avelar Jordão,PGCAP,CAP,Mestrado,202501,CAP418,Métodos Numéricos I,Concluído,A,0,SIM,0
+771117/2025,Salatiel Abraão Avelar Jordão,PGCAP,CAP,Mestrado,202501,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+771117/2025,Salatiel Abraão Avelar Jordão,PGCAP,CAP,Mestrado,202502,CAP335,Aprendizado Computacional e Reconhecimento de Padrões,Concluído,A+,0,SIM,0
+771117/2025,Salatiel Abraão Avelar Jordão,PGCAP,CAP,Mestrado,202502,CAP349,Banco de Dados Geográficos,Concluído,C,0,SIM,0
+771117/2025,Salatiel Abraão Avelar Jordão,PGCAP,CAP,Mestrado,202502,CAP465,Modelagem e Simulação de Sistemas Terrestres,Concluído,C+,0,SIM,0
+771117/2025,Salatiel Abraão Avelar Jordão,PGCAP,CAP,Mestrado,202503,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+771117/2025,Salatiel Abraão Avelar Jordão,PGCAP,CAP,Mestrado,202503,CAP422,Física Matemática Computacional,Ativo,,0,SIM,0
+771117/2025,Salatiel Abraão Avelar Jordão,PGCAP,CAP,Mestrado,202503,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+771117/2025,Salatiel Abraão Avelar Jordão,PGCAP,CAP,Mestrado,202503,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+771117/2025,Salatiel Abraão Avelar Jordão,PGCAP,CAP,Mestrado,202503,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+771117/2025,Salatiel Abraão Avelar Jordão,PGCAP,CAP,Mestrado,202601,CAP730,Pesquisa de Mestrado em Computação Aplicada,Ativo,,0,SIM,0
+779840/2026,Gabriel David dos Santos Alves,PGCAP,CAP,Mestrado,202601,CAP242,Metodologia Científica em Computação Aplicada,Ativo,,0,SIM,0
+779840/2026,Gabriel David dos Santos Alves,PGCAP,CAP,Mestrado,202601,CAP351,Neurocomputação,Ativo,,0,SIM,0
+779840/2026,Gabriel David dos Santos Alves,PGCAP,CAP,Mestrado,202601,CAP417,Estatística Computacional,Ativo,,0,SIM,0
+779840/2026,Gabriel David dos Santos Alves,PGCAP,CAP,Mestrado,202601,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,201901,CAP239,Matemática Computacional I,Concluído,A-,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,201901,CAP241,Computação Aplicada I,Concluído,B+,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,201901,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,201901,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,201901,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,201901,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,201902,CAP349,Banco de Dados Geográficos,Concluído,A,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,201902,CAP394,Introdução à Ciência de Dados,Concluído,A+,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,201902,CAP408,Computação Aplicada às Ciências Atmosféricas,Concluído,A-,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,201903,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,201903,CAP359,Princípios e Aplicações de Mineração de Dados,Concluído,A+,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,201903,CAP378,Tópicos em Observação da Terra,Concluído,A,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,201903,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,202001,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,202001,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,202003,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,202003,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,202101,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+781215/2019,Helvecio Bezerra Leal Neto,PGCAP,CAP,Mestrado,202101,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+806833/2022,Gabriel de Sousa Matsumura,PGCAP,CAP,Mestrado,202201,CAP242,Metodologia Científica em Computação Aplicada,Concluído,D,0,SIM,0
+806833/2022,Gabriel de Sousa Matsumura,PGCAP,CAP,Mestrado,202201,CAP349,Banco de Dados Geográficos,Concluído,D,0,SIM,0
+806833/2022,Gabriel de Sousa Matsumura,PGCAP,CAP,Mestrado,202201,CAP354,Inteligência Artificial,Concluído,D,0,SIM,0
+806833/2022,Gabriel de Sousa Matsumura,PGCAP,CAP,Mestrado,202201,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+80813/2020,Arthur Dotto dos Santos,PGCAP,CAP,Mestrado,202001,CAP239,Matemática Computacional I,Ativo,,0,SIM,0
+80813/2020,Arthur Dotto dos Santos,PGCAP,CAP,Mestrado,202001,CAP241,Computação Aplicada I,Concluído,D,0,SIM,0
+80813/2020,Arthur Dotto dos Santos,PGCAP,CAP,Mestrado,202001,CAP242,Metodologia Científica em Computação Aplicada,Concluído,D,0,SIM,0
+80813/2020,Arthur Dotto dos Santos,PGCAP,CAP,Mestrado,202001,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202401,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B-,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202401,CAP354,Inteligência Artificial,Concluído,A,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202401,CAP417,Estatística Computacional,Concluído,A+,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202401,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202402,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202402,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202402,CAP370,Computação Aplicada à Física Ambiental,Concluído,A+,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202402,SER413,Processamento Digital de Imagens de Sensores Remotos,Concluído,B+,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202403,CAP408,Computação Aplicada às Ciências Atmosféricas,Concluído,A,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202403,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202403,CAP425,Tópicos Avançados em Modelagem Ambiental,Concluído,A,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202403,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202501,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202501,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202501,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202502,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202503,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202503,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202601,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+825750/2024,Matheus Corrêa Domingos,PGCAP,CAP,Mestrado,202601,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+842863/2025,Carlos Eduardo Falandes,PGCAP,CAP,Mestrado,202403,CAP422,Física Matemática Computacional,Concluído,A+,0,SIM,0
+842863/2025,Carlos Eduardo Falandes,PGCAP,CAP,Mestrado,202501,AST204,Processos Radiativos I,Concluído,B+,0,SIM,0
+842863/2025,Carlos Eduardo Falandes,PGCAP,CAP,Mestrado,202501,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A,0,SIM,0
+842863/2025,Carlos Eduardo Falandes,PGCAP,CAP,Mestrado,202501,CAP417,Estatística Computacional,Concluído,A+,0,SIM,0
+842863/2025,Carlos Eduardo Falandes,PGCAP,CAP,Mestrado,202501,CAP418,Métodos Numéricos I,Concluído,A+,0,SIM,0
+842863/2025,Carlos Eduardo Falandes,PGCAP,CAP,Mestrado,202501,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+842863/2025,Carlos Eduardo Falandes,PGCAP,CAP,Mestrado,202502,AST203,Técnicas Observacionais em Astrofísica,Concluído,B,0,SIM,0
+842863/2025,Carlos Eduardo Falandes,PGCAP,CAP,Mestrado,202502,CAP351,Neurocomputação,Concluído,D,0,SIM,0
+842863/2025,Carlos Eduardo Falandes,PGCAP,CAP,Mestrado,202503,AST408,Astrofísica Computacional,Concluído,A+,0,SIM,0
+842863/2025,Carlos Eduardo Falandes,PGCAP,CAP,Mestrado,202503,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+842863/2025,Carlos Eduardo Falandes,PGCAP,CAP,Mestrado,202503,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+842863/2025,Carlos Eduardo Falandes,PGCAP,CAP,Mestrado,202601,CAP368,Introdução à Teoria de Sistemas Dinâmicos,Ativo,,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202101,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202101,CAP349,Banco de Dados Geográficos,Concluído,A,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202101,CAP417,Estatística Computacional,Concluído,A+,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202101,CAP419,Introdução à Programação com Dados Geoespaciais,Concluído,A,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202101,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202102,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202102,CAP378,Tópicos em Observação da Terra,Concluído,A+,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202102,CAP394,Introdução à Ciência de Dados,Concluído,A,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202102,CAP395,Geoinformática,Concluído,A-,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202102,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202102,SER413,Processamento Digital de Imagens de Sensores Remotos,Concluído,B+,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202103,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202103,CAP423,Ciência de Dados Geoespaciais,Concluído,A-,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202103,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202103,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202103,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202201,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202201,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202202,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202203,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202301,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202302,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202303,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+865826/2021,Abner Ernâni dos Anjos,PGCAP,CAP,Mestrado,202303,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,201901,CAP239,Matemática Computacional I,Concluído,B+,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,201901,CAP241,Computação Aplicada I,Concluído,A-,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,201901,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,201901,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,201901,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,201901,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,201902,CAP335,Aprendizado Computacional e Reconhecimento de Padrões,Concluído,B+,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,201902,CAP349,Banco de Dados Geográficos,Concluído,A,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,201902,CAP394,Introdução à Ciência de Dados,Concluído,A+,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,201903,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,201903,CAP359,Princípios e Aplicações de Mineração de Dados,Concluído,A+,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,201903,CAP378,Tópicos em Observação da Terra,Concluído,A-,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,201903,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,202001,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,202001,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,202003,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,202003,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,202101,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,202102,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+866864/2019,Felipe Carvalho de Souza,PGCAP,CAP,Mestrado,202102,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+876103/2026,Giulia Katherine Romas Tomazeli,PGCAP,CAP,Mestrado,202601,CAP242,Metodologia Científica em Computação Aplicada,Ativo,,0,SIM,0
+876103/2026,Giulia Katherine Romas Tomazeli,PGCAP,CAP,Mestrado,202601,CAP351,Neurocomputação,Ativo,,0,SIM,0
+876103/2026,Giulia Katherine Romas Tomazeli,PGCAP,CAP,Mestrado,202601,CAP395,Geoinformática,Ativo,,0,SIM,0
+876103/2026,Giulia Katherine Romas Tomazeli,PGCAP,CAP,Mestrado,202601,CAP419,Introdução à Programação com Dados Geoespaciais,Ativo,,0,SIM,0
+876103/2026,Giulia Katherine Romas Tomazeli,PGCAP,CAP,Mestrado,202601,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+885809/2026,Maria Clara de Souza Cruz,PGCAP,CAP,Mestrado,202601,CAP242,Metodologia Científica em Computação Aplicada,Ativo,,0,SIM,0
+885809/2026,Maria Clara de Souza Cruz,PGCAP,CAP,Mestrado,202601,CAP335,Aprendizado Computacional e Reconhecimento de Padrões,Ativo,,0,SIM,0
+885809/2026,Maria Clara de Souza Cruz,PGCAP,CAP,Mestrado,202601,CAP351,Neurocomputação,Ativo,,0,SIM,0
+885809/2026,Maria Clara de Souza Cruz,PGCAP,CAP,Mestrado,202601,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+891108/2026,Giann Kenyd Correa,PGCAP,CAP,Mestrado,202601,CAP242,Metodologia Científica em Computação Aplicada,Ativo,,0,SIM,0
+891108/2026,Giann Kenyd Correa,PGCAP,CAP,Mestrado,202601,CAP351,Neurocomputação,Ativo,,0,SIM,0
+891108/2026,Giann Kenyd Correa,PGCAP,CAP,Mestrado,202601,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+896881/2025,Júlia Sousa Gayotto,PGCAP,CAP,Mestrado,202501,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A,0,SIM,0
+896881/2025,Júlia Sousa Gayotto,PGCAP,CAP,Mestrado,202501,CAP354,Inteligência Artificial,Concluído,A,0,SIM,0
+896881/2025,Júlia Sousa Gayotto,PGCAP,CAP,Mestrado,202501,CAP417,Estatística Computacional,Concluído,A,0,SIM,0
+896881/2025,Júlia Sousa Gayotto,PGCAP,CAP,Mestrado,202501,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+896881/2025,Júlia Sousa Gayotto,PGCAP,CAP,Mestrado,202501,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+896881/2025,Júlia Sousa Gayotto,PGCAP,CAP,Mestrado,202501,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+896881/2025,Júlia Sousa Gayotto,PGCAP,CAP,Mestrado,202502,CAP335,Aprendizado Computacional e Reconhecimento de Padrões,Concluído,A+,0,SIM,0
+896881/2025,Júlia Sousa Gayotto,PGCAP,CAP,Mestrado,202502,CAP349,Banco de Dados Geográficos,Concluído,A,0,SIM,0
+896881/2025,Júlia Sousa Gayotto,PGCAP,CAP,Mestrado,202502,CAP351,Neurocomputação,Concluído,A-,0,SIM,0
+896881/2025,Júlia Sousa Gayotto,PGCAP,CAP,Mestrado,202503,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+896881/2025,Júlia Sousa Gayotto,PGCAP,CAP,Mestrado,202503,CAP424,Lógica Nebulosa,Concluído,A,0,SIM,0
+896881/2025,Júlia Sousa Gayotto,PGCAP,CAP,Mestrado,202601,CAP395,Geoinformática,Ativo,,0,SIM,0
+904711/2020,Natália Motta Costa Marau Pedroso,PGCAP,CAP,Mestrado,202001,CAP239,Matemática Computacional I,Concluído,A,0,SIM,0
+904711/2020,Natália Motta Costa Marau Pedroso,PGCAP,CAP,Mestrado,202001,CAP241,Computação Aplicada I,Concluído,A,0,SIM,0
+904711/2020,Natália Motta Costa Marau Pedroso,PGCAP,CAP,Mestrado,202001,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B+,0,SIM,0
+904711/2020,Natália Motta Costa Marau Pedroso,PGCAP,CAP,Mestrado,202001,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+904711/2020,Natália Motta Costa Marau Pedroso,PGCAP,CAP,Mestrado,202001,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+904711/2020,Natália Motta Costa Marau Pedroso,PGCAP,CAP,Mestrado,202001,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+904711/2020,Natália Motta Costa Marau Pedroso,PGCAP,CAP,Mestrado,202002,CAP349,Banco de Dados Geográficos,Concluído,B+,0,SIM,0
+904711/2020,Natália Motta Costa Marau Pedroso,PGCAP,CAP,Mestrado,202002,CAP372,Processamento de Alto Desempenho,Concluído,B,0,SIM,0
+904711/2020,Natália Motta Costa Marau Pedroso,PGCAP,CAP,Mestrado,202002,CAP378,Tópicos em Observação da Terra,Concluído,A+,0,SIM,0
+904711/2020,Natália Motta Costa Marau Pedroso,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+904711/2020,Natália Motta Costa Marau Pedroso,PGCAP,CAP,Mestrado,202003,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+904711/2020,Natália Motta Costa Marau Pedroso,PGCAP,CAP,Mestrado,202003,CAP394,Introdução à Ciência de Dados,Concluído,A,0,SIM,0
+904711/2020,Natália Motta Costa Marau Pedroso,PGCAP,CAP,Mestrado,202003,CAP395,Geoinformática,Concluído,B+,0,SIM,0
+904711/2020,Natália Motta Costa Marau Pedroso,PGCAP,CAP,Mestrado,202003,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+904711/2020,Natália Motta Costa Marau Pedroso,PGCAP,CAP,Mestrado,202101,CAP730,Pesquisa de Mestrado em Computação Aplicada,Trancado,J,0,SIM,0
+904711/2020,Natália Motta Costa Marau Pedroso,PGCAP,CAP,Mestrado,202101,TRC001,Trancamento de Matrícula,Trancado,TM,0,SIM,0
+904711/2020,Natália Motta Costa Marau Pedroso,PGCAP,CAP,Mestrado,202102,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+904711/2020,Natália Motta Costa Marau Pedroso,PGCAP,CAP,Mestrado,202103,CAP730,Pesquisa de Mestrado em Computação Aplicada,Ativo,,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202001,CAP239,Matemática Computacional I,Concluído,A-,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202001,CAP241,Computação Aplicada I,Concluído,B+,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202001,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B+,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202001,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202002,CAP349,Banco de Dados Geográficos,Concluído,B+,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202002,CAP375,Inteligência Computacional e Aplicações,Concluído,A-,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202002,CAP378,Tópicos em Observação da Terra,Concluído,A,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202003,CAP351,Neurocomputação,Concluído,B,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202003,CAP394,Introdução à Ciência de Dados,Concluído,A-,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202003,CAP408,Computação Aplicada às Ciências Atmosféricas,Concluído,B+,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202003,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202003,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202003,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202101,CAP730,Pesquisa de Mestrado em Computação Aplicada,Trancado,J,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202101,TRC001,Trancamento de Matrícula,Trancado,TM,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202102,CAP730,Pesquisa de Mestrado em Computação Aplicada,Trancado,J,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202102,TRC002,Trancamento de Matrícula,Trancado,TM,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202103,CAP730,Pesquisa de Mestrado em Computação Aplicada,Trancado,J,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202103,TRC003,Trancamento de Matrícula,Trancado,TM,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202201,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202201,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202201,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202201,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202202,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202203,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202301,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202302,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202303,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202401,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+906025/2020,Fernando Cossetin,PGCAP,CAP,Mestrado,202401,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202001,CAP239,Matemática Computacional I,Concluído,A+,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202001,CAP241,Computação Aplicada I,Concluído,A-,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202001,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B+,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202001,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202001,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202001,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202002,CAP370,Computação Aplicada à Física Ambiental,Concluído,A+,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202002,CAP372,Processamento de Alto Desempenho,Concluído,A-,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202002,CAP378,Tópicos em Observação da Terra,Concluído,A+,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202002,CAP465,Modelagem e Simulação de Sistemas Terrestres,Concluído,A-,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202003,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202003,CAP381,"Redes Complexas, Dinâmica e Aplicações",Concluído,A-,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202003,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202101,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202101,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202102,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202103,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202103,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202103,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+915763/2020,Giovanni Guarnieri Soares,PGCAP,CAP,Mestrado,202103,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+921218/2025,Edson Cláudio Tchivango Segunda,PGCAP,CAP,Mestrado,202501,CAP501,Seminários em Computação Aplicada I,Ativo,,0,SIM,0
+921218/2025,Edson Cláudio Tchivango Segunda,PGCAP,CAP,Mestrado,202501,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+921218/2025,Edson Cláudio Tchivango Segunda,PGCAP,CAP,Mestrado,202502,CAP349,Banco de Dados Geográficos,Concluído,A-,0,SIM,0
+921218/2025,Edson Cláudio Tchivango Segunda,PGCAP,CAP,Mestrado,202502,CAP351,Neurocomputação,Concluído,B+,0,SIM,0
+921218/2025,Edson Cláudio Tchivango Segunda,PGCAP,CAP,Mestrado,202502,CAP394,Introdução à Ciência de Dados,Concluído,A,0,SIM,0
+921218/2025,Edson Cláudio Tchivango Segunda,PGCAP,CAP,Mestrado,202503,CAP408,Computação Aplicada às Ciências Atmosféricas,Concluído,A-,0,SIM,0
+921218/2025,Edson Cláudio Tchivango Segunda,PGCAP,CAP,Mestrado,202503,CAP421,Aprendizado Profundo,Concluído,A-,0,SIM,0
+921218/2025,Edson Cláudio Tchivango Segunda,PGCAP,CAP,Mestrado,202503,CAP424,Lógica Nebulosa,Concluído,B+,0,SIM,0
+921218/2025,Edson Cláudio Tchivango Segunda,PGCAP,CAP,Mestrado,202503,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+921218/2025,Edson Cláudio Tchivango Segunda,PGCAP,CAP,Mestrado,202503,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+921218/2025,Edson Cláudio Tchivango Segunda,PGCAP,CAP,Mestrado,202601,CAP242,Metodologia Científica em Computação Aplicada,Ativo,,0,SIM,0
+921218/2025,Edson Cláudio Tchivango Segunda,PGCAP,CAP,Mestrado,202601,CAP335,Aprendizado Computacional e Reconhecimento de Padrões,Ativo,,0,SIM,0
+921218/2025,Edson Cláudio Tchivango Segunda,PGCAP,CAP,Mestrado,202601,CAP419,Introdução à Programação com Dados Geoespaciais,Ativo,,0,SIM,0
+921218/2025,Edson Cláudio Tchivango Segunda,PGCAP,CAP,Mestrado,202601,CAP730,Pesquisa de Mestrado em Computação Aplicada,Ativo,,0,SIM,0
+921218/2025,Edson Cláudio Tchivango Segunda,PGCAP,CAP,Mestrado,202601,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202001,CAP354,Inteligência Artificial,Concluído,A,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202101,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B+,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202101,CAP349,Banco de Dados Geográficos,Concluído,B+,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202101,CAP419,Introdução à Programação com Dados Geoespaciais,Concluído,A+,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202101,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202102,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202102,CAP378,Tópicos em Observação da Terra,Concluído,A+,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202102,CAP394,Introdução à Ciência de Dados,Concluído,A-,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202102,CAP395,Geoinformática,Concluído,A+,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202102,SER413,Processamento Digital de Imagens de Sensores Remotos,Concluído,B+,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202103,CAP421,Aprendizado Profundo,Concluído,B+,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202103,CAP423,Ciência de Dados Geoespaciais,Concluído,A,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202103,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202103,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202201,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202201,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202202,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202203,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202301,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202301,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202302,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+925806/2021,Gabriel Koyama Alves,PGCAP,CAP,Mestrado,202302,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+92900/2026,Helena Buschermöhle,PGCAP,CAP,Mestrado,202601,AST200,Evolução Estelar I,Ativo,,0,SIM,0
+92900/2026,Helena Buschermöhle,PGCAP,CAP,Mestrado,202601,CAP335,Aprendizado Computacional e Reconhecimento de Padrões,Ativo,,0,SIM,0
+92900/2026,Helena Buschermöhle,PGCAP,CAP,Mestrado,202601,CAP351,Neurocomputação,Ativo,,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202001,CAP239,Matemática Computacional I,Concluído,A+,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202001,CAP241,Computação Aplicada I,Concluído,A,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202001,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202001,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202002,CAP349,Banco de Dados Geográficos,Concluído,A+,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202002,CAP372,Processamento de Alto Desempenho,Concluído,A,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202002,CAP378,Tópicos em Observação da Terra,Concluído,A+,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202003,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202003,CAP394,Introdução à Ciência de Dados,Concluído,A+,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202003,CAP395,Geoinformática,Concluído,A+,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202003,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202003,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202003,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202003,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202101,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202101,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202102,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202102,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202103,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202201,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202202,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202203,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+945820/2020,Felipe Menino Carlos,PGCAP,CAP,Mestrado,202203,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202302,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202302,CAP351,Neurocomputação,Concluído,B+,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202302,CAP394,Introdução à Ciência de Dados,Concluído,A-,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202302,CAP398,Modelagem e Aplicações de Sistemas Reativos Complexos,Concluído,A-,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202302,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202303,CAP399,Programação de Sistemas Massivamente Paralelos,Concluído,A-,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202303,CAP408,Computação Aplicada às Ciências Atmosféricas,Concluído,B+,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202303,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202303,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202401,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202401,CAP354,Inteligência Artificial,Concluído,A-,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202401,CAP368,Introdução à Teoria de Sistemas Dinâmicos,Concluído,A,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202402,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202402,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202402,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202403,CAP237,Sistemas Caóticos,Concluído,B+,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202403,CAP421,Aprendizado Profundo,Concluído,B,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202501,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202502,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202503,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+968663/2023,Gabriella Augusta de Oliveira Correa,PGCAP,CAP,Mestrado,202601,CAP730,Pesquisa de Mestrado em Computação Aplicada,Ativo,,0,SIM,0
+969990/2020,Roberto Brusnicki,PGCAP,CAP,Mestrado,202001,CAP239,Matemática Computacional I,Ativo,,0,SIM,0
+969990/2020,Roberto Brusnicki,PGCAP,CAP,Mestrado,202001,CAP241,Computação Aplicada I,Concluído,D,0,SIM,0
+969990/2020,Roberto Brusnicki,PGCAP,CAP,Mestrado,202001,CAP242,Metodologia Científica em Computação Aplicada,Concluído,D,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202001,CAP241,Computação Aplicada I,Concluído,A-,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202001,CAP242,Metodologia Científica em Computação Aplicada,Concluído,A-,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202001,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202002,CAP375,Inteligência Computacional e Aplicações,Concluído,A+,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202002,CAP379,Tópicos em Ciências Espaciais,Concluído,A,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202002,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202003,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202003,CAP394,Introdução à Ciência de Dados,Concluído,A,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202003,CAP399,Programação de Sistemas Massivamente Paralelos,Concluído,A-,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202003,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202003,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202003,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202101,CAP372,Processamento de Alto Desempenho,Concluído,A-,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202101,CAP419,Introdução à Programação com Dados Geoespaciais,Concluído,A,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202101,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202102,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202102,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202103,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202201,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202201,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+974876/2020,Rafael Marinho de Andrade,PGCAP,CAP,Mestrado,202201,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202101,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202101,CAP349,Banco de Dados Geográficos,Concluído,A,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202101,CAP419,Introdução à Programação com Dados Geoespaciais,Concluído,A+,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202101,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202102,CAP378,Tópicos em Observação da Terra,Concluído,A+,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202102,CAP394,Introdução à Ciência de Dados,Concluído,A-,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202102,CAP395,Geoinformática,Concluído,A-,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202102,CAP465,Modelagem e Simulação de Sistemas Terrestres,Concluído,A,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202103,CAP423,Ciência de Dados Geoespaciais,Concluído,A,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202103,CAP425,Tópicos Avançados em Modelagem Ambiental,Concluído,A,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202103,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202103,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202201,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202201,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202201,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202202,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202203,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202203,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202301,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202302,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202303,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202401,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+975833/2021,Sabrina Guilherme Marques,PGCAP,CAP,Mestrado,202401,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Mestrado,202101,CAP242,Metodologia Científica em Computação Aplicada,Concluído,B+,0,SIM,0
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Mestrado,202101,CAP354,Inteligência Artificial,Concluído,A,0,SIM,0
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Mestrado,202101,CAP417,Estatística Computacional,Concluído,A-,0,SIM,0
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Mestrado,202101,CAP501,Seminários em Computação Aplicada I,Concluído,P,0,SIM,0
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Mestrado,202102,BPL001,Curso de Boas Práticas de Laboratório,Concluído,P,0,SIM,0
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Mestrado,202102,CAP351,Neurocomputação,Concluído,A,0,SIM,0
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Mestrado,202102,CAP394,Introdução à Ciência de Dados,Concluído,A+,0,SIM,0
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Mestrado,202102,SER413,Processamento Digital de Imagens de Sensores Remotos,Concluído,B+,0,SIM,0
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Mestrado,202103,CAP421,Aprendizado Profundo,Concluído,A,0,SIM,0
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Mestrado,202103,CAP423,Ciência de Dados Geoespaciais,Concluído,A,0,SIM,0
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Mestrado,202103,EXL001,Exame de língua estrangeira - Português - Inglês,Concluído,P,0,SIM,0
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Mestrado,202103,EXL002,Exame de língua estrangeira: Inglês,Concluído,P,0,SIM,0
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Mestrado,202103,OPP001,Orientação para Pesquisa e Publicação Digital no INPE,Concluído,P,0,SIM,0
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Mestrado,202201,CAP382,Tópicos em Tecnologias Espaciais,Concluído,A,0,SIM,0
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Mestrado,202201,EXP001,Exame de Proposta de Dissertação,Concluído,P,0,SIM,0
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Mestrado,202202,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Mestrado,202203,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Mestrado,202301,CAP730,Pesquisa de Mestrado em Computação Aplicada,Concluído,P,0,SIM,0
+994107/2021,Mateus de Souza Miranda,PGCAP,CAP,Mestrado,202301,CAP750,Dissertação de Mestrado,Concluído,P,0,SIM,0

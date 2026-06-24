@@ -1,0 +1,377 @@
+prefix,sigla_mat,nome_mat
+ADA,ADA002,Introdução a Computação
+ADA,ADA003,Conceitos Básicos de Programação
+ADA,ADA004,Revisão de Conceitos Básicos de Matemática
+ADA,ADA010,Introdução a Automata e Copiladores
+ADA,ADA011,Introdução à Organização de Computadores
+ADA,ADA012,Introdução ao Sistema Operacionais
+ADA,ADA013,Matemática para Computação
+ADA,ADA015,Autômata e Compiladores
+ADA,ADA016,Organização de Computadores
+ADA,ADA017,Sistemas Operacionais
+ADA,ADA019,Técnicas de Programação
+ADA,ADA023,Introdução aos Métodos Matemáticos
+ADA,ADA024,Introdução a Álgebra Linear
+ADA,ADA026,Introdução a Teoria Econômica
+ADA,ADA037,Introdução a Linguagens de Programação
+ANS,ANS002,Pesquisa Operacional I
+ANS,ANS007,Introdução aos Modelos Econômicos
+ANS,ANS030,Dissertação de Mestrado
+ANS,ANS100,Introdução a Econômia
+ANS,ANS240,Princípios de Administração
+ANS,ANS262,Otimização de Sistemas I
+ANS,ANS300,Econometria
+ANS,ANS309,Teoria Econômica
+ANS,ANS320,Teoria Micro-Econômica
+ANS,ANS324,Teoria de Controle
+ANS,ANS327,Método de Planejamento e Projeto de Sistemas
+ANS,ANS328,Avaliação Econômica de Projetos
+ANS,ANS332,Teoria de Controle
+ANS,ANS402,Desenvolvimento e Programação Econômica
+ANS,ANS410,Controle Ótimo de Sistemas Dinâmicos: Métodos Numéricos
+ANS,ANS411,Tópicos Especiais da Teoria da Estimação
+ANS,ANS421,Algoritmos Especiais de Programação Matemática
+ANS,ANS450,Programação Matemática
+ANS,ANS482,Análise de Sistemas Discreto no Tempo
+ANS,ANS500,Seminários
+ANS,ANS501,Seminário
+ANS,ANS510,Seminário de Engenharia de Sistemas
+ANS,ANS600,Trabalho de Laboratório
+ANS,ANS602,Trabalho de Laboratório
+ANS,ANS620,Projeto Coletivo ANS-Dissertação
+ANS,ANS621,Docência
+ANS,ANS622,Docência
+ANS,ANS623,Docência
+ANS,ANS730,Pesquisa de Mestrado em Análise de Sistemas
+ANS,ANS750,Dissertação de Mestrado em Análise de Sistemas
+ANS,ANS780,Pesquisa de Doutorado
+ANS,ANS800,Tese de Doutorado
+AST,AST200,Evolução Estelar I
+AST,AST203,Técnicas Observacionais em Astrofísica
+AST,AST204,Processos Radiativos I
+AST,AST402,Introdução à Relatividade Geral
+AST,AST408,Astrofísica Computacional
+AST,AST413,Fundamentos de Cosmologia
+BPL,BPL001,Curso de Boas Práticas de Laboratório
+CAP,CAP103,Tópicos Básicos em Computação
+CAP,CAP104,Fundamentos de Organização de Computadores
+CAP,CAP105,Fundamentos de Sistemas Operacionais e Redes
+CAP,CAP106,Fundamentos de Autômatos e Linguagens Formais
+CAP,CAP107,"Fundamentos de Autômatas,  Linguagens Formais e Computabilidade"
+CAP,CAP200,Matemática Concreta e Estrutura Algébricas
+CAP,CAP201,Introdução à Lógica
+CAP,CAP202,Introdução à Rede de Computadores
+CAP,CAP203,Programação Estruturada
+CAP,CAP204,Estrutura e Algoritmos
+CAP,CAP205,Engenharia de Software
+CAP,CAP207,Lógica
+CAP,CAP208,Sistemas de Banco de Dados
+CAP,CAP210,Lógicas não Clássicas para Inteligência Artificial
+CAP,CAP211,Processamento de Alto Desempenho I
+CAP,CAP212,Estrutura de Dados
+CAP,CAP213,Lógica para Inteligência Artificial
+CAP,CAP214,Métodos Numéricos I
+CAP,CAP216,Linguagens de Programação para Inteligência Artificial
+CAP,CAP217,Processamento Digital de Sinais
+CAP,CAP218,Processos Estocásticos
+CAP,CAP220,Métodos em Otimização
+CAP,CAP221,Cálculo Numérico
+CAP,CAP222,Fundamentos da Teoria dos Conjuntos Nebulosos e da Teoria de Possibilidades
+CAP,CAP223,Estrutura e Algoritmos
+CAP,CAP224,Processamento Digital de Imagens
+CAP,CAP225,Processamento de Alto Desempenho I
+CAP,CAP226,Física Estatística Computacional
+CAP,CAP227,Segurança de Redes e Sistemas de Informação I
+CAP,CAP228,"Linguagens Formais, Autômatos e Construção de Compiladores"
+CAP,CAP229,Sistemas Operacionais
+CAP,CAP230,Computação Gráfica I
+CAP,CAP231,Processos Estocásticos
+CAP,CAP232,Matemática Computacional I
+CAP,CAP233,Estrutura e Algoritmos
+CAP,CAP234,Computação Aplicada I
+CAP,CAP235,Matemática Computacional II
+CAP,CAP236,Computação Aplicada II
+CAP,CAP237,Sistemas Caóticos
+CAP,CAP239,Matemática Computacional I
+CAP,CAP240,Processamento Digital de Imagens
+CAP,CAP241,Computação Aplicada I
+CAP,CAP242,Metodologia Cientíca em Computação Aplicada
+CAP,CAP250,Álgebra para a Ciência da Computação
+CAP,CAP251,Álgebra para a Ciência da Computação
+CAP,CAP252,Computação Gráfica I
+CAP,CAP253,Inteligência Artificial I
+CAP,CAP254,Otimização Combinatória
+CAP,CAP255,Simulação de Sistemas
+CAP,CAP256,Redes de Computadores
+CAP,CAP257,Inteligência Artificial I
+CAP,CAP258,Redes de Comunicação de Dados
+CAP,CAP259,Simulação de Sistemas
+CAP,CAP260,Sistemas Caóticos I
+CAP,CAP300,Compiladores: Técnicas e Construção
+CAP,CAP302,Gráficos por Computador
+CAP,CAP303,Programação de Sistemas
+CAP,CAP304,Introdução à Inteligência Artificial
+CAP,CAP305,Análise de Algoritmos
+CAP,CAP306,Métodos Numéricos I
+CAP,CAP307,Introdução a Dinâmica Não-Linear Computacional
+CAP,CAP308,Computação Gráfica II
+CAP,CAP309,Inteligência Artificial II
+CAP,CAP310,Sistemas Operacionais
+CAP,CAP311,Física Matemática
+CAP,CAP312,Programação de Redes de Computadores
+CAP,CAP313,Bases de Morfologia Matemática para Análise de Imagens
+CAP,CAP314,Neurocomputação
+CAP,CAP315,Processamento de Alto Desempenho II
+CAP,CAP316,Sistemas de Banco de Dados
+CAP,CAP317,O Processamento de Linguagem Natural na Interação Homem-Máquina
+CAP,CAP318,Metodologias Orientadas a Objetos
+CAP,CAP319,Redes Neurais em Controle de Sistemas
+CAP,CAP320,Análise Numérica I
+CAP,CAP321,Visualização Científica
+CAP,CAP322,Mecânica dos Fluidos Computacional
+CAP,CAP323,Fenômenos de Transporte Computacional
+CAP,CAP324,Bases da Morfologia Matemática para Análise de Imagens
+CAP,CAP325,Tópicos  Avançados em Simulação de Sistemas
+CAP,CAP326,Tópicos em Engenharia de Software
+CAP,CAP327,Tópicos Avançados em Simulação de Sistemas
+CAP,CAP328,Teoria do Controle Inteligente
+CAP,CAP329,Análise e Simulação de Materiais Semicondutores
+CAP,CAP330,Física Estatística Computacional
+CAP,CAP331,Física Matemática
+CAP,CAP332,Reconhecimento Estatístico de Padrões
+CAP,CAP333,Processamento Digital de Imagens
+CAP,CAP334,Processamento Paralelo
+CAP,CAP335,Aprendizado Computacional e Reconhecimento de Padrões
+CAP,CAP336,Análise Numérica II
+CAP,CAP337,Processamento Digital de Imagens
+CAP,CAP338,Métodos Numéricos II
+CAP,CAP339,Tópicos em Computação Aplicada I
+CAP,CAP340,Problemas Inversos
+CAP,CAP341,Tópicos em Computação Aplicada II
+CAP,CAP342,Modelagem e Simulação de Sistemas Terrestres I
+CAP,CAP343,Computação Gráfica II
+CAP,CAP344,Algoritmos e Estruturas de Dados
+CAP,CAP345,Sistemas Distribuídos
+CAP,CAP346,Segurança de Redes e Sistemas de Informação II
+CAP,CAP347,Processamento de Alto Desempenho II
+CAP,CAP348,Neurocomputação
+CAP,CAP349,Banco de Dados Geográficos
+CAP,CAP350,Autômata e Linguagens Formais
+CAP,CAP351,Neurocomputação
+CAP,CAP352,Especificação e Análise de Sistemas Complexos
+CAP,CAP353,Aplicações Baseadas em Hiperdocumentos
+CAP,CAP354,Inteligência Artificial
+CAP,CAP355,Processamento de Imagens por Computador
+CAP,CAP356,Técnicas de Desenvolvimento de Software
+CAP,CAP357,Sistema de Tempo Real
+CAP,CAP358,Técnicas de Desenvolvimento de Software
+CAP,CAP359,Princípios e Aplicações de Mineração de Dados
+CAP,CAP360,Tópicos Avançados em Segurança de Sistemas de Informação
+CAP,CAP361,Especificação e Análise de Sistemas Complexos
+CAP,CAP362,Sistemas Estocásticos
+CAP,CAP363,Teoria de Estimação
+CAP,CAP364,Sistemas Caóticos II
+CAP,CAP365,Paradigmas e Ferramentas de Desenvolvimento de Software
+CAP,CAP366,Segurança de Redes e Sistemas de Informação
+CAP,CAP367,Gestão e Simulação de Processos
+CAP,CAP368,Introdução à Teoria de Sistemas Dinâmicos
+CAP,CAP369,Testes de Software Baseado em Modelo
+CAP,CAP370,Computação Aplicada à Física Ambiental
+CAP,CAP372,Processamento de Alto Desempenho
+CAP,CAP373,Processamento e Análise de Imagens de Radar
+CAP,CAP374,Introdução a Analise de Wavelet
+CAP,CAP375,Inteligência Computacional e Aplicações
+CAP,CAP376,Modelagem e Simulação de Sistemas Terrestres II
+CAP,CAP377,Aplicações e Programação Orientada a Objetos
+CAP,CAP378,Tópicos em Observação da Terra
+CAP,CAP379,Tópicos em Ciências Espaciais
+CAP,CAP381,"Redes Complexas, Dinâmica e Aplicações"
+CAP,CAP382,Tópicos em Tecnologias Espaciais
+CAP,CAP383,Matemática Computacional III
+CAP,CAP384,Análise Wavelet I
+CAP,CAP385,Desenvolvimento de Frameworks
+CAP,CAP386,Tópicos Especiais em Computação Aplicada I
+CAP,CAP387,Tópicos Especiais em Computação Aplicada II
+CAP,CAP388,Tópicos Especiais em Computação Aplicada III
+CAP,CAP389,Projeto Ágil de Software
+CAP,CAP390,Fundamentos de Programação Estruturada
+CAP,CAP391,Verificação Formal de Software
+CAP,CAP392,Padrões de Projeto
+CAP,CAP393,Model Checking Probabilístico
+CAP,CAP394,Introdução à Ciência de Dados
+CAP,CAP395,Geoinformática
+CAP,CAP396,Construção de Aplicações para Sistemas Massivamente Paralelos
+CAP,CAP398,Modelagem e Aplicações de Sistemas Reativos Complexos
+CAP,CAP399,Programação de Sistemas Massivamente Paralelos
+CAP,CAP400,Visualização e Análise Computacional de Séries Temporais
+CAP,CAP401,Métodos em Otimização
+CAP,CAP404,Aspectos Algébricos do Processamento Digital de Imagens
+CAP,CAP405,Análise de Padrões em Sistemas Dinâmicos Complexos
+CAP,CAP406,Análise de Wavelet II
+CAP,CAP408,Computação Aplicada às Ciências Atmosféricas
+CAP,CAP411,Visão Computacional I
+CAP,CAP412,Processamento Digital de Sinais Multidimencionais
+CAP,CAP413,Campos Aleat. Markov em Processamento de Imagens
+CAP,CAP417,Estatística Computacional
+CAP,CAP418,Métodos Numéricos I
+CAP,CAP419,Introdução à Programação com Dados Geoespaciais
+CAP,CAP420,Métodos Numéricos II
+CAP,CAP421,Aprendizado Profundo
+CAP,CAP422,Física Matemática Computacional
+CAP,CAP423,Ciência de Dados Geoespaciais
+CAP,CAP424,Lógica Nebulosa
+CAP,CAP425,Tópicos Avançados em Modelagem Ambiental
+CAP,CAP452,Tópicos Especiais em Engenharia de Software
+CAP,CAP455,Tóp. Espec. em Proc. e Rec. de Imagens
+CAP,CAP456,Tópicos em Representação de Conhecimento
+CAP,CAP457,Tópicos Especiais em Inteligência Artificial
+CAP,CAP458,Caracterização de Padrões em Sistemas Complexos
+CAP,CAP459,Tópicos Avançados de Processamento de Alto Desempenho
+CAP,CAP460,Ótica Computacional
+CAP,CAP465,Modelagem e Simulação de Sistemas Terrestres
+CAP,CAP466,Modelagem e Simulação de Sistemas Terrestres
+CAP,CAP469,Tópicos Avançados de Processamento de Alto Desempenho
+CAP,CAP501,Seminários em Computação Aplicada I
+CAP,CAP502,Seminários em Computação Aplicada II
+CAP,CAP503,Seminários em Computação Científica I
+CAP,CAP504,Seminários em Computação Científica II
+CAP,CAP511,Extensão em Computação Aplicada e Tecnologias Digitais I
+CAP,CAP592,Tópicos em Sistema de Tempo Real
+CAP,CAP598,"Tópicos em Simulação Digital, Analógico e Híbrida"
+CAP,CAP730,Pesquisa de Mestrado em Computação Aplicada
+CAP,CAP750,Dissertação de Mestrado
+CAP,CAP780,Pesquisa de Doutorado em Computação Aplicada
+CAP,CAP800,Tese de Doutorado
+CMC,CMC200,Introdução à Mecânica Celeste
+CMC,CMC201,Teoria de Controle
+CMC,CMC202,Movimento de um Sólido
+CMC,CMC204,Otimização em Sistemas Dinâmicos I
+CMC,CMC205,Mecânica Analítica
+CMC,CMC209,Controle Adaptativo I
+CMC,CMC214,Satélites Artificiais: Constelações e Detritos Espaciais
+CMC,CMC224,Otimização Multiobjetivo
+CMC,CMC300,Mecânica Celeste I
+CMC,CMC303,Satélites Artificiais - Movimento Orbital
+CMC,CMC309,Mecânica Celeste II
+CMC,CMC311,Projeto de Sistemas de Controle Multivariáveis I
+CMC,CMC313,Otimização Estrutural
+CMC,CMC324,Otimização Evolutiva
+CMC,CMC325,Teoria de Visualização Gráfica Tridimensional I: Algoritmos Interativos
+CMC,CMC327,Introdução à Programação Gráfica com Open GI
+CMC,CMC329,Int. à Lóg. Fuzzy Aplic. a Sist. de Cont. Modelagem e Sist. de Suporte à Decisão
+CMC,CMC330,"Sist. Cont. Difuso (Fuzzy) Avançado: Proj., Análise de Estabilidade e Otimização"
+CMC,CMC780,Pesquisa de Doutorado em ETE/CMC
+CMP,CMP100,Introdução a Computação Digital
+CMP,CMP500,Seminário
+CMS,CMS200,Ciência dos Materiais I
+CMS,CMS322,Transferência de Calor e Massa
+CMS,CMS347,Introduction to Radiometry
+CNT,CNT001,Teoria de Sistemas Lineares
+CSE,CSE200,Introdução à Tecnologia de Satélites
+CSE,CSE204,Engenharia de Requisitos
+CSE,CSE206,Introdução a Redes de Dados Espaciais
+CSE,CSE307,Modelagem e Simulação de Sistemas Discretos
+CSE,CSE309,Processo de Desenvolvimento de Software
+CSE,CSE310,Engenharia de Software: Desenvolvimento e Gestão
+CSE,CSE333,Eng. da Inovação-da Identificação de Oportunidade a Proposição de um Projeto
+CSE,CSE337,Otimização de Projeto Multidisciplinar
+CSE,CSE339,"Montagem, Integração e Testes de Sistemas Espaciais"
+CST,CST305,Introdução à Modelagem do Sistema Terrestre
+CST,CST311,Metodologia de Pesquisa Cientifica
+CST,CST317,Introdução à Modelagem do Sistema Terrestre
+CST,CST318,Processos Hidrológicos
+CST,CST319,Modelagem Hidrológica
+CST,CST320,Interações Biosfera-Atmosfera
+CXX,CXX001,Computação I
+ECO,ECO513,Seminário sobre Transformadas
+EPB,EPB200,Estudos de Problemas Brasileiros
+EST,EST200,Probabilidade e Processos Estocásticos
+EST,EST210,Teoria da Decisão Estatística
+EST,EST220,Inferência Estatística
+ETD,ETD008,Estágio Docência de Mestrado
+ETD,ETD009,Estágio Docência de Doutorado
+ETD,ETD010,Estágio Docência de Doutorado
+EXI,EXI001,Exame Integrado de Mestrado
+EXI,EXI002,Exame Integrado de Doutorado
+EXL,EXL001,Exame de língua estrangeira - Português - Inglês
+EXL,EXL002,Exame de língua estrangeira: Inglês
+EXL,EXL003,Exame de língua estrangeira: Francês
+EXL,EXL004,Exame de língua estrangeira: Alemão
+EXL,EXL005,Exame de língua estrangeira: Espanhol
+EXL,EXL006,Exame de língua estrangeira: Italiano
+EXP,EXP001,Exame de Proposta de Dissertação
+EXP,EXP002,Exame de Proposta de Tese
+EXQ,EXQ001,Avaliação do Exame de Qualificação
+EXT,EXT001,Créditos aceitos para o Doutorado
+EXT,EXT002,Créditos aceitos para o Doutorado
+EXT,EXT003,Créditos Aceitos para o Doutorado
+FXX,FXX002,Teoria das Probabilidades e Processos Estocasticos
+FXX,FXX004,Análise Linear
+GES,GES200,GEOFÍSICA ESPACIAL
+GES,GES204,Física de Plasma I
+GES,GES205,Eletrodinâmica I
+GES,GES207,MÉTODOS MATEMÁTICOS DA FÍSICA I
+GES,GES300,Física Solar-Terrestre
+GES,GES412,Tópicos Especiais em Ionosfera
+GES,GES414,Tópicos Especiais em Magnetosfera-Heliosfera
+MAT,MAT204,Álgebra Linear e Teoria de Matrizes
+MAT,MAT207,Probabilidade
+MAT,MAT217,Métodos Matemáticos
+MAT,MAT218,Introdução a Teoria da Probabilidade
+MAT,MAT230,Lógica e Metodologia da Ciência
+MAT,MAT309,Inferência Estatística
+MAT,MAT312,Funções da Física Matemática
+MET,MET213,Física da Atmosfera
+MET,MET235,Radiação Atmosférica
+MET,MET311,Estatística Aplicada à Meteorologia
+MET,MET343,Sensoriamento Remoto da Atmosfera
+MET,MET348,Previsão Numérica de Tempo e Clima
+MET,MET564,Sensoriamento Remoto da Atmosfera
+OPD,OPD001,Orientação para Publicação Digital no INPE
+OPP,OPP001,Orientação para Pesquisa e Publicação Digital no INPE
+SEE,SEE001,Seminário de Editoração Eletrônica
+SER,SER200,Estatística: Aplicação ao Sensoriamento Remoto
+SER,SER202,Estatística: Aplicação ao Sensoriamento Remoto
+SER,SER203,Estatística: Aplicação ao Sensoriamento Remoto I
+SER,SER204,Estatística Aplicada ao Sensoriamento Remoto
+SER,SER205,Introdução ao Sensoriamento Remoto
+SER,SER212,Metodologia da Pesquisa Científica
+SER,SER214,Estatística: Aplicação ao Sensoriamento Remoto
+SER,SER216,Introdução aos Sensores Remotos
+SER,SER217,Noções Básicas de Estatística para Sensoriamento Remoto
+SER,SER300,Introdução ao Geoprocessamento
+SER,SER301,Análise Espacial
+SER,SER303,Banco de Dados Geográficos
+SER,SER304,Interpretação de Imagens
+SER,SER305,Processamento de Imagens de Radar
+SER,SER306,Sensoriamento Remoto Infravermelho Térmico e Microondas
+SER,SER308,Comportamento Espectral de Alvos
+SER,SER310,Geoprocessamento I
+SER,SER311,Sensoriamento Remoto do Clima
+SER,SER313,Hidrologia de Florestas
+SER,SER319,Sensoriamento Remoto Hiperespectral
+SER,SER323,Métodos Estatísticos Multivariados e Aplicações ao Sensoriamento Remoto
+SER,SER329,Métodos Estatísticos Multivariados e Algumas Aplicações ao Sensoriamento Remoto
+SER,SER330,Interpretação de Imagens
+SER,SER332,Radar Imageador: Princípios e Aplicações
+SER,SER335,Comportamento Espectral de Alvos
+SER,SER336,Modelagem Dinâmica Espacial
+SER,SER340,Sensoriamento Remoto dos Oceanos
+SER,SER343,Estatística: Aplicação ao Sensoriamento Remoto II
+SER,SER345,Geoprocessamento II
+SER,SER346,Estatística: Aplicação ao Sensoriamento Remoto III
+SER,SER347,Introdução à Programação para Sensoriamento Remoto
+SER,SER403,"Mudanças Globais: Princípios, Processos e Modelagem"
+SER,SER406,Sensoriamento Remoto Agrícola
+SER,SER410,Processamento de Imagens SAR
+SER,SER411,Tópicos Avançados em Processamento de Imagens
+SER,SER413,Processamento Digital de Imagens de Sensores Remotos
+SER,SER415,Detecção e Análise de Padrões de Mudanças de Uso e Cobertura da Terra
+SER,SER437,Processamento Digital de Imagens de Sensores Remotos
+SER,SER438,Tópicos Avançados em Processamento de Imagens
+SER,SER455,Tópicos Especiais em Florestas: Fitogeografia e Aplic. de Sensoriamento Remoto
+SER,SER459,Tópicos Avançados em Florestas
+TRC,TRC001,Trancamento de Matrícula
+TRC,TRC002,Trancamento de Matrícula
+TRC,TRC003,Trancamento de Matrícula
+TRC,TRC004,Trancamento de Matrícula

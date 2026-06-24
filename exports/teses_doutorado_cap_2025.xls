@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <Styles>
+  <Style ss:ID="sHeader"><Font ss:Bold="1"/></Style>
+  <Style ss:ID="sDate"><NumberFormat ss:Format="dd/mm/yyyy"/></Style>
+ </Styles>
+ <Worksheet ss:Name="Teses2025">
+  <Table>
+   <Row>
+    <Cell ss:StyleID="sHeader"><Data ss:Type="String">REG_ALUNO</Data></Cell>
+    <Cell ss:StyleID="sHeader"><Data ss:Type="String">DATA_DEFESA</Data></Cell>
+    <Cell ss:StyleID="sHeader"><Data ss:Type="String">NOME_ALUNO</Data></Cell>
+    <Cell ss:StyleID="sHeader"><Data ss:Type="String">TITULO_TESE</Data></Cell>
+    <Cell ss:StyleID="sHeader"><Data ss:Type="String">ORIENTADOR_ACADEM</Data></Cell>
+    <Cell ss:StyleID="sHeader"><Data ss:Type="String">ORIENTADOR_PESQ1</Data></Cell>
+    <Cell ss:StyleID="sHeader"><Data ss:Type="String">ORIENTADOR_PESQ2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">1135652020</Data></Cell>
+    <Cell ss:StyleID="sDate"><Data ss:Type="DateTime">2025-05-07T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Fernando de Oliveira Pereira</Data></Cell>
+    <Cell><Data ss:Type="String">A Transparent Polyglot Persistence Layer Approach To Accessing Different Types of Databases</Data></Cell>
+    <Cell><Data ss:Type="String">Rafael Duarte Coelho dos Santos</Data></Cell>
+    <Cell><Data ss:Type="String">Reinaldo Roberto Rosa</Data></Cell>
+    <Cell><Data ss:Type="String">Eduardo Martins Guerra</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">9667162020</Data></Cell>
+    <Cell ss:StyleID="sDate"><Data ss:Type="DateTime">2025-05-09T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Leonardo Sattler Cassará</Data></Cell>
+    <Cell><Data ss:Type="String">Implementation and Discussion of Divergence Cleaning and the Hall Effect in the Magnetohydrodynamics Solver of the AMROC Framework for Space Plasma Applications</Data></Cell>
+    <Cell><Data ss:Type="String">Rafael Duarte Coelho dos Santos</Data></Cell>
+    <Cell><Data ss:Type="String">Margarete Oliveira Domingues</Data></Cell>
+    <Cell><Data ss:Type="String">Odim Mendes Júnior</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">6808422022</Data></Cell>
+    <Cell ss:StyleID="sDate"><Data ss:Type="DateTime">2025-09-26T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Jaqueline Aparecida Jorge Papini Soares</Data></Cell>
+    <Cell><Data ss:Type="String">UNCERTAINTY PROPAGATION ANALYSIS FOR HYDROLOGICAL NOWCASTING USING ARTIFICIAL INTELLIGENCE</Data></Cell>
+    <Cell><Data ss:Type="String">Rafael Duarte Coelho dos Santos</Data></Cell>
+    <Cell><Data ss:Type="String">Leonardo Bacelar Lima Santos</Data></Cell>
+    <Cell><Data ss:Type="String">Stephan Stephany</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2815122021</Data></Cell>
+    <Cell ss:StyleID="sDate"><Data ss:Type="DateTime">2025-11-18T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Catia Souza Do Nascimento Sepetauskas</Data></Cell>
+    <Cell><Data ss:Type="String">Spatial Networks of Dengue and Mobility: Community Structure and Intraurban Dynamics</Data></Cell>
+    <Cell><Data ss:Type="String">Rafael Duarte Coelho dos Santos</Data></Cell>
+    <Cell><Data ss:Type="String">Leonardo Bacelar Lima Santos</Data></Cell>
+    <Cell><Data ss:Type="String">Hugo Saba Pereira Cardoso</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">1580032021</Data></Cell>
+    <Cell ss:StyleID="sDate"><Data ss:Type="DateTime">2025-12-17T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Vinicius Schmidt Monego</Data></Cell>
+    <Cell><Data ss:Type="String">A Machine Learning Approach for Precipitation Forecasting and Uncertainty Quantification </Data></Cell>
+    <Cell><Data ss:Type="String">Rafael Duarte Coelho dos Santos</Data></Cell>
+    <Cell><Data ss:Type="String">Juliana Aparecida Anochi</Data></Cell>
+    <Cell><Data ss:Type="String">Elcio Hideiti Shiguemori</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">7812152021</Data></Cell>
+    <Cell ss:StyleID="sDate"><Data ss:Type="DateTime">2025-12-19T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Helvecio Bezerra Leal Neto</Data></Cell>
+    <Cell><Data ss:Type="String">pyForTraCC: A Modular and Scalable Tracking Algorithm Applied to Global Precipitation</Data></Cell>
+    <Cell><Data ss:Type="String">Rafael Duarte Coelho dos Santos</Data></Cell>
+    <Cell><Data ss:Type="String">Alan James Peixoto  Calheiros</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+ </Worksheet>
+</Workbook>

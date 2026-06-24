@@ -29,6 +29,10 @@
     "#ffc48e",
     "#9bb0ce",
   ];
+  const PUBLICATION_COLORS = {
+    withStudents: "#18e0ff",
+    withoutStudents: "#ff8a00",
+  };
 
   function setStatus(message, isError) {
     if (!statusEl) return;
@@ -160,20 +164,6 @@
     return axis;
   }
 
-  function sparseTicks(years, maxTicks) {
-    if (!Array.isArray(years) || years.length === 0) return [];
-    if (years.length <= maxTicks) return years;
-
-    const ticks = [];
-    const step = Math.max(1, Math.ceil((years.length - 1) / (maxTicks - 1)));
-    for (let i = 0; i < years.length; i += step) {
-      ticks.push(years[i]);
-    }
-    const last = years[years.length - 1];
-    if (ticks[ticks.length - 1] !== last) ticks.push(last);
-    return ticks;
-  }
-
   function aggregateByYear(rows, yearAxis) {
     const withFlagByYear = new Map();
     const withoutFlagByYear = new Map();
@@ -252,40 +242,6 @@
     return Math.max(10, Math.ceil(padded / 10) * 10);
   }
 
-  function hexToRgb(hex) {
-    const text = String(hex || "").trim();
-    const match = text.match(/^#([0-9a-f]{6})$/i);
-    if (!match) return null;
-    const value = match[1];
-    return {
-      r: Number.parseInt(value.slice(0, 2), 16),
-      g: Number.parseInt(value.slice(2, 4), 16),
-      b: Number.parseInt(value.slice(4, 6), 16),
-    };
-  }
-
-  function rgbToHex(r, g, b) {
-    const toHex = (value) => value.toString(16).padStart(2, "0");
-    return `#${toHex(r)}${toHex(g)}${toHex(b)}`;
-  }
-
-  function blendColors(hexA, hexB, t) {
-    const a = hexToRgb(hexA);
-    const b = hexToRgb(hexB);
-    if (!a || !b) return hexA;
-
-    const mix = (v1, v2) => Math.round(v1 * (1 - t) + v2 * t);
-    return rgbToHex(mix(a.r, b.r), mix(a.g, b.g), mix(a.b, b.b));
-  }
-
-  function lightenColor(hex, factor) {
-    const rgb = hexToRgb(hex);
-    if (!rgb) return "#c8d5e8";
-    const blend = (value) =>
-      Math.max(0, Math.min(255, Math.round(value + (255 - value) * factor)));
-    return rgbToHex(blend(rgb.r), blend(rgb.g), blend(rgb.b));
-  }
-
   function plotConfig(filename) {
     return {
       ...PLOTLY_CONFIG_BASE,
@@ -341,7 +297,7 @@
         name: "Com egressos ou discentes",
         x: yearAxis,
         y: aggregated.withFlag,
-        marker: { color: "#4ec9f5" },
+        marker: { color: PUBLICATION_COLORS.withStudents },
         hovertemplate:
           "Ano: %{x}<br>Artigos com egressos/discentes: %{y}<extra></extra>",
       },
@@ -350,7 +306,7 @@
         name: "Sem egressos ou discentes",
         x: yearAxis,
         y: aggregated.withoutFlag,
-        marker: { color: "#889ab8" },
+        marker: { color: PUBLICATION_COLORS.withoutStudents },
         hovertemplate:
           "Ano: %{x}<br>Artigos sem egressos/discentes: %{y}<extra></extra>",
       },
@@ -402,17 +358,14 @@
     if (!miniGridEl) return;
     miniGridEl.innerHTML = "";
     const sharedYMax = sharedProgramYAxisMax(rows, yearAxis, programCatalog);
-    const miniTickVals = sparseTicks(yearAxis, 6);
 
     programCatalog.forEach((program) => {
       const chartId = `producao-mini-${program.sigla.toLowerCase()}`;
       createMiniChartHolder(miniGridEl, program.sigla, chartId);
 
       const series = buildProgramFlagSeries(rows, yearAxis, program.code);
-      const baseColor = program.color || "#9bb0ce";
-      // Tons mais suaves para reduzir saturação visual nos mini gráficos.
-      const colorFalse = blendColors(baseColor, "#dbe7ff", 0.42);
-      const colorTrue = lightenColor(blendColors(baseColor, "#eaf2ff", 0.55), 0.22);
+      const colorFalse = PUBLICATION_COLORS.withoutStudents;
+      const colorTrue = PUBLICATION_COLORS.withStudents;
       const percent = buildPercentLabels(series.yWith, series.yWithout);
       const textY = percent.totals.map((total) => total + sharedYMax * 0.02);
 
@@ -444,22 +397,12 @@
           y: textY,
           text: percent.labels,
           textposition: "top center",
-          textfont: { size: 9, color: "#dbe7ff" },
+          textfont: { size: 12, color: "#dbe7ff" },
           cliponaxis: false,
         },
       ];
 
       const layout = baseLayout({ legend: false });
-      layout.margin = { l: 28, r: 8, t: 14, b: 34 };
-      layout.xaxis.tickfont = { size: 10 };
-      layout.xaxis.tickangle = -35;
-      layout.xaxis.tickmode = "array";
-      layout.xaxis.tickvals = miniTickVals;
-      layout.xaxis.ticktext = miniTickVals;
-      layout.yaxis.tickfont = { size: 10 };
-      layout.yaxis.tickmode = "linear";
-      layout.yaxis.tick0 = 0;
-      layout.yaxis.dtick = sharedYMax <= 30 ? 5 : 10;
       layout.yaxis.range = [0, sharedYMax * 1.12];
 
       window.Plotly.newPlot(

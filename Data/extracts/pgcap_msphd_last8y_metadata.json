@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-04-29T08:12:13.135323",
+  "as_of_date": "2026-04-29",
+  "cutoff_date": "2018-04-29",
+  "source_mdb": "/Users/rafael/Library/CloudStorage/Dropbox/Code/ProjetosINPE/DadosPGINPE/RawData/Academxp20260407.mdb",
+  "levels_included": [
+    "Mestrado",
+    "Doutorado"
+  ],
+  "students_count": 201,
+  "students_by_level": {
+    "Doutorado": 88,
+    "Mestrado": 113
+  },
+  "academic_records_count": 2759,
+  "focus_filter": [
+    "estudo dirigido",
+    "estudo orientado"
+  ],
+  "focus_records_count": 0,
+  "focus_records_by_level": {},
+  "focus_unique_courses": [],
+  "students_output": "/Users/rafael/Library/CloudStorage/Dropbox/Code/ProjetosINPE/DadosPGINPE/Data/extracts/pgcap_msphd_last8y_students.csv",
+  "records_output": "/Users/rafael/Library/CloudStorage/Dropbox/Code/ProjetosINPE/DadosPGINPE/Data/extracts/pgcap_msphd_last8y_academic_records.csv",
+  "focus_output": "/Users/rafael/Library/CloudStorage/Dropbox/Code/ProjetosINPE/DadosPGINPE/Data/extracts/pgcap_msphd_last8y_estudo_dirigido_orientado.csv"
+}

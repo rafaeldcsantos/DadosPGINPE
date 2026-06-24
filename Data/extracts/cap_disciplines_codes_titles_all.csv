@@ -1,0 +1,203 @@
+sigla_mat,nome_mat,first_period,last_period,title_variants,rows_for_canonical_title
+CAP103,Tópicos Básicos em Computação,199401,199501,1,2
+CAP104,Fundamentos de Organização de Computadores,199501,199702,1,3
+CAP105,Fundamentos de Sistemas Operacionais e Redes,199502,199703,1,2
+CAP106,Fundamentos de Autômatos e Linguagens Formais,199503,199503,1,1
+CAP107,"Fundamentos de Autômatas, Linguagens Formais e Computabilidade",199603,199603,1,1
+CAP200,Matemática Concreta e Estrutura Algébricas,200501,200801,2,4
+CAP201,Introdução à Lógica,198402,198602,1,3
+CAP202,Introdução à Rede de Computadores,198501,198501,1,1
+CAP203,Programação Estruturada,198502,198502,1,1
+CAP204,Estrutura e Algoritmos,199001,199701,4,8
+CAP205,Engenharia de Software,199001,200501,1,16
+CAP206,Elementos Finitos,199001,199001,1,1
+CAP207,Lógica,199001,199301,1,4
+CAP208,Sistemas de Banco de Dados,199102,200002,2,9
+CAP209,Elementos de Lógica para Inteligência Artificial,199102,199102,1,1
+CAP210,Lógicas não Clássicas para Inteligência Artificial,199202,199401,1,2
+CAP211,Processamento de Alto Desempenho I,199901,200001,3,2
+CAP212,Estrutura de Dados,198201,198601,1,4
+CAP213,Lógica para Inteligência Artificial,199401,199802,2,5
+CAP214,Métodos Numéricos I,200001,200901,1,10
+CAP215,Organização de Computadores I,198601,198601,1,1
+CAP216,Linguagens de Programação para Inteligência Artificial,198601,198601,1,1
+CAP217,Processamento Digital de Sinais,199001,200003,1,8
+CAP218,Processos Estocásticos,199001,200502,1,17
+CAP219,Programação Matemática,199202,199202,1,1
+CAP220,Métodos em Otimização,199301,199901,1,7
+CAP221,Cálculo Numérico,199401,199701,1,5
+CAP222,Fundamentos da Teoria dos Conjuntos Nebulosos e da Teoria de Possibilidades,199403,200702,2,9
+CAP223,Estrutura e Algoritmos,200002,200602,1,7
+CAP224,Processamento Digital de Imagens,200002,201502,1,15
+CAP225,Processamento de Alto Desempenho I,200101,200601,1,6
+CAP226,Física Estatística Computacional,199702,199902,1,3
+CAP227,Segurança de Redes e Sistemas de Informação I,200102,200602,2,5
+CAP228,"Linguagens Formais, Autômatos e Construção de Compiladores",200201,200801,1,7
+CAP229,Sistemas Operacionais,200201,200401,2,3
+CAP230,Computação Gráfica I,200302,200502,1,3
+CAP231,Processos Estocásticos,200601,200902,1,4
+CAP232,Matemática Computacional I,201001,201501,1,6
+CAP233,Estruturas e Algoritmos,200802,200802,2,1
+CAP234,Computação Aplicada I,201001,201501,1,6
+CAP235,Matemática Computacional II,201002,201702,1,8
+CAP236,Computação Aplicada II,201002,201503,1,6
+CAP237,Sistemas Caóticos,201202,202403,1,6
+CAP238,e-Infraestruturas para Ciência e Engenharia,201401,201401,1,1
+CAP239,Matemática Computacional I,201601,202001,1,5
+CAP240,Processamento Digital de Imagens,201602,202003,1,6
+CAP241,Computação Aplicada I,201601,202001,1,5
+CAP242,Metodologia Científica em Computação Aplicada,201901,202601,1,8
+CAP250,Álgebra para a Ciência da Computação,197901,198703,1,5
+CAP251,Álgebra para a Ciência da Computação,198501,198601,1,2
+CAP252,Computação Gráfica I,199002,200202,1,11
+CAP253,Inteligência Artificial I,199002,200201,1,12
+CAP254,Otimização Combinatória,199002,201703,1,26
+CAP255,Simulação de Sistemas,199002,199303,1,4
+CAP256,Redes de Computadores,199002,199103,1,2
+CAP257,Inteligência Artificial I,199501,199501,1,1
+CAP258,Redes de Comunicação de Dados,199202,200601,1,12
+CAP259,Simulação de Sistemas,199602,200501,1,11
+CAP260,Sistemas Caóticos I,199902,201103,3,10
+CAP300,Compiladores: Técnicas e Construção,198501,198701,1,3
+CAP301,Tópicos Especiais em Computação Aplicada,199703,199703,1,1
+CAP302,Gráficos por Computador,198403,198802,1,3
+CAP303,Programação de Sistemas,198401,198601,1,3
+CAP304,Introdução à Inteligência Artificial,198402,198602,1,3
+CAP305,Análise de Algoritmos,198503,198602,1,2
+CAP306,Métodos Numéricos I,199801,199901,1,2
+CAP307,Introdução a Dinâmica Não-Linear Computacional,199802,199802,1,1
+CAP308,Computação Gráfica II,199203,199503,1,6
+CAP309,Inteligência Artificial II,199003,200203,1,9
+CAP310,Sistemas Operacionais,198203,198503,1,3
+CAP311,Física Matemática,199503,199901,1,3
+CAP312,Programação de Redes de Computadores,199902,200602,1,8
+CAP313,Bases de Morfologia Matemática para Análise de Imagens,199103,199503,1,5
+CAP314,Neurocomputação,199103,200001,1,7
+CAP315,Processamento de Alto Desempenho II,199902,200002,2,2
+CAP316,Sistemas de Banco de Dados,198203,198602,1,4
+CAP317,O Processamento de Linguagem Natural na Interação Homem-Máquina,199303,199602,1,4
+CAP318,Metodologias Orientadas a Objetos,199303,200402,5,9
+CAP319,Redes Neurais em Controle de Sistemas,199303,200603,1,4
+CAP320,Análise Numérica I,199502,199702,1,3
+CAP321,Visualização Científica,199403,199403,1,1
+CAP322,Mecânica dos Fluidos Computacional,200003,200503,3,6
+CAP323,Fenômenos de Transporte Computacional,199503,200602,1,12
+CAP324,Bases da Morfologia Matemática para Análise de Imagens,199903,200403,3,6
+CAP325,Tópicos Avançados em Simulação de Sistemas,199603,199903,1,2
+CAP326,Tópicos em Engenharia de Software,199903,200403,1,6
+CAP327,Tópicos Avançados em Simulação de Sistemas,200003,200503,1,4
+CAP328,Teoria do Controle Inteligente,199903,202003,2,17
+CAP329,Análise e Simulação de Materiais Semicondutores,200203,200203,1,1
+CAP330,Física Estatística Computacional,200002,200902,1,8
+CAP331,Física Matemática,200001,202002,1,19
+CAP332,Reconhecimento Estatístico de Padrões,197902,198603,1,6
+CAP333,Processamento Digital de Imagens,199003,199402,1,5
+CAP334,Processamento Paralelo,199003,199703,1,5
+CAP335,Aprendizado Computacional e Reconhecimento de Padrões,200702,202601,4,13
+CAP336,Análise Numérica II,199503,199503,1,1
+CAP337,Processamento Digital de Imagens,199502,199902,1,5
+CAP338,Métodos Numéricos II,199803,200902,1,12
+CAP339,Tópicos em Computação Aplicada I,200201,200501,2,4
+CAP340,Problemas Inversos,199803,202503,2,28
+CAP341,Tópicos em Computação Aplicada II,200302,200503,2,2
+CAP342,Modelagem e Simulação de Sistemas Terrestres I,200803,201702,4,8
+CAP343,Computação Gráfica II,200103,200503,1,5
+CAP344,Algoritmos e Estruturas de Dados,200901,200901,1,1
+CAP345,Sistemas Distribuídos,200201,200503,2,4
+CAP346,Segurança de Redes e Sistemas de Informação II,200103,200603,2,5
+CAP347,Processamento de Alto Desempenho II,200102,200602,1,6
+CAP348,Neurocomputação,200101,200101,1,1
+CAP349,Banco de Dados Geográficos,200103,202201,2,18
+CAP350,Autômata e Linguagens Formais,198402,198602,1,3
+CAP351,Neurocomputação,200201,202601,1,24
+CAP352,Especificação e Análise de Sistemas Complexos,200202,200502,1,3
+CAP353,Aplicações Baseadas em Hiperdocumentos,200203,201003,2,6
+CAP354,Inteligência Artificial,200301,202501,1,23
+CAP355,Processamento de Imagens por Computador,197903,198602,1,5
+CAP356,Técnicas de Desenvolvimento de Software,198403,198503,1,2
+CAP357,Sistema de Tempo Real,198502,198502,1,1
+CAP358,Técnicas de Desenvolvimento de Software,198603,198603,1,1
+CAP359,Princípios e Aplicações de Mineração de Dados,200501,201903,1,12
+CAP360,Tópicos Avançados em Segurança de Sistemas de Informação,200501,200501,1,1
+CAP361,Especificação e Análise de Sistemas Complexos,200601,201802,4,10
+CAP362,Sistemas Estocásticos,199003,201503,1,25
+CAP363,Teoria de Estimação,199901,200301,2,5
+CAP364,Sistemas Caóticos II,199903,200703,2,6
+CAP365,Paradigmas e Ferramentas de Desenvolvimento de Software,199903,200703,1,9
+CAP366,Segurança de Rede e Sistemas de Informação,200002,200002,2,1
+CAP367,Gestão e Simulação de Processos,200702,200702,1,1
+CAP368,Introdução à Teoria de Sistemas Dinâmicos,200901,202601,2,17
+CAP369,Testes de Software Baseado em Modelo,200703,201702,2,9
+CAP370,Computação Aplicada à Física Ambiental,201002,202502,2,11
+CAP371,Teoria dos Grafos,198402,198402,1,1
+CAP372,Processamento de Alto Desempenho,200702,202401,1,17
+CAP373,Processamento e Análise de Imagens de Radar,200703,201903,1,13
+CAP374,Introdução à Análise de Wavelets,200903,200903,3,1
+CAP375,Inteligência Computacional e Aplicações,200703,202002,1,12
+CAP376,Modelagem e Simulação de Sistemas Terrestres II,200801,201301,2,5
+CAP377,Aplicações e Programação Orientada a Objetos,200801,201101,1,4
+CAP378,Tópicos em Observação da Terra,201001,202202,2,13
+CAP379,Tópicos em Ciências Espaciais,201202,202202,3,11
+CAP380,Física Espacial e Computaccional I,200902,200902,2,1
+CAP381,"Redes Complexas, Dinâmica e Aplicações",201403,202502,2,10
+CAP382,Tópicos em Tecnologias Espaciais,201302,202201,3,10
+CAP383,Matemática Computacional III,201002,202002,1,11
+CAP384,Análise Wavelet I,201003,202301,2,11
+CAP385,Desenvolvimento de Frameworks,201402,201902,1,5
+CAP386,Tópicos Especiais em Computação Aplicada I,201401,201703,1,5
+CAP387,Tópicos Especiais em Computação Aplicada II,201401,201703,1,5
+CAP388,Tópicos Especiais em Computação Aplicada III,201301,201803,2,8
+CAP389,Projeto Ágil de Software,201301,201803,1,6
+CAP390,Fundamentos de Programação Estruturada,201501,202001,1,6
+CAP391,Verificação Formal de Software,201502,201802,1,4
+CAP392,Padrões de Projeto,201601,201901,1,4
+CAP393,Model Checking Probabilístico,201703,202002,1,3
+CAP394,Introdução à Ciência de Dados,202102,202502,2,5
+CAP395,Geoinformática,201803,202601,1,9
+CAP396,Construção de Aplicações para Sistemas Massivamente Paralelos,201803,201803,1,1
+CAP398,Modelagem e Aplicações de Sistemas Reativos Complexos,201902,202502,1,7
+CAP399,Programação de Sistemas Massivamente Paralelos,201903,202402,1,6
+CAP400,Visualização e Análise Computacional de Séries Temporais,200303,202003,2,14
+CAP401,Métodos em Otimização,200001,201701,2,13
+CAP402,Organização e Recuperação de Informação,198402,198402,1,1
+CAP403,Visão Computacional,198401,198401,1,1
+CAP404,Aspectos Algébricos do Processamento Digital de Imagens,200001,200302,1,4
+CAP405,Análise de Padrões em Sistemas Dinâmicos Complexos,200003,200203,1,3
+CAP406,Análise de Wavelet II,201401,202201,3,7
+CAP407,Prova Automática de Teoremas,198403,198403,1,1
+CAP408,Computação Aplicada às Ciências Atmosféricas,201902,202503,1,7
+CAP409,Introdução à Sistemas de Aquisição de dados e Controle Periféricos,198702,198702,1,1
+CAP411,Visão Computacional I,199503,199503,1,1
+CAP412,Processamento Digital de Sinais Multidimencionais,199102,199302,1,3
+CAP413,Campos Aleat. Markov em Processamento de Imagens,199300,199300,1,1
+CAP417,Estatística Computacional,202101,202601,1,6
+CAP418,Métodos Numéricos I,202101,202601,1,6
+CAP419,Introdução à Programação com Dados Geoespaciais,202101,202601,1,6
+CAP420,Métodos Numéricos II,202102,202502,1,5
+CAP421,Aprendizado Profundo,202103,202503,1,6
+CAP422,Física Matemática Computacional,202103,202503,1,4
+CAP423,Ciência de Dados Geoespaciais,202103,202503,1,5
+CAP424,Lógica Nebulosa,202103,202503,1,4
+CAP425,Tópicos Avançados em Modelagem Ambiental,202103,202503,1,5
+CAP452,Tópicos Especiais em Engenharia de Software,198602,198702,1,2
+CAP453,Tópicos Especiais na Teoria da Computação,198401,198401,1,1
+CAP455,Tóp. Espec. em Proc. e Rec. de Imagens,198501,198702,2,3
+CAP456,Tópicos em Representação de Conhecimento,198403,199401,1,3
+CAP457,Tópicos Especiais em Inteligência Artificial,198503,198701,2,2
+CAP458,Caracterização de Padrões em Sistemas Complexos,199903,199903,1,1
+CAP459,Tópicos Avançados de Processamento de Alto Desempenho,199903,200003,1,2
+CAP460,Ótica Computacional,199903,202403,3,22
+CAP465,Modelagem e Simulação de Sistemas Terrestres,201802,202502,1,7
+CAP466,Modelagem e Simulação de Sistemas Terrestres,202302,202302,1,1
+CAP469,Tópicos Avançados de Processamento de Alto Desempenho,200103,200503,1,5
+CAP501,Seminários em Computação Aplicada I,199701,202601,7,76
+CAP502,Seminários em Computação Aplicada II,199602,202601,7,81
+CAP503,Seminários em Computação Científica I,199502,199502,1,1
+CAP504,Seminários em Computação Científica II,199503,199503,1,1
+CAP511,Extensão em Computação Aplicada e Tecnologias Digitais I,202601,202601,1,1
+CAP592,Tópicos em Sistema de Tempo Real,198601,198601,1,1
+CAP598,"Tópicos em Simulação Digital, Analógico e Híbrida",197403,197403,1,1
+CAP730,Pesquisa de Mestrado em Computação Aplicada,200001,202601,2,76
+CAP750,Dissertação de Mestrado,198903,202603,1,101
+CAP780,Pesquisa de Doutorado em Computação Aplicada,200001,202601,3,75
+CAP800,Tese de Doutorado,199001,202503,1,91

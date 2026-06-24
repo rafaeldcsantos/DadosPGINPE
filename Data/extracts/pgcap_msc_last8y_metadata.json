@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-04-29T07:51:43.022674",
+  "as_of_date": "2026-04-29",
+  "cutoff_date": "2018-04-29",
+  "source_mdb": "/Users/rafael/Library/CloudStorage/Dropbox/Code/ProjetosINPE/DadosPGINPE/RawData/Academxp20260407.mdb",
+  "students_count": 113,
+  "academic_records_count": 1313,
+  "students_output": "/Users/rafael/Library/CloudStorage/Dropbox/Code/ProjetosINPE/DadosPGINPE/Data/extracts/pgcap_msc_last8y_students.csv",
+  "records_output": "/Users/rafael/Library/CloudStorage/Dropbox/Code/ProjetosINPE/DadosPGINPE/Data/extracts/pgcap_msc_last8y_academic_records.csv"
+}
